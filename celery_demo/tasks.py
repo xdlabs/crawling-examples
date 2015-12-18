@@ -1,7 +1,7 @@
 from celery import Celery
 import settings
 
-app = Celery('tasks', broker='mongodb://localhost:27017/celery', backend='mongodb://localhost:27017/celery')
+app = Celery('demo', broker='mongodb://localhost:27017/celery', backend='mongodb://localhost:27017/celery')
 
 app.config_from_object(settings)
 
