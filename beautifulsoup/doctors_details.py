@@ -37,6 +37,32 @@ for div in soup.find_all('div', {'class': 'profile-container'}):
     experience = new_text[1]
     print "experience : ", experience
 
+
+div = soup.find('div', {'class': 'doc-info-section organizations-block'})
+exp = div.find('span', {'class': 'exp-tenure'})
+print "\t", re.sub('\s+', '', exp.text)
+exp1 = div.find('span', {'class': 'exp-details'})
+print "\t", re.sub('\s+', '', exp1.text)
+
+print "Education : "
+
+for div in soup.find_all('div', {'class': 'doc-info-section qualifications-block'}):
+    for p in div.find_all('p'):
+        print '\t', re.sub('\s+', '', p.text)
+
+
+div = soup.find('div', {'class': 'doc-info-section memberships-block'})
+for p in div.find('p'):
+    print "Memberships : ", re.sub('\s+', '', p)
+
+print "Registrations : "
+div = soup.find('div', {'class': 'doc-info-section registrations-block'})
+reg = div.find('span', {'class': 'exp-tenure'})
+print "\t", re.sub('\s+', '', reg.text)
+reg1 = div.find('span', {'class': 'exp-details'})
+print "\t", re.sub('\s+', '', reg1.text)
+
+
 timing_days = []
 timing_list = []
 fees_list = []
@@ -88,3 +114,4 @@ for div in soup.find_all('div', {'class': 'services-block'}):
         service_name = re.sub('\s+', '', service.text)
         print i, " : ", service_name
         i = i+1
+
