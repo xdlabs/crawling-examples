@@ -14,19 +14,21 @@ soup = BeautifulSoup(data, 'html.parser')
 for div in soup.find_all('div', {'class': 'location-container'}):
     span = div.find('span')
     city = span.string
-    print "city : ", re.sub('\s+', '', city)
+    print "CITY : ", re.sub('\s+', '', city)
 
 
 ######## clinic details
 
-for div in soup.find_all('div', {'class': 'profile-container'}):
-    #print "div : ", div
-    name = div.find('h1', itemprop="name")
+
+print "\n\t\tDOCTOR DETAILS\n"
+
+for name in soup.find('h1', itemprop="name"):
     print "name : ", re.sub('\s+', '', name.string)
 
-    qual = div.find('p', {'class': 'doctor-qualifications'})
+for qual in soup.find('p', {'class': 'doctor-qualifications'}):
     print "qualification : ", re.sub('\s+', '', qual.string)
 
+for div in soup.find_all('div', {'class': 'profile-container'}):
     h2 = div.find('h2')
     spec_exp = re.sub('\s+', '', h2.text)
     new_text = spec_exp.split(',')
@@ -35,21 +37,54 @@ for div in soup.find_all('div', {'class': 'profile-container'}):
     experience = new_text[1]
     print "experience : ", experience
 
-    clinic_locality = div.find('div', {'class': 'clinic-locality'})
-    print "clinic locality : ", re.sub('\s+', '', clinic_locality.text)
+timing_days = []
+timing_list = []
+fees_list = []
+clinic_location = []
 
-    clinic_detail = div.find('div', {'class': 'clinic-address'})
-    name = clinic_detail.find('h2')
-    print "clinic name : ", re.sub('\s+', '', name.text)
+for clinic_locality in soup.find_all('div', {'class': 'clinic-locality'}):
+    location = re.sub('\s+', '', clinic_locality.text)
+    clinic_location.append(location)
 
-    address = clinic_detail.find('p')
-    print "clinic address : ", re.sub('\s+', '', address.text)
+for days in soup.find_all('p', {'class': 'clinic-timings-day'}):
+    days = re.sub('\s+', '', days.text)
+    timing_days.append(days)
 
-    timing = div.find('div', {'class': 'clinic-timings'})
+for timing in soup.find_all('p', {'class': 'clinic-timings-session'}):
+    time = re.sub('\s+', '', timing.text)
+    timing_list.append(time)
 
-    timing_day = timing.find('p', {'class': 'clinic-timings-day'})
-    print "days : ", re.sub('\s+', '', timing_day.text)
+for fees in soup.find_all('div', {'class': 'clinic-fees'}):
+    span = fees.find('span').text
+    fees = re.sub('\s+', '', span)
+    fees_list.append(fees)
 
-    timing_session = timing.find('p', {'class': 'clinic-timings-session'})
-    print "timings : ", re.sub('\s+', '', timing_session.text)
+i = 0
 
+print "\n\n\t\tCLINIC DETAILS"
+
+for clinic in soup.find_all('div', 'clinic-address'):
+    print "\n"
+    for name in clinic.find_all('h2'):
+        print "clinic name : ", re.sub('\s+', '', name.text)
+
+    for address in clinic.find_all('p', itemprop="address"):
+        print "address : ", re.sub('\s+', '', address.text)
+
+    print "timings : ", timing_list[i]
+    print "days : ", timing_days[i]
+    print "fees : ", fees_list[i]
+    print "location : ", clinic_location[i]
+
+    i = i+1
+
+
+######## services
+
+print "\n\n\t SERVICES\n"
+i = 1
+for div in soup.find_all('div', {'class': 'services-block'}):
+    for service in div.find_all('div', {'class': 'service-cell'}):
+        service_name = re.sub('\s+', '', service.text)
+        print i, " : ", service_name
+        i = i+1
