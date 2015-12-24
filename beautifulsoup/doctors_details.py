@@ -1,6 +1,4 @@
 from bs4 import BeautifulSoup
-import re
-
 
 filename = "page.html"
 with open(filename, "rb") as f:
@@ -14,8 +12,7 @@ soup = BeautifulSoup(data, 'html.parser')
 for div in soup.find_all('div', {'class': 'location-container'}):
     span = div.find('span')
     city = span.string
-    print "\n\n"
-    print "CITY : ", ' '.join(city.split())
+    print "\nCITY : ", ' '.join(city.split())
 
 
 ######## clinic details
@@ -70,20 +67,20 @@ fees_list = []
 clinic_location = []
 
 for clinic_locality in soup.find_all('div', {'class': 'clinic-locality'}):
-    location = re.sub('\s+', '', clinic_locality.text)
+    location = ' '.join(clinic_locality.text.split())
     clinic_location.append(location)
 
 for days in soup.find_all('p', {'class': 'clinic-timings-day'}):
-    days = re.sub('\s+', '', days.text)
+    days = ' '.join(days.text.split())
     timing_days.append(days)
 
 for timing in soup.find_all('p', {'class': 'clinic-timings-session'}):
-    time = re.sub('\s+', '', timing.text)
+    time = ' '.join(timing.text.split())
     timing_list.append(time)
 
 for fees in soup.find_all('div', {'class': 'clinic-fees'}):
     span = fees.find('span').text
-    fees = re.sub('\s+', '', span)
+    fees = ' '.join(span.split())
     fees_list.append(fees)
 
 i = 0
