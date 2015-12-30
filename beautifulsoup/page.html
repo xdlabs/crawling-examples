@@ -1,0 +1,2304 @@
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             <!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="utf-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAcFWVRAAAYDUVhR"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(2),"addEventListener"in window&&t(3),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(4),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:11,2:10,3:8,4:12,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){if(window.addEventListener){var e=t("handle"),n=t("ee");t(1),window.addEventListener("click",function(){e("inc",["ck"])},!1),window.addEventListener("hashchange",function(){e("inc",["hc"])},!1),n.on("pushState-start",function(){e("inc",["ps"])})}},{1:9,ee:"QJf3ax",handle:"D5DuLP"}],6:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],7:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=Event;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:11,2:10,3:9,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],8:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=t("ee").create(),i=t(1)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t,e){function n(){return s}if(t[1]){var r=t[1];if("function"==typeof r){var s=a(r,"nr@wrapped",function(){return i(r,"fn-",n,r.name||"anonymous")});this.wrapped=t[1]=s,o.emit("initEventContext",[t,e],this.wrapped)}else"function"==typeof r.handleEvent&&i.inPlace(r,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],9:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],10:[function(t,e){var n=t("ee").create(),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){function r(){return a}this.ctx={};var a={"nr@context":this.ctx};o.emit("initTimerContext",[t,n],a),t[0]=i(t[0],"fn-",r,n)}var o=t("ee").create(),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],12:[function(t,e){function n(){f.inPlace(this,p,"fn-",o)}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:8,2:26,ee:"QJf3ax"}],13:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1),u=window.XMLHttpRequest;t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof u&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof u&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:14,3:12,4:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],14:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],15:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:24,2:25,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):void(r.q&&(r.q[t]||(r.q[t]=[]),r.q[t].push(e)))}var r=t("ee").create();e.exports=n,n.ee=r,r.q={}},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){e in t||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-768.min.js"},p=e.exports={offset:i(),origin:u,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()])},{1:24,2:15,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,13,7,6,5]);</script>
+	<title>			Dr. Vikas Mittal - General Physician in Jaipur (Sodala)
+	 | Practo</title>
+	<!--Start Meta -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="theme-color" content="#08b">
+	<meta name="google" value="notranslate">
+
+		<!--End Meta -->
+
+															<noscript>
+            <style>
+                .city-dropdown-country-container {
+                    clear: both;
+                }
+                .city-dropdown-activator {
+                    display: none !important;
+                }
+                .no-js-city-landing-link {
+	                width: 70%;
+	                margin: 0 auto;
+	            }
+	            .no-js-city-landing-link h4 {
+	                text-align: center;
+	                color: #ff005b;
+	            }
+	            .no-js-city-landing-link .city-dropdown-option {
+	                display: inline-block;
+	                color: #7c8f99;
+	                padding: 5px 10px;
+	                text-align: center;
+	            }
+	            .no-js-city-landing-link .city-dropdown-top-cities-container {
+	                margin: 25px 15px 25px 0;
+	            }
+            </style>
+        </noscript>
+	<!--Start Stylesheets-->
+	<link href='//fonts.googleapis.com/css?family=Open+Sans:300,400,600' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" href="https://www.practo.com/css/91cff9a-3f2c537.css" title="fabric stylesheets"/>
+	
+	
+				<link rel="stylesheet" href="/css/2c39fd8-c4d7a34.css" />
+	
+	<!--End Stylesheets-->
+
+	<!--Start Extra Headers-->
+	
+<script type="text/javascript">
+    var practo = practo || {};
+    practo.ray_host = "https:\/\/ray.practo.com";
+    practo.accounts_host = "https:\/\/accounts.practo.com";
+    practo.fabric_host = "https:\/\/www.practo.com";
+    practo.epicenter_host = "https:\/\/epicenter.practo.com";
+    practo.fabric_socket_host = "https:\/\/fabric-socket.practo.com";
+    practo.accounts_host = "https:\/\/accounts.practo.com";
+    practo.fabric_sixpack_host = "https:\/\/fabric-sixpack.practo.com";
+</script>
+
+
+
+			
+			<script>
+				if (typeof window.practo == "undefined" ){
+					window.practo = {
+						"fabric_host" : "https:\/\/www.practo.com"
+					}
+				}
+				else {
+					window.practo.fabric_host = "https:\/\/www.practo.com";
+				}
+			</script>
+		
+	
+	<script>
+    var gadimensions = {};
+    
+    gadimensions.dimension4 = 'organic';
+    
+    if (typeof Storage !== "undefined") {
+        if (typeof sessionStorage.getItem("practo_ad_referral") !== "undefined" && sessionStorage.getItem("practo_ad_referral") != null) {
+            temp = JSON.parse(sessionStorage.getItem("practo_ad_referral"));
+            sessionStorage.removeItem("practo_ad_referral");
+            gadimensions.dimension1 = temp.dimension1;
+            gadimensions.dimension3 = temp.dimension3;
+            gadimensions.dimension12 = temp.dimension12;
+            gadimensions.dimension13 = temp.dimension13;
+            gadimensions.dimension14 = temp.dimension14;
+        }
+    }
+    
+            gadimensions.dimension5 = "Jaipur";
+                    gadimensions.dimension6 = null;
+            gadimensions.dimension7 = "";
+                        if (typeof Storage !== "undefined") {
+        if (typeof sessionStorage.getItem("practo_ga_track_keyword") !== "undefined" && sessionStorage.getItem("practo_ga_track_keyword") != null) {
+            gadimensions.dimension15 = sessionStorage.getItem("practo_ga_track_keyword");
+        }
+    }
+</script>
+
+	<script>(function() {
+  var _fbq = window._fbq || (window._fbq = []);
+  if (!_fbq.loaded) {
+    var fbds = document.createElement('script');
+    fbds.async = true;
+    fbds.src = '//connect.facebook.net/en_US/fbds.js';
+    var s = document.getElementsByTagName('script')[0];
+    window.addEventListener('load', function(){
+      s.parentNode.insertBefore(fbds, s);
+      _fbq.loaded = true;
+    });
+  }
+  _fbq.push(['addPixelId', '327052174165071']);
+})();
+window._fbq = window._fbq || [];
+window._fbq.push(['track', 'PixelInitialized', {}]);
+</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=327052174165071&amp;ev=PixelInitialized" /></noscript>
+
+	<!-- Begin comScore Tag -->
+<script>
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "19226225" });
+
+(function(){
+	var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    window.addEventListener('load',function(){
+    	el.parentNode.insertBefore(s, el);
+	});
+})();
+
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=19226225&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->	<script type="text/javascript">
+(function() {
+    window._pa = window._pa || {};
+    var pa = document.createElement('script');
+    pa.type = 'text/javascript';
+    pa.async = true;
+    pa.src = ('https:' == document.location.protocol ? 'https:' : 'http:') + "//tag.perfectaudience.com/serve/54f452bb60135a1696000084.js";
+    var s = document.getElementsByTagName('script')[0];
+    window.addEventListener('load',function(){
+    	s.parentNode.insertBefore(pa, s);
+	});
+})();
+
+var adroll_adv_id = "JIBANMR3RBERDOJXDB7RJQ";
+var adroll_pix_id = "KQZDACNMJVCFRKD6ZDWWNV";
+var __adroll_loaded;
+(function() {
+    var oldonload = window.onload;
+    window.onload = function() {
+        __adroll_loaded = true;
+        var scr = document.createElement("script");
+        var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+        scr.setAttribute('async', 'true');
+        scr.type = "text/javascript";
+        scr.src = host + "/j/roundtrip.js";
+        ((document.getElementsByTagName('head') || [null])[0] ||
+            document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+        if (oldonload) {
+            oldonload();
+        }
+    };
+}());
+</script>
+
+<script type="text/javascript">
+_bizo_data_partner_id = "7652";
+</script>
+<script type="text/javascript">
+    window.addEventListener('load',function(){
+        (function() {
+        var s = document.getElementsByTagName("script")[0];
+        var b = document.createElement("script");
+        b.type = "text/javascript";
+        b.async = true;
+        b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
+        s.parentNode.insertBefore(b, s);
+        })();
+    });
+</script>
+<noscript>
+    <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=7652&fmt=gif" />
+</noscript>		<noscript>
+		<style>
+			.showifnojs{
+				display: block;
+			}
+			.hideifnojs{
+				display: none;
+			}
+		</style>
+	</noscript>
+	</head>
+<body class="profile-bg search-bar-layout" data-ana="PageView:pageView">
+			<div class="page-body-container ">
+					<div class="fabric-header-left-container">
+				<div class="fabric-header-logo-block">
+                                                                        <a href="https://www.practo.com/" id="practo-header-logo">
+						<img src="/bundles/practopractoapp/images/logos/practo_logo.svg" onerror="this.src='/bundles/practopractoapp/images/logos/practo_logo.png'" alt="Practo - Book Doctor Appointments Online"/>
+					</a>
+									</div>
+			</div>
+							<div class="fabric-header-login-block">
+																																				    <a class="nav-login-link homeLoginLink" data-origin="Doctor Profile" href="/health/login" rel="nofollow">Log in</a>
+					    <span class="link-sep-small"></span>
+					    <a class="nav-login-link" href="/for-doctors">For Doctors</a>
+					    <span class="link-sep-small"></span>
+																																										<a href="javascript:void(0);" id="consult-mobile-city" data-consult-city="Jaipur" class="city-dropdown-activator city-dropdown-activator-small flag-india ">
+					Jaipur
+				</a>
+			</div>
+			<form name="search_bar" class="search-bar  searchForm halfwidth " action="/" method="GET">
+				<input name="city" type="hidden" value="jaipur"/>
+				<input name="searchfor" type="hidden" value="specialization"/>
+				<div class="search-bar-container">
+					<noscript>
+						<input type="hidden" value="true" name="values_in_form"/>
+					</noscript>
+					<div id="locationContainer" class="location-container">
+                        <div class="pin_icon">
+							<i class="practo-icon icon-pin">&#xe801;</i>
+                        </div>
+                        <span class="location-placeholder " id='locationPlaceholder'>
+                                                        	Jaipur
+                                                    </span>
+                        <input name="locality" class=" location-input  location-hide " id = "locationInput" type="text" placeholder="Locality" value=""/>
+                    </div>
+                    <div class="keywords-container" id="keywordsContainer">
+                        <div class="search_grey">
+							<i class="practo-icon icon-search">&#xe808;</i>
+                        </div>
+                                                                                                                        <input name="q" type="text" id="keywordsInput" class="keywords-input" placeholder="Specialities, Doctors, Clinics etc" value="" autocomplete="off"/>
+                    </div>
+					<button class="search-button">
+                        <i class="search-icon">
+                    	</i>
+                    </button>
+				</div>
+			</form>
+						<a id="OmniSubmitGa" data-ana="PractoListingSearchButton:Search" href="#"></a>
+				<div class="clear"></div>
+	</div>
+	<noscript>
+        <div class="no-js-city-landing-link">
+            <h4>Javascript is disabled in your browser. Enable javascript for search functionality </h4>
+                                                <div class="city-dropdown-country-container">
+                        <div class="city-dropdown-country-head flag-india-small">INDIA</div>
+                        <div class="city-dropdown-top-cities-container">
+                                                            <a href="/agra" data-slug="agra" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Agra
+                                </a>
+                                                            <a href="/ahmedabad" data-slug="ahmedabad" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Ahmedabad
+                                </a>
+                                                            <a href="/allahabad" data-slug="allahabad" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Allahabad
+                                </a>
+                                                            <a href="/aurangabad" data-slug="aurangabad" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Aurangabad
+                                </a>
+                                                            <a href="/bangalore" data-slug="bangalore" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Bangalore
+                                </a>
+                                                            <a href="/bhopal" data-slug="bhopal" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Bhopal
+                                </a>
+                                                            <a href="/chandigarh" data-slug="chandigarh" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Chandigarh
+                                </a>
+                                                            <a href="/chennai" data-slug="chennai" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Chennai
+                                </a>
+                                                            <a href="/coimbatore" data-slug="coimbatore" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Coimbatore
+                                </a>
+                                                            <a href="/delhi" data-slug="delhi" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Delhi
+                                </a>
+                                                            <a href="/ernakulam" data-slug="ernakulam" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Ernakulam
+                                </a>
+                                                            <a href="/faridabad" data-slug="faridabad" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Faridabad
+                                </a>
+                                                            <a href="/ghaziabad" data-slug="ghaziabad" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Ghaziabad
+                                </a>
+                                                            <a href="/gurgaon" data-slug="gurgaon" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Gurgaon
+                                </a>
+                                                            <a href="/hyderabad" data-slug="hyderabad" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Hyderabad
+                                </a>
+                                                            <a href="/indore" data-slug="indore" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Indore
+                                </a>
+                                                            <a href="/jaipur" data-slug="jaipur" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Jaipur
+                                </a>
+                                                            <a href="/jodhpur" data-slug="jodhpur" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Jodhpur
+                                </a>
+                                                            <a href="/kanpur-nagar" data-slug="kanpur-nagar" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Kanpur Nagar
+                                </a>
+                                                            <a href="/kolkata" data-slug="kolkata" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Kolkata
+                                </a>
+                                                            <a href="/lucknow" data-slug="lucknow" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Lucknow
+                                </a>
+                                                            <a href="/ludhiana" data-slug="ludhiana" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Ludhiana
+                                </a>
+                                                            <a href="/meerut" data-slug="meerut" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Meerut
+                                </a>
+                                                            <a href="/mohali" data-slug="mohali" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Mohali
+                                </a>
+                                                            <a href="/mumbai" data-slug="mumbai" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Mumbai
+                                </a>
+                                                            <a href="/nagpur" data-slug="nagpur" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Nagpur
+                                </a>
+                                                            <a href="/nashik" data-slug="nashik" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Nashik
+                                </a>
+                                                            <a href="/navi-mumbai" data-slug="navi-mumbai" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Navi Mumbai
+                                </a>
+                                                            <a href="/noida" data-slug="noida" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Noida
+                                </a>
+                                                            <a href="/panchkula" data-slug="panchkula" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Panchkula
+                                </a>
+                                                            <a href="/patna" data-slug="patna" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Patna
+                                </a>
+                                                            <a href="/puducherry" data-slug="puducherry" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Puducherry
+                                </a>
+                                                            <a href="/pune" data-slug="pune" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Pune
+                                </a>
+                                                            <a href="/raipur" data-slug="raipur" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Raipur
+                                </a>
+                                                            <a href="/rajkot" data-slug="rajkot" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Rajkot
+                                </a>
+                                                            <a href="/surat" data-slug="surat" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Surat
+                                </a>
+                                                            <a href="/thane" data-slug="thane" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Thane
+                                </a>
+                                                            <a href="/thiruvananthapuram" data-slug="thiruvananthapuram" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Thiruvananthapuram
+                                </a>
+                                                            <a href="/vadodara" data-slug="vadodara" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Vadodara
+                                </a>
+                                                            <a href="/varanasi" data-slug="varanasi" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Varanasi
+                                </a>
+                                                            <a href="/vijayawada" data-slug="vijayawada" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Vijayawada
+                                </a>
+                                                            <a href="/visakhapatnam" data-slug="visakhapatnam" data-country="india" class="city-dropdown-option" target="_blank">
+                                    Visakhapatnam
+                                </a>
+                                                        <div class="clear"></div>
+                        </div>
+                    </div>
+                                                                <div class="city-dropdown-country-container">
+                        <div class="city-dropdown-country-head flag-singapore-small">SINGAPORE</div>
+                        <div class="city-dropdown-top-cities-container">
+                                                            <a href="/singapore" data-slug="singapore" data-country="singapore" class="city-dropdown-option" target="_blank">
+                                    Singapore
+                                </a>
+                                                        <div class="clear"></div>
+                        </div>
+                    </div>
+                                                                <div class="city-dropdown-country-container">
+                        <div class="city-dropdown-country-head flag-philippines-small">PHILIPPINES</div>
+                        <div class="city-dropdown-top-cities-container">
+                                                            <a href="/batangas" data-slug="batangas" data-country="philippines" class="city-dropdown-option" target="_blank">
+                                    Batangas
+                                </a>
+                                                            <a href="/metro-manila" data-slug="metro-manila" data-country="philippines" class="city-dropdown-option" target="_blank">
+                                    Metro Manila
+                                </a>
+                                                        <div class="clear"></div>
+                        </div>
+                    </div>
+                                                                <div class="city-dropdown-country-container">
+                        <div class="city-dropdown-country-head flag-indonesia-small">INDONESIA</div>
+                        <div class="city-dropdown-top-cities-container">
+                                                            <a href="/jakarta" data-slug="jakarta" data-country="indonesia" class="city-dropdown-option" target="_blank">
+                                    Jakarta
+                                </a>
+                                                        <div class="clear"></div>
+                        </div>
+                    </div>
+                                                                <div class="city-dropdown-country-container">
+                        <div class="city-dropdown-country-head flag-malaysia-small">MALAYSIA</div>
+                        <div class="city-dropdown-top-cities-container">
+                                                            <a href="/kuala-lumpur" data-slug="kuala-lumpur" data-country="malaysia" class="city-dropdown-option" target="_blank">
+                                    Kuala Lumpur
+                                </a>
+                                                        <div class="clear"></div>
+                        </div>
+                    </div>
+                                    </div>
+    </noscript>
+	<div id="absNoticeBar" class="notice-bar font-normal page-body-container">
+
+	</div>
+	<div id="clinicSyncNotificationBar" class="notice-bar font-normal page-body-container">
+
+	</div>
+		
+<script id="postPaginatedTemplate" type="text/template">
+
+                <div class="post-item">
+                    <div class="fit_content_post_holder">
+                        <div>
+                            <% if (("postImageUrl" in postDetails) && postDetails.postImageUrl != '') { %>
+                                <a href = "<%= postDetails.shareUrl %>">
+                                <div>
+                                    <img class="fit-content-image" src="<%= postDetails.postImageUrl %>">
+                                </div>
+                                </a>
+                            <% } %>
+                            <p class="fit-title">
+                                        <span class="page-title-span">
+                                         <a href="<%= postDetails.shareUrl %>"> <%= postDetails.title %> </a>
+                                        </span>
+                            </p>
+                            <br>
+                            <p id="time<%= postDetails.postId %>" class="fit-listing-time">
+                                <%= postCreatedAt %>
+                            </p>
+                            <br>
+
+                            <div class="fit-content-txt">
+                                <a href="<%= postDetails.shareUrl %>" class="">
+                                    <%= postDetails['contentTxt'] %> </a>
+                            </div>
+
+                            <p class="fit-continue-reading"><a href="<%= postDetails.shareUrl %>">Continue Reading</a></p>
+                            <br>
+
+                            <div class="interaction-wrapper">
+                                <div class="interaction-icons">
+                                    <span id="isLiked<%= postDetails.postId %>" style="display: none;"><%= postDetails.isLiked %></span>
+                                    <div id="likeBox<%= postDetails.postId %>" class="share-info" data-post-id="<%= postDetails.postId %> " data-doctor-id="<%= doctorAccountId %> " data-account-id=" <%= accountId %>" data-is-liked="<%= postDetails.isLiked %>"  data-like-count="<%= postDetails.likeCount %>">
+
+                                        <% if (postDetails.isLiked == 0) { %>
+                                        <span id="likeIcon<%= postDetails.postId %>" class="practo-fit-icon icon-like-inactive share-icon-size">
+                                        </span>
+                                        <% } else { %>
+                                         <span id="likeIcon<%= postDetails.postId %>" class="practo-fit-icon icon-like blue-liked share-icon-size">
+                                        </span>
+                                        <% } %>
+
+                                        <span id="likeCount<%= postDetails.postId %>"  class="content-like-count">
+                                        <%= postDetails.likeCount %>
+                                        </span>
+                                    </div>
+                                    <div class="share-info" >
+                                        <span id="commentIcon<%= postDetails.postId %>" class="practo-fit-icon icon-comment share-icon-size" data-detailed-url="<%= postDetails.shareUrl %>">
+                                        </span>
+                                        <span id="commentCount" class="content-like-count"><%= postDetails.commentCount %></span>
+                                    </div>
+                                    <div class="share-info">
+                                        <span class="practo-fit-icon icon-share share-icon-size share-button"></span>
+                                    </div>
+                                </div>
+                                <div id="share-buttons<%= postDetails.postId %>" class="share-buttons">
+                                    <a href="https://www.facebook.com/sharer/sharer.php?u=<%= postDetails.shareUrl  %>" target="_blank" class="fb-share-button">
+                                    </a>
+                                    <a
+                                        href="https://twitter.com/intent/tweet?text=<%= shareHref  %>"
+                                        target="_blank"
+                                        class="twitter-share-button"
+                                    ></a>
+                                    <a
+                                        href="whatsapp://send?text=<%= shareHref  %>"
+                                        target="_blank"
+                                        class="whatsapp-share-button"
+                                    ></a>
+                                </div>
+                            </div>
+
+                    </div>
+                </div>
+
+</script>
+	<div class="page-wrapper">
+                                 																																																															<div class="page-body-container" itemscope itemtype="https://schema.org/Physician">
+								<div class="profile-container">
+											<div class="page-body-container breadcrum-container">
+							<p>
+								<h5>
+                                                                    	                                                            <a href="https://www.practo.com/">Home</a>
+								</h5>
+								/
+								<h5>
+                                                                    								    <a href="https://www.practo.com/jaipur">Jaipur</a>
+								</h5>
+								/
+								<h5>
+                                                                    								    <a href="https://www.practo.com/jaipur/general-physician">General Physicians</a>
+								</h5>
+								/
+								<h5>
+                                                                    								    <a href="https://www.practo.com/jaipur/general-physician/sodala">Sodala</a>
+								</h5>
+								/ <h5> Dr. Vikas Mittal </h5>
+							</p>
+						</div>
+										<div class="profile-summary">
+						<div class="doc_photo">
+							<div class="clearfix">
+								<img src="/bundles/practopractoapp/images/placeholders/100X100.svg" title="Dr. Vikas Mittal - General Physician, Jaipur" alt="Dr. Vikas Mittal - General Physician" data-lazy-src="https://images1-fabric.practo.com/554b3bca747ac6fa41c645a69c0412a007584ba6bc635.jpg/thumbnail" data-originalsrc="https://images1-fabric.practo.com/554b3bca747ac6fa41c645a69c0412a007584ba6bc635.jpg" class="doc_avatar"/>
+								<link itemprop="photo" href="https://images1-fabric.practo.com/554b3bca747ac6fa41c645a69c0412a007584ba6bc635.jpg">
+							</div>
+						</div>
+						<div class="doctor-details-container">
+							<div class="doctor-details-wrapper">
+								<h1 title="Dr. Vikas Mittal" itemprop="name">Dr. Vikas Mittal</h1>
+								<meta itemprop="url" content="https://www.practo.com/jaipur/doctor/dr-vikas-mittal-general-physician"/>
+																	<p class="doctor-qualifications">
+																					MBBS
+																					, MD - Internal Medicine
+																			</p>
+																								<h2 class="doctor-specialties">
+																														<meta itemprop="medicalSpecialty" content="General Physician" />
+																				<span>
+                                                                                                                                                                                                                                                                    <a class="link grey" href="https://www.practo.com/jaipur/general-physician">General Physician</a>
+                                                                                                                                                                        
+                                                                                </span>
+																		, 8 Years Experience
+								</h2>
+																	<p class="recommend">
+										149 <span>Recommendations</span><br>
+									</p>
+															</div>
+							<div class="doctor-details-sidebar">
+																	<div class="give-feedback-button">
+										    <a href="https://www.practo.com/jaipur/doctor/dr-vikas-mittal-general-physician/feedback"
+											data-ana="GiveFeedbackClick:doctorId"
+											>
+												Give Feedback											</a>
+									</div>
+															</div>
+				    	</div>
+													<div class="doctor-summary">
+								<meta itemprop="description" content="Dr. Vikas Mittal is a Doctor in Sodala, Jaipur and has an experience of 8 years in this field. Dr. Vikas Mittal practices at Carewell Family Clinic in Sodala, Jaipur and Sanjeevani Hospital in Sodala, Jaipur. He completed MBBS from S M S Medical College in 2003 and MD - Internal Medicine from S M S Medical College in 2007.&lt;br/&gt;&lt;br/&gt; He is a member of Indian Medical Association (IMA). Some of the services provided by the doctor are: Hypertension, Diabetes, Treatment of TB, Heart Diseases and Arthritis &amp; join pain etc.&lt;br/&gt;&lt;br/&gt; You can book an instant appointment with Dr. Vikas Mittal on Practo.com." />
+								<span id="summaryText" data-summary="Dr. Vikas Mittal is a Doctor in Sodala, Jaipur and has an experience of 8 years in this field. Dr. Vikas Mittal practices at Carewell Family Clinic in Sodala, Jaipur and Sanjeevani Hospital in Sodala, Jaipur. He completed MBBS from S M S Medical College in 2003 and MD - Internal Medicine from S M S Medical College in 2007.&lt;br/&gt;&lt;br/&gt; He is a member of Indian Medical Association (IMA). Some of the services provided by the doctor are: Hypertension, Diabetes, Treatment of TB, Heart Diseases and Arthritis &amp; join pain etc.&lt;br/&gt;&lt;br/&gt; You can book an instant appointment with Dr. Vikas Mittal on Practo.com.">
+									Dr. Vikas Mittal is a Doctor in Sodala, Jaipur and has an experience of 8 years in this field. Dr. Vikas Mittal practices at Carewell Family Clinic in Sodala, J
+								</span>
+																	<a class="link" id="moreSummary">more..</a>
+									<a class="link hidden" id="lessSummary">[shrink]</a>
+																								<div class="social-sharing-links">
+                                            <span class="share ">share </span>
+        <a class="fb-share-button" data-ana="SocialSharingClick:Profile:Doctor:FB" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fwww.practo.com%2Fjaipur%2Fdoctor%2Fdr-vikas-mittal-general-physician" target="_blank" rel="nofollow"></a>
+    <a class="twitter-share-button" data-ana="SocialSharingClick:Profile:Doctor:Twitter" rel="nofollow" href="https://twitter.com/intent/tweet?url=https://www.practo.com/jaipur/doctor/dr-vikas-mittal-general-physician&amp;text=Practo doctor profile - Dr. Vikas Mittal:" target="_blank"></a>
+    <a class="google-share-button" data-ana="SocialSharingClick:Profile:Doctor:Google_plus" href="https://plus.google.com/share?url=https://www.practo.com/jaipur/doctor/dr-vikas-mittal-general-physician" rel="nofollow" target="_blank"></a>
+    <a class="email-share-button" data-ana="SocialSharingClick:Profile:Doctor:Gmail" href="mailto:?body=Hi,%0D%0A %0D%0A Book an appointment online with Dr. Vikas Mittal, General Physician. Below are details in case you’re interested: %0D%0A %0D%0A Doctor name: Dr. Vikas Mittal%0D%0A%0D%0A Mobile/Online booking: Yes %0D%0A%0D%0A Profile link: https://www.practo.com/jaipur/doctor/dr-vikas-mittal-general-physician" rel="nofollow"></a>
+</div>
+							</div>
+												<div class="clear"></div>
+					</div>
+							
+		<div class="profile-nav-container"  >
+			<div class="profile-nav-tab-marker"></div>
+			<a id="infoNavLink" class="profile-nav-tab info-nav-link" href="javascript:void(0);" data-tab="info">Info</a>
+							<a id="reviewsNavLink" class="profile-nav-tab recommended-nav-link recent-nav-link" href="javascript:void(0);" data-tab="recommended">Feedback (10)</a>
+								</div>
+		<div class="tabs recommended-tab recent-tab" id="reviewsTab" data-type="doctor" >
+
+			
+				<script type="text/template" class="reviews">
+					<% _.each(reviews, function(review, index){ %>
+
+						<div class="doctor-review-card <% if(index > 0){ %>folded <% } %>">
+							<div class="review-card-sidebar">
+								<div class="reviewer-image">
+									<div id="generic-image-box">
+										<%- review.patient.name.charAt(0).toUpperCase() %>
+									</div>
+								</div>
+								<div class="reviewer-name" itemprop="author">
+									<%- review.patient.name %>
+									<span id="mobile-review-time" class="review-time" datetime="<%- review.review.survey_response.reviewed_on %>" ></span>
+								</div>
+								<span itemprop="itemReviewed" itemscope itemtype="http://schema.org/Thing">
+									<meta itemprop="name" content="Dr. Vikas Mittal"/>
+									<meta itemprop="url" content="https://www.practo.com/jaipur/doctor/dr-vikas-mittal-general-physician">
+								</span>
+								<% if(review.patient.number_feedback !== undefined){ %>
+									<div class="reviewer-feedback-number">
+										<%- review.patient.number_feedback %> feedbacks
+									</div>
+								<% } %>
+							</div>
+							<% if (review.patient.recommends !== undefined && review.patient.recommends){ %>
+									<span id="mobile-recommend" class="feedback-profile-icon icon-positive-reco"></span>
+								<% } else if (review.patient.recommends !== undefined){ %>
+									<span id="mobile-recommend" class="feedback-profile-icon icon-negative-reco"></span>
+							<% } %>
+							<div class="review-card-main" itemprop="reviews" itemscope itemtype="http://schema.org/Review">
+								<% if (review.patient.recommends !== undefined && review.patient.recommends){ %>
+									<span id="web-recommend" class="feedback-profile-icon icon-positive-reco"></span>
+								<% } else if (review.patient.recommends !== undefined){ %>
+									<span id="web-recommend" class="feedback-profile-icon icon-negative-reco"></span>
+								<% } %>
+								<span class="review-time" id="web-review-time" datetime="<%- review.review.survey_response.reviewed_on %>" ></span>
+								<meta itemprop="datePublished" content="<%- review.review.survey_response.reviewed_on %>">
+								<div class="review-visited-for">
+									<% if(review.contexts !== undefined && review.contexts.length > 0){ %>
+										<div class="visited-for">
+											<span class="visited-for-text">Visited For </span>
+											<% _.each(review.contexts, function(val, key) { %>
+												<%- val.text %><% if(key !== review.contexts.length - 1){ %>, <%}%>
+											<% }); %>
+										</div>
+									<% } %>
+									<% if (review.patient.verified_appointment !== undefined){ %>
+										<span class="feedback-profile-icon icon-tick"></span>
+										<span class="verified-appointment-tag">Verified Appointment</span>
+									<% } %>
+								</div>
+								<div itemprop="reviewBody" class="review-card-body">
+									<div class="review-text">
+										<%	if ( review.review.survey_response.review_text.length < 1000 ) { %>
+										<span class="less-review">
+											<%= (review.review.survey_response.review_text.charAt(0).toUpperCase() + review.review.survey_response.review_text.slice(1)).replace(/(\r\n|\n|\r)/gm, "<br />") %>
+										</span>
+										<% } else { %>
+										<span class="less-review">
+											<%= (review.review.survey_response.review_text.charAt(0).toUpperCase() + review.review.survey_response.review_text.slice(1)).replace(/(\r\n|\n|\r)/gm, "<br />").slice(0,1000) %></span><span class="rest-review"><%= review.review.survey_response.review_text.replace(/(\r\n|\n|\r)/gm, "<br />").slice(1000) %></span><a class="link more-review-link"> more..</a><a class="link hidden less-review-link"> less</a>
+										<% } %>
+									</div>
+									<div class="useful-review">
+										<div class="useful-question">
+											<div class="question-text">Was this review useful to you?</div>
+											<div class="useful-options">
+												<div class="option <% if(review.found_helpful_data.found_helpful === true){ %> selected <% } %>" data-answer="yes" data-id="<%- review.review.id %>">
+													<div class="option-answer">
+														<span class="option-web">Yes</span>
+														<span class="option-mobile">Helpful</span>
+														<span class="option-value yes-count <% if(parseInt(review.found_helpful_data.review_total_count) === 0){ %>hidden<% } %>">(<%- review.found_helpful_data.review_yes_count  %>)</span>
+													</div>
+												</div>
+												<div class="option <% if(review.found_helpful_data.found_helpful === false){ %> selected <% } %>" data-answer="no" data-id="<%- review.review.id %>">
+													<div class="option-answer">
+														<span class="option-web">No</span>
+														<span class="option-mobile">Not Helpful</span>
+														<span class="option-value no-count <% if(parseInt(review.found_helpful_data.review_total_count) === 0){ %>hidden<% } %>">(<%- review.found_helpful_data.review_total_count - review.found_helpful_data.review_yes_count  %>)</span>
+													</div>
+												</div>
+											</div>
+											<div class="thank-you <% if (review.found_helpful_data.found_helpful === undefined){ %> hidden <% } %>">
+												Thank you for your vote !
+											</div>
+										</div>
+										<div class="useful-count <% if(review.found_helpful_data.review_total_count == 0){ %> hidden <% } %>"><%- review.found_helpful_data.review_yes_count %> out of <%- review.found_helpful_data.review_total_count %> found this helpful.
+										</div>
+									</div>
+								</div>
+							</div>
+							<% if(review.review.review_reply !== undefined) { %>
+							<div class="reply-card-main">
+								<div class="reply-card-head">
+									<div class="doctor-image">
+										<img
+											src="https://images1-fabric.practo.com/554b3bca747ac6fa41c645a69c0412a007584ba6bc635.jpg"
+											alt="Dr. Vikas Mittal - General Physician"
+											itemprop="photo"
+											class="doctor-image"
+											/>
+									</div>
+									<div class="doctor-name" itemprop="author">
+										Dr. Vikas Mittal replied</br>
+									</div>
+								</div>
+								<div itemprop="replyBody" class="reply-card-body">
+									<div class="reply-text">
+										<%	if ( review.review.review_reply.reply_text.length < 1000 ) { %>
+										<span class="less-review">
+											<%- review.review.review_reply.reply_text %>
+										</span>
+										<% } else { %>
+										<span class="less-review">
+											<%- review.review.review_reply.reply_text.slice(0,1000) %></span><span class="rest-review"><%- review.review.review_reply.reply_text.slice(1000) %></span><a class="link more-review-link">more..</a><a class="link hidden less-review-link">less</a>
+										<% } %>
+									</div>
+								</div>
+							</div>
+							<% } %>
+						</div>
+
+					<% }) %>
+				</script>
+                <div class="reviews-nav">
+					<ul class="reviews-menu">
+						<li>
+							<a id="recommendedSubTabLink" href="#recommended" class="reviews-nav-link selected" data-reviews-type="recommended">
+								Most Helpful							</a>
+						</li>
+						<li class="divider">
+							|
+						</li>
+						<li>
+							<a id="recentSubTabLink" href="#recent" class="reviews-nav-link" data-reviews-type="recent">
+								Recent							</a>
+						</li>
+					</ul>
+				</div>
+				<div class="recent-reviews sub-tab">
+					<div class="my-reviews"></div>
+					<div class="loader">
+						<div id="results-refresh-loader">
+							<div class="spinner"></div>
+						</div>
+					</div>
+					<div class="btn btn-white next-page recent-next-page" data-reviews-type="recent">More</div>
+					<div class="no-reviews-message recent-reviews-error"></div>
+				</div>
+				<div class="recommended-reviews sub-tab">
+					<div class="my-reviews"></div>
+					<div class="loader">
+						<div id="results-refresh-loader">
+							<div class="spinner"></div>
+						</div>
+					</div>
+					<div class="btn btn-white next-page recommended-next-page" data-reviews-type="recommended">More</div>
+					<div class="no-reviews-message recommended-reviews-error"></div>
+				</div>
+					</div>
+		<div class="tabs info-tab" id="infoTab">
+						<div class="doctor-practice-container">
+																												<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                            							    <meta itemprop="url" content="https://www.practo.com/jaipur">
+							    <meta itemprop="title" content="Jaipur">
+							    <span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                                                                                                                                                                    							        <meta itemprop="url" content="https://www.practo.com/jaipur/general-physician">
+								<meta itemprop="title" content="General Physicians">
+								<span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                                    									    <meta itemprop="url" content="https://www.practo.com/jaipur/general-physician/sodala">
+									    <meta itemprop="title" content="Sodala">
+									</span>
+								</span>
+							</span>
+												<span itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                    						    <meta itemprop="url" content="https://www.practo.com/jaipur">
+							<meta itemprop="title" content="Jaipur">
+							<span itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+                                                            							    <meta itemprop="url" content="https://www.practo.com/jaipur/doctors/sodala">
+								<meta itemprop="title" content="Sodala">
+							</span>
+						</span>
+										<div class="clinic-block listing-row" itemprop="memberOf" itemscope itemtype="https://schema.org/MedicalOrganization">
+													<div class="clinic-locality">
+								<h2 class="strong black">Sodala</h2>,
+								<span>Jaipur</span>
+							</div>
+																														<div class="clinic-address">
+							<h2 title="Carewell Family Clinic"><a class="link grey" href="https://www.practo.com/jaipur/clinic/carewell-family-clinic-sodala" itemprop="name">Carewell Family Clinic</a></h2>
+							<p class="clinic-street-address" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+								<span itemprop="streetAddress">New Sanganer Road, Sodala, Landmark: Near vivek vihar metro station, opposite metro pillar no 87, Jaipur</span>
+																	<meta itemprop="addressLocality" content="Sodala" />
+																								<meta itemprop="addressRegion" content="jaipur" />
+							</p>
+							<p class="clinic-photos-container">
+																									<a data-doctorid="340798" class="cboxElement clinic_thumbs clinic_photos_340798" href="https://images1-fabric.practo.com/554b3ba73e43a6512bd43d9caa6e02c990b0a82652dca.jpg/large">
+										<img src="/bundles/practopractoapp/images/placeholders/36X36.svg" alt="Carewell Family Clinic - Image 1" data-lazy-src="https://images1-fabric.practo.com/554b3ba73e43a6512bd43d9caa6e02c990b0a82652dca.jpg/microthumbnail" data-originalsrc="https://images1-fabric.practo.com/554b3ba73e43a6512bd43d9caa6e02c990b0a82652dca.jpg" class="clinic_photos"/>
+									</a>
+									<link itemprop="photo" href="https://images1-fabric.practo.com/554b3ba73e43a6512bd43d9caa6e02c990b0a82652dca.jpg">
+																	<a data-doctorid="340798" class="cboxElement clinic_thumbs clinic_photos_340798" href="https://images1-fabric.practo.com/554b3bab17685b6d767d2f8ed5d21a44b0e5886680cb9.jpg/large">
+										<img src="/bundles/practopractoapp/images/placeholders/36X36.svg" alt="Carewell Family Clinic - Image 2" data-lazy-src="https://images1-fabric.practo.com/554b3bab17685b6d767d2f8ed5d21a44b0e5886680cb9.jpg/microthumbnail" data-originalsrc="https://images1-fabric.practo.com/554b3bab17685b6d767d2f8ed5d21a44b0e5886680cb9.jpg" class="clinic_photos"/>
+									</a>
+									<link itemprop="photo" href="https://images1-fabric.practo.com/554b3bab17685b6d767d2f8ed5d21a44b0e5886680cb9.jpg">
+																	<a data-doctorid="340798" class="cboxElement clinic_thumbs clinic_photos_340798" href="https://images1-fabric.practo.com/554b3bad303c3182be0c5cdcd5072bb1864cdee4d3d6e.jpg/large">
+										<img src="/bundles/practopractoapp/images/placeholders/36X36.svg" alt="Carewell Family Clinic - Image 3" data-lazy-src="https://images1-fabric.practo.com/554b3bad303c3182be0c5cdcd5072bb1864cdee4d3d6e.jpg/microthumbnail" data-originalsrc="https://images1-fabric.practo.com/554b3bad303c3182be0c5cdcd5072bb1864cdee4d3d6e.jpg" class="clinic_photos"/>
+									</a>
+									<link itemprop="photo" href="https://images1-fabric.practo.com/554b3bad303c3182be0c5cdcd5072bb1864cdee4d3d6e.jpg">
+																	<a data-doctorid="340798" class="cboxElement clinic_thumbs clinic_photos_340798" href="https://images1-fabric.practo.com/554b3bb007648f7177163c833dff4b38fc8d2872f1ec6.jpg/large">
+										<img src="/bundles/practopractoapp/images/placeholders/36X36.svg" alt="Carewell Family Clinic - Image 4" data-lazy-src="https://images1-fabric.practo.com/554b3bb007648f7177163c833dff4b38fc8d2872f1ec6.jpg/microthumbnail" data-originalsrc="https://images1-fabric.practo.com/554b3bb007648f7177163c833dff4b38fc8d2872f1ec6.jpg" class="clinic_photos"/>
+									</a>
+									<link itemprop="photo" href="https://images1-fabric.practo.com/554b3bb007648f7177163c833dff4b38fc8d2872f1ec6.jpg">
+																	<a data-doctorid="340798" class="cboxElement clinic_thumbs clinic_photos_340798" href="https://images1-fabric.practo.com/554b3bb6347d7b53b3a3d6ab90ce0268229151c9bde11.jpg/large">
+										<img src="/bundles/practopractoapp/images/placeholders/36X36.svg" alt="Carewell Family Clinic - Image 5" data-lazy-src="https://images1-fabric.practo.com/554b3bb6347d7b53b3a3d6ab90ce0268229151c9bde11.jpg/microthumbnail" data-originalsrc="https://images1-fabric.practo.com/554b3bb6347d7b53b3a3d6ab90ce0268229151c9bde11.jpg" class="clinic_photos"/>
+									</a>
+									<link itemprop="photo" href="https://images1-fabric.practo.com/554b3bb6347d7b53b3a3d6ab90ce0268229151c9bde11.jpg">
+															</p>
+															<p class="map-link-container">
+									<a class="viewMapLink link" data-practiceid="733921">View map</a>
+									<span style="height:1px;" itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+										<meta itemprop="latitude" content="26.887413"/>
+										<meta itemprop="longitude" content="75.768104"/>
+									</span>
+									<span itemscope itemprop="hasMap" itemtype="http://schema.org/Map">
+										<meta itemprop="url" content="http://maps.google.com/maps?f=d&daddr=26.887413,75.768104&hl=en">
+									</span>
+									<meta itemprop="url" content="https://www.practo.com/jaipur/clinic/carewell-family-clinic-sodala"/>
+								</p>
+														<div class="clear"></div>
+						</div>
+						<div class="clinic-timings">
+																																					<div class="clinic-timings-wrapper" >
+									<p class="clinic-timings-day">
+										MON - SAT
+									</p>
+									<p class="clinic-timings-session">
+										9:00 AM - 12:05 PM</br>5:00 PM - 9:00 PM
+									</p>
+								</div>
+																		                <meta itemprop="openingHours" content="Mo-Sa 09:00-12:05" />
+				            				                <meta itemprop="openingHours" content="Mo-Sa 17:00-21:00" />
+				            							<div class="clear"></div>
+						</div>
+													<div itemprop="priceRange" class="clinic-fees">
+								<span>INR 200
+								</span>
+								<span class="clinic-fees-web-indicator" id="feesindicator">
+									<div id="imageTooltip">
+    <div class="inner-container">
+        <div class="tooltip-notch"></div>
+        <div class="imageTooltipImageContainer"><img src=""/></div>
+        <div class="imagetooltip-image-loader">
+            <img src="/bundles/practopractoapp/images/slot-loader.png"/>
+            <p style="margin:8px 0 30px 0;color:#999;">Loading..</p>
+        </div>
+    </div>
+</div>
+<div class="tooltip" id="absTooltip">
+    <div style="position:relative;">
+        <div>This Doctor is ABS Enabled</div>
+        <div class="tooltip-notch"></div>
+    </div>
+</div>
+<div class="tooltip" id="absInfoTooltip">
+    <div style="position:relative;">
+        <div>When you use Practo Instant Booking, you instantly book a confirmed appointment. This automatically syncs your appointment with the doctor&apos;s calendar and gives you an immediate confirmation.</div>
+        <div class="tooltip-notch left"></div>
+    </div>
+</div>
+<div class="tooltip" id="feesInfoTooltip">
+    <div style="position:relative;">
+        <div>
+        <p style="font-family: 'Open Sans';font-size: 10px;color:#FFFFFF">This fee is indicative and might vary.</p>
+        <p style="font-family: 'Open Sans';font-size: 10px;color:#B1B1B1">NOTE: Fees is payable at clinic.There are NO charges for booking an appointment.</p>
+        </div>
+        <div class="tooltip-notch left" style="bottom: 75%"></div>
+    </div>
+</div>								</span>
+								<span class="clinic-fees-mobile-indicator">
+									<p>This fee is indicative and might vary.</p>
+    								<p style="color:#B1B1B1"> NOTE: Fees is payable at clinic. There are NO charges for booking an appointment.</p>
+								</span>
+							</div>
+							<meta itemprop="currenciesAccepted" content="INR">
+												<div class="clear"></div>
+						<div class="booking-button-container">
+																																											<div class="booking-link-container ">
+
+    <input class="book-toggle ui-helper-hidden-accessible" type="checkbox"
+
+    data-doctorid="250239"
+    data-origin="Profile"
+    data-pagetype="Doctor_Profile"
+    data-appttype="ABS"
+                                            data-ana="BookAppointmentMixpanelClick:733921:250239"
+                        
+    
+        
+                    data-subscriptionid="0"
+        
+        id="slots_250239"
+
+           />
+
+
+    <label class="book-toggle-button ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only ui-state-hover abs-enabled"
+
+        
+            for="slots_250239"
+
+        >
+
+
+        <span class="instant-icon"></span>
+        <span class="vn-call-icon"></span>
+        <span class="button-text">
+            Book Appointment
+        </span>
+
+    </label>
+</div>
+						</div>
+						<div class="clear"></div>
+					</div>
+											<div class="slotviewer-container" id="slotViewer250239">
+						</div>
+																			<div class="clinic-block listing-row" itemprop="memberOf" itemscope itemtype="https://schema.org/MedicalOrganization">
+													<div class="clinic-locality">
+								<h2 class="strong black">Sodala</h2>,
+								<span>Jaipur</span>
+							</div>
+																														<div class="clinic-address">
+							<h2 title="Sanjeevani Hospital"><a class="link grey" href="https://www.practo.com/jaipur/clinic/sanjeevani-hospital-sodala" itemprop="name">Sanjeevani Hospital</a></h2>
+							<p class="clinic-street-address" itemprop="address" itemscope itemtype="https://schema.org/PostalAddress">
+								<span itemprop="streetAddress">New Sanganer Road-302019, Jaipur</span>
+																	<meta itemprop="addressLocality" content="Sodala" />
+																								<meta itemprop="addressRegion" content="jaipur" />
+							</p>
+							<p class="clinic-photos-container">
+																							</p>
+															<p class="map-link-container">
+									<a class="viewMapLink link" data-practiceid="835731">View map</a>
+									<span style="height:1px;" itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+										<meta itemprop="latitude" content="26.906154"/>
+										<meta itemprop="longitude" content="75.774738"/>
+									</span>
+									<span itemscope itemprop="hasMap" itemtype="http://schema.org/Map">
+										<meta itemprop="url" content="http://maps.google.com/maps?f=d&daddr=26.906154,75.774738&hl=en">
+									</span>
+									<meta itemprop="url" content="https://www.practo.com/jaipur/clinic/sanjeevani-hospital-sodala"/>
+								</p>
+														<div class="clear"></div>
+						</div>
+						<div class="clinic-timings">
+																																					<div class="clinic-timings-wrapper" >
+									<p class="clinic-timings-day">
+										MON - SAT
+									</p>
+									<p class="clinic-timings-session">
+										12:05 PM - 2:30 PM
+									</p>
+								</div>
+																		                <meta itemprop="openingHours" content="Mo-Sa 12:05-14:30" />
+				            							<div class="clear"></div>
+						</div>
+													<div itemprop="priceRange" class="clinic-fees">
+								<span>INR 200
+								</span>
+								<span class="clinic-fees-web-indicator" id="feesindicator">
+									<div id="imageTooltip">
+    <div class="inner-container">
+        <div class="tooltip-notch"></div>
+        <div class="imageTooltipImageContainer"><img src=""/></div>
+        <div class="imagetooltip-image-loader">
+            <img src="/bundles/practopractoapp/images/slot-loader.png"/>
+            <p style="margin:8px 0 30px 0;color:#999;">Loading..</p>
+        </div>
+    </div>
+</div>
+<div class="tooltip" id="absTooltip">
+    <div style="position:relative;">
+        <div>This Doctor is ABS Enabled</div>
+        <div class="tooltip-notch"></div>
+    </div>
+</div>
+<div class="tooltip" id="absInfoTooltip">
+    <div style="position:relative;">
+        <div>When you use Practo Instant Booking, you instantly book a confirmed appointment. This automatically syncs your appointment with the doctor&apos;s calendar and gives you an immediate confirmation.</div>
+        <div class="tooltip-notch left"></div>
+    </div>
+</div>
+<div class="tooltip" id="feesInfoTooltip">
+    <div style="position:relative;">
+        <div>
+        <p style="font-family: 'Open Sans';font-size: 10px;color:#FFFFFF">This fee is indicative and might vary.</p>
+        <p style="font-family: 'Open Sans';font-size: 10px;color:#B1B1B1">NOTE: Fees is payable at clinic.There are NO charges for booking an appointment.</p>
+        </div>
+        <div class="tooltip-notch left" style="bottom: 75%"></div>
+    </div>
+</div>								</span>
+								<span class="clinic-fees-mobile-indicator">
+									<p>This fee is indicative and might vary.</p>
+    								<p style="color:#B1B1B1"> NOTE: Fees is payable at clinic. There are NO charges for booking an appointment.</p>
+								</span>
+							</div>
+							<meta itemprop="currenciesAccepted" content="INR">
+												<div class="clear"></div>
+						<div class="booking-button-container">
+																																											<div class="booking-link-container ">
+
+    <input class="book-toggle ui-helper-hidden-accessible" type="checkbox"
+
+    data-doctorid="352206"
+    data-origin="Profile"
+    data-pagetype="Doctor_Profile"
+    data-appttype="ABS"
+                                            data-ana="BookAppointmentMixpanelClick:835731:352206"
+                        
+    
+        
+                    data-subscriptionid="0"
+        
+        id="slots_352206"
+
+           />
+
+
+    <label class="book-toggle-button ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only ui-state-hover abs-enabled"
+
+        
+            for="slots_352206"
+
+        >
+
+
+        <span class="instant-icon"></span>
+        <span class="vn-call-icon"></span>
+        <span class="button-text">
+            Book Appointment
+        </span>
+
+    </label>
+</div>
+						</div>
+						<div class="clear"></div>
+					</div>
+											<div class="slotviewer-container" id="slotViewer352206">
+						</div>
+												</div>
+			<div class="doctor-profile-data-container">
+									<div class="services-block" itemprop="makesOffer" itemscope itemtype="http://schema.org/Offer">
+						<h3 class="services profile-section-collapsed">
+							<span class="service-label">Services</span>
+														<span class="clear"></span>
+						</h3>
+																					<div class="service-row responsive-hide  " itemprop="name">
+																<div class="service-cell " itemprop="name" >
+																													<a href="/jaipur/doctors-for-infectious-diseases">Infectious Diseases</a>
+																	</div>
+																													<div class="service-cell " itemprop="name" >
+																													<a href="/jaipur/doctors-for-health-check-up">Health Check Up</a>
+																	</div>
+																													<div class="service-cell " itemprop="name" >
+																			Diabetes
+																	</div>
+																	<div class="clear"></div>
+								</div>
+																												<div class="service-row responsive-hide  " itemprop="name">
+																<div class="service-cell " itemprop="name" >
+																													<a href="/jaipur/doctors-for-vaccination">Vaccination</a>
+																	</div>
+																													<div class="service-cell " itemprop="name" >
+																			Heart Diseases
+																	</div>
+																													<div class="service-cell " itemprop="name" >
+																			Hypertension
+																	</div>
+																	<div class="clear"></div>
+								</div>
+																												<div class="service-row responsive-hide  " itemprop="name">
+																<div class="service-cell " itemprop="name" >
+																			Arthritis &amp; join pain
+																	</div>
+																													<div class="service-cell " itemprop="name" >
+																			Headache
+																	</div>
+																													<div class="service-cell " itemprop="name" >
+																			Obesity
+																	</div>
+																	<div class="clear"></div>
+								</div>
+																												<div class="service-row responsive-hide  " itemprop="name">
+																<div class="service-cell " itemprop="name" >
+																			Anaemia
+																	</div>
+																													<div class="service-cell " itemprop="name" >
+																			Treatment of liver disease (Jaundice)
+																	</div>
+																													<div class="service-cell " itemprop="name" >
+																			Treatment of TB
+																	</div>
+																	<div class="clear"></div>
+								</div>
+																												<div class="service-row responsive-hide  " itemprop="name">
+																<div class="service-cell last" itemprop="name" >
+																			Thyroid Disorderes
+																	</div>
+																	<div class="clear"></div>
+								</div>
+																		</div>
+								<div class="doc-info-section-wrapper">
+					<div class="doc-info-section-row">
+						<div class="doc-info-section-column">
+															<div class="doc-info-section specialties-block">
+									<h3 class="specialties profile-section-collapsed">
+										<span class="specialty-label">Specializations</span>
+																			</h3>
+																			<p class="specialty-row responsive-hide  last">
+																						<a href="/jaipur/general-physician">General Physician</a>
+										</p>
+																	</div>
+																						<div class="doc-info-section qualifications-block">
+									<h3 class="qualifications profile-section-collapsed">
+										<span class="qualification-label">Education</span>
+																			</h3>
+																			<p class="qualification-row responsive-hide  ">
+											<span class="qualification-degree">MBBS</span><span class="qualification-details"> - S M S Medical College, 2003</span>										</p>
+																			<p class="qualification-row responsive-hide  last">
+											<span class="qualification-degree">MD - Internal Medicine</span><span class="qualification-details"> - S M S Medical College, 2007</span>										</p>
+																	</div>
+																						<div class="doc-info-section organizations-block">
+									<h3 class="organizations profile-section-collapsed">
+										<span class="organization-label">Experience</span>
+																			</h3>
+																			<div class="organization-row responsive-hide  last">
+																							<span class="exp-tenure">
+																										2007 - Present
+												</span>
+																						<span class="exp-details">
+												Senior Consultant at Carewell Family Clinic
+											</span>
+											<div class="clear"></div>
+										</div>
+																		<div class="clear"></div>
+								</div>
+													</div>
+						<div class="doc-info-section-column last">
+																																																																					<div class="doc-info-section memberships-block">
+									<h3 class="memberships profile-section-collapsed">
+										<span class="membership-label">Memberships</span>
+																			</h3>
+																			<p class="membership-row responsive-hide  last">
+											Indian Medical Association (IMA)
+										</p>
+																	</div>
+																						<div class="doc-info-section registrations-block">
+									<h3 class="registrations profile-section-collapsed">
+										<span class="registration-label">Registrations</span>
+																			</h3>
+																			<div class="registration-row responsive-hide  last">
+											<span class="exp-tenure">
+												8004
+											</span>
+											<span class="exp-details">
+																									Rajasthan Medical Council, 2007
+																								</span>
+											<div class="clear"></div>
+										</div>
+																		<div class="clear"></div>
+								</div>
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="tabs fit-tab " id="fitTab" style="display:none">
+						<div class='paginated-posts'>
+                    	</div>
+        	                   </div>
+
+		<div class="report-error-row">
+						<button id="reportError" class="btn-link report-error-btn"> Report an Error </button>
+		</div>
+	</div>
+	<div class="practo-featured-clinic-container">
+			</div>
+	<div class="practo-app-container">
+	    	        	                        <div class="sidebar-container">
+                            <p class="popular-search-head collapsed">General physicians near Sodala</p>
+                        <p class="popular-search-links responsive-hide">
+                                                    <a href="/jaipur/general-physician/sodala">General Physicians in Sodala</a>
+                                    <a href="/jaipur/general-physician/civil-lines">General Physicians in Civil Lines</a>
+                                    <a href="/jaipur/general-physician/murlipura">General Physicians in Murlipura</a>
+                                    <a href="/jaipur/general-physician/gopalpura">General Physicians in Gopalpura</a>
+                                    <a href="/jaipur/general-physician/lal-kothi">General Physicians in Lal Kothi</a>
+                            </p>
+        </div>
+    	        	    	    	    	<div class="app-download-banner">
+	            <div class="consult-snap hide">
+            <a href="/consult" data-ana="ConsultBannerClick:Doctor:Web:Banner">
+            <img width="169" src="/bundles/practopractoapp/images/consult_ban_eng.svg">
+        </a>
+    </div>
+<div >
+
+</div>
+
+<form class="download-form" name="submit-number" action="https://www.practo.com/marketing/sendapplinksms" method="post">
+    <div class="title">
+        Get the free Practo App    </div>
+    <input id="input-number" name="mobile_number" class="input-text font-18" type="text" value="" maxlength="10" placeholder="Enter your mobile number    "/>
+    <input class="submit" type="submit"  value="Send me app link"/>
+</form>
+<div class="load-bar-container">
+    <div class="load-bar">
+        <span class='progress-bar'></span>
+    </div>
+</div>
+<div class="sucess-msg">
+    <span>
+        <img src="/bundles/practopractoapp/images/marketing/success_icon.svg" />
+        Sent Successfully    </span>
+    <button type="button" class="submit send-another">Send to another</button>
+</div>
+	        </div>
+	    	</div>
+	<div class="clear"></div>
+
+	</div>
+	<div id="imageTooltip">
+		<div class="inner-container">
+			<div class="tooltip-notch"></div>
+			<div class="imageTooltipImageContainer"><img src=""/></div>
+			<div class="imagetooltip-image-loader">
+				<img src="/bundles/practopractoapp/images/slot-loader.png"/>
+				<p style="margin:8px 0 30px 0;color:#999;">Loading..</p>
+			</div>
+			<a id="closeImageTooltip" class="close-listing-image-tooltip"></a>
+		</div>
+	</div>
+
+	<div class="tooltip" id="absTooltip">
+		<div style="position:relative;">
+			<div>This Doctor is ABS Enabled</div>
+			<div class="tooltip-notch"></div>
+		</div>
+	</div>
+	
+<script id="slotViewerTemplate" type="text/template">
+    
+    <form class="slot-viewer" method="GET" action="https://www.practo.com/health/appointment/book" >
+        <input type="hidden" value="<%= abs_enabled ? 'abs' : 'request' %>" name="type"/>
+        <input type="hidden" value="<%-doctor.id%>" name="doctor_id"/>
+        <input type="hidden" value="<%= tracker%>" name="tracker"/>
+        <div class="notch"></div>
+        <div class="sep-shadow-top"></div>
+        <div class="prev-day">
+            <a class="button day-switcher prev disabled" data-id="0">PREV DAY</a>
+            <div class="clear"></div>
+        </div>
+
+        <div class="slot-header">
+            <div class="morning">MORNING</div>
+            <div class="afternoon">AFTERNOON</div>
+            <div class="evening">EVENING</div>
+            <div class="night">NIGHT</div>
+        </div>
+        <% var dayIndex = 0; _.each(daySlots,function(thisDay){
+            validSlotsForDay = validSlots(thisDay.slots,thisDay.day,doctor.visit_timings);
+            hasAtleastOneBookableSlot = _.find(validSlotsForDay,function(thisSlot) { return !thisSlot.outsideVisitHours});
+            if (hasAtleastOneBookableSlot){ %>
+            <div class="slots-group" <%= dayIndex > 2 ? 'style="display:none;"' : '' %>>
+                <div class="day-row">
+                    <div class="day-label">
+                        <% if (thisDay.relDay != null) { %>
+                        <div class="rel-day"><%=thisDay.relDay%></div>
+                        <% } %>
+                        <div class="week-day"><%=thisDay.day%></div>
+                        <div class="date"><%=thisDay.date%></div>
+                    </div>
+                    <div class="slot-header inside-group">
+                        <div class="morning">MORNING</div>
+                        <div class="afternoon">AFTERNOON</div>
+                        <div class="evening">EVENING</div>
+                        <div class="night">NIGHT</div>
+                    </div>
+
+                    <% temp = _.groupBy(validSlotsForDay, function(thisSlot){
+                        slotVal = parseInt(thisSlot.ts.substr(11,5).split(':').join(''),10);
+
+                        limiters = [0,930,1130,1330,1530,1730,1930];
+                        limit = 0;
+
+                        _.each(limiters, function(limiter){
+                            if(slotVal > limiter){
+                                limit = limiter;
+                            }
+                        });
+
+                        return limit;
+                    }); %>
+                    <%_.each(temp, function(thisSlotGroup){ %>
+
+                    <div class="day-slot-column">
+                        <% _.each(thisSlotGroup, function(thisSlot){ %>
+                        <% if(! thisSlot.outsideVisitHours) { %>
+                        <input type="radio" <%=thisSlot.available ? '' : 'disabled="disabled"'%> value="<%=thisSlot.ts%>" name="appointment_time" id="slot_<%-doctor.id%><%=(typeof doctor['ad'] != 'undefined') ? ('_' + doctor.ad.id) : ''%>_<%=replaceAll(replaceAll(thisSlot.ts,':',''),' ','')%>"></input>
+                        <label class="book-slot" for="slot_<%-doctor.id%><%=(typeof doctor['ad'] != 'undefined') ? ('_' + doctor.ad.id) : ''%>_<%=replaceAll(replaceAll(thisSlot.ts,':',''),' ','')%>"><%=mysqlTSToDate(thisSlot.ts,false).format("h:MM TT")%></label>
+                        <% } %>
+                        <% }) %>
+                    </div>
+                    <% }) %>
+                </div>
+            </div>
+            <% dayIndex ++;
+        }}); %>
+        <div class="clear"></div>
+        <div class="action-panel rightalign">
+            <a class="button day-switcher next">NEXT DAY</a>
+            <input type="hidden" name="appointment_token" value="<%=appointment_token%>"/>
+            <% if (typeof adReferral != "undefined") { %>
+            <input type="hidden" name="ad_id" value="<%=adReferral.ad_id%>"/>
+            <input type="hidden" name="ad_slot_position" value="<%=adReferral.position%>"/>
+            <input type="hidden" name="ad_referrer" value="<%=adReferral.source%>"/>
+            <% } else
+            if (typeof doctor["ad"] != "undefined") { %>
+            <input type="hidden" name="ad_id" value="<%=doctor.ad.id%>"/>
+            <% } %>
+
+            <% if (reschedule) { %>
+                <input type="hidden" name="reschedule" value="true"/>
+                <input type="hidden" name="uat" value="<%=reschedule.uat%>"/>
+                <input type="hidden" name="appointment_id" value="<%=reschedule.apppointment_id%>"/>
+            <% } %>
+
+            <% if (!abs_enabled) { %>
+            <div class="non-abs-disclaimer">
+                <p>This is <span class="strong">only</span> an appointment request.</p>
+                <p>To get instant confirmation, book an appointment with <span class="suggest_abs_icon"></span>&nbsp;<span class="strong">Instant</span> <%=doctor.labels.doctor%>s</p>
+            </div>
+            <% } %>
+        </div>
+    </form>
+
+</script>
+
+<div class="tooltip" id="proceedTooltip">
+    <div style="position:relative;">
+        <div>Please select a time slot</div>
+        <div class="tooltip-notch"></div>
+    </div>
+</div>
+
+<script id="virtualnumberPatientForm" type="text/template">
+
+    <div class="vn_patient">
+        <div class="getting-phone-text">Getting Phone Number...</div>
+        <div class="overlay"></div>
+        <div class="notch"></div>
+    </div>
+</script>
+<script id="virtualnumberInformation" type="text/template">
+    <div class="show-phonenumber">
+        <div class="notch"></div>
+        <% if (obj.offerMessage) { %>
+        <div class="estab-discount-msg">
+                <%=obj.offerMessage %>
+        </div>
+        <% } %>
+        <div class="phone_and_ext">
+            <% if (vn_phone_number.country_code == 'SG') { %>
+                Number:
+            <% } else { %>
+                Ph:
+            <% } %>
+            <% if (obj.vn_practice_number) { %>
+                <span class="phone"><a href='tel:<%=vn_practice_number.phone_no%>'><b><%=obj.formatPhoneNumber(vn_practice_number.phone_no, vn_phone_number.country_code)%></b></a></span>
+            <% } else { %>
+                <% if (vn_phone_number.extension == false) { %>
+                    <span class="phone"><a href='tel:<%=vn_phone_number.number%>'><b><%=obj.formatPhoneNumber(vn_phone_number.number, vn_phone_number.country_code )%></b></a></span>
+                <% } else { %>
+                <span class="phone"><a href='tel:<%=vn_phone_number.number%>,,<%=extension%>'><b><%=obj.formatPhoneNumber(vn_phone_number.number, vn_phone_number.country_code )%></b></a></span>
+                <span>(Dial Extension: <b style="font-size:1.2em;"><%=extension%></b>) </span>
+                <% } %>
+            <% } %>
+        </div>
+        <div class="help_message">
+            <% var whiteListCountries = ["IDN", "MY", "BR", "MX", "ID"];
+            if (!_.contains(whiteListCountries, vn_phone_number.country_code)) { %>
+                <span><% if (vn_phone_number.country_code == 'SG') { %>The number and extension listed above are provided by Practo to enable user to be redirected to the clinic or doctor once dialled. If you couldn&#39;t connect,<% } else { %>If you couldn&#39;t connect with the center,<% } %> 
+                                            <a href="#" class="live-chat-link" onclick="LC_API.open_chat_window();return false;">Chat with us</a>
+                                        <div class="help_timing">(8 am to 7 pm, Monday to Sunday)<br/></div>
+                </span>
+            <% } %>
+        </div>
+        <% if (!obj.vn_practice_number) { %>
+            <div class="help_message">
+                Note: This call may be recorded for quality control purpose and call recording may be shared with the center you are trying to connect
+            </div>
+        <% } %>
+        <div>By calling this number, you agree to the <a href="https://www.practo.com/company/terms" target="blank">Terms & Conditions</a></div>
+    </div>
+</script>
+<script id="localitySelectionForm" type="text/template">
+
+    <div class="locality_select">
+        <% if(practices.length > 8) { %>
+        <div class="keywords-container locality-search-container">
+            <div class="search_grey"></div>
+            <input class="keywords-input ui-autocomplete-input location-selection-filter" type="text" placeholder="Search" autocomplete="off">
+        </div>
+        <% } %>
+        <p class="doc-qualifications choose-location">Choose your location</p>
+        <div>
+            <% _.each(practices,function(practice){ %>
+                <% if(isReachPlus) { %>
+                    <span class="locality-list-item" data-doctorid="<%= practice.id %>" data-practiceid="<%= practice.practice_id %>" data-status="<%= practice.status %>" data-ana="CityPageLocalityClickReachPlus:<%= practice.practice_id %>:<%= practice.id %>">
+                    <%= practice.locality %>
+                    </span>
+                <% } else { %>
+                    <span class="locality-list-item" data-doctorid="<%= practice.id %>" data-practiceid="<%= practice.practice_id %>" data-status="<%= practice.status %>" data-ana="CityPageLocalityClick:<%= practice.practice_id %>:<%= practice.id %>">
+                    <%= practice.locality %>
+                    </span>
+                <% } %>
+            <% }); %>
+        </div>
+    </div>
+</script>
+<script id="localityDisplayForm" type="text/template">
+
+    <div class="locality_display" style="padding: 5px 15px 15px;  height: 15px">
+        <span style="float:left; padding-top:5px"><%= locality %></span>
+        <% if(isReachPlus) { %>
+            <a href="javascript:void(0)" class="ranking-algo-info-wide change-location" data-ana="CityPageChangeLocalityClickReachPlus:changeLocation">
+                Change Location
+            </a>
+        <% } else { %>
+            <a href="javascript:void(0)" class="ranking-algo-info-wide change-location" data-ana="CityPageChangeLocalityClick:changeLocation">
+                Change Location
+            </a>
+        <% } %>
+    </div>
+</script>
+
+	<script>
+		gadimensions.dimension8 = 340798;
+				var searchvars = {"inFrame":false,"countries":[{"name":"India","helpline_number":"+91 95 9090 8080","cities":["Bangalore","Hyderabad","Visakhapatnam","Patna","Chandigarh","Raipur","Delhi","Ahmedabad","Rajkot","Surat","Vadodara","Panchkula","Faridabad","Gurgaon","Ernakulam","Thiruvananthapuram","Bhopal","Indore","Aurangabad","Mumbai","Thane","Nagpur","Nashik","Pune","Puducherry","Ludhiana","Mohali","Jaipur","Jodhpur","Chennai","Coimbatore","Agra","Allahabad","Kanpur Nagar","Lucknow","Noida","Ghaziabad","Meerut","Varanasi","Kolkata","Navi Mumbai","Vijayawada"],"topCities":["Bangalore","Mumbai","Delhi","Chennai","Kolkata","Pune","Hyderabad"],"defaultLocale":"en"},{"name":"Singapore","helpline_number":"+65 6714 6601","cities":["Singapore"],"topCities":["Singapore"],"defaultLocale":"en"},{"name":"Philippines","helpline_number":"+63 9271271962","cities":["Metro Manila","Batangas"],"topCities":["Metro Manila","Batangas"],"defaultLocale":"en"},{"name":"Indonesia","helpline_number":"+65 6714 6601","cities":["Jakarta"],"topCities":["Jakarta"],"defaultLocale":"id-id"},{"name":"Malaysia","helpline_number":"+65 6714 6601","cities":["Kuala Lumpur"],"topCities":["Kuala Lumpur"],"defaultLocale":"en"}],"results":[],"resultsFound":0,"cities":["Mumbai","Bangalore","Delhi","Hyderabad","Chennai","Metro Manila","Pune","Jakarta","Singapore","Thane","Kolkata","Ahmedabad","Navi Mumbai","Gurgaon","Lucknow","Surat","Jaipur","Ghaziabad","Noida","Coimbatore","Nashik","Nagpur","Bhopal","Ludhiana","Indore","Thiruvananthapuram","Patna","Vadodara","Agra","Faridabad","Chandigarh","Visakhapatnam","Ernakulam","Meerut","Aurangabad","Vijayawada","Batangas","Kuala Lumpur","Varanasi","Mohali","Jodhpur","Raipur","Ranchi","Puducherry","Kanpur Nagar","Cavite","Allahabad","Panchkula","Rio De Janeiro","Bogor","Mexico Df","Mangalore","Kanchipuram","Madurai","Bhubaneswar","Amritsar","Rajkot","Mysore","Dehradun","Guntur","Hubli","Howrah","Kolhapur","Bangalore Rural","Jabalpur","Depok","Vellore","Jalandhar","Nellore","Gwalior","Jamshedpur","Ambala","Petaling Jaya","South Goa","Kota","Warangal","Gandhinagar","North Goa","Guwahati","Solapur","Dhanbad","Hooghly","Erode","Chittoor","Ahmednagar","Srinagar","Thrissur","North 24 Parganas","Salem","Goalpara","Hisar","Patiala","Kozhikode","Kannur","Kakinada","Bharuch","Bathinda","Tumkur","Alappuzha","Khammam","Jalgaon","West Godavari","Panipat","Belgaum","Udaipur","Bardhaman","Rajahmundry","Gulbarga","Navsari","Kurnool","Kollam","Jammu","Ujjain","Darjeeling","Anand","Yamunanagar","Tirupur","Thanjavur","Rohtak","Kangra","Tirunelveli","Nizamabad","Nainital","Krishna","Alwar","Rangareddi","Jamnagar","Bhavnagar","Wayanad","Bhiwani","Udupi","Patan","Nanded","Karimnagar","Bareilly","Satara","Pathanamthitta","Mathura","Kottayam","Davanagere","Amravati","East Godavari","Dindigul","Anantapur","Vapi","Tiruchirappalli","Sonipat","Shimoga","Krishnagiri","Haridwar","Dharwad","Ariyalur","Sri Ganganagar","Ratnagiri","Raigad","Nalgonda","Karnal","Eluru","Bilaspur","Ajmer","Kapurthala","Cuddapah","Cuddalore","Sangli","Saharanpur","Rewari","Parbhani","Osmanabad","Malappuram","Kumbakonam","Kasargod","Jhajjar","Cuttack","Vaishali","Udham Singh Nagar","Tiruvallur","Sikar","Pandavapura","Muzaffarpur","Mahbubnagar","Faizabad","East Medinipur","Yavatmal","Vizianagaram","Vidisha","Solan","Nagercoil","Moradabad","Mandya","Latur","Lakhimpur","Gurdaspur","Gorakhpur","East Khasi Hills","Bikaner","Bekasi","Adilabad","South 24 Parganas","Prakasam","Porbandar","Nawanshahr","Mahesana","Idukki","Ganjam","Bellary","Aligarh","Akola","Sao Paulo","Rewa","Raichur","Pudukkottai","Muzaffarnagar","Murshidabad","Muktsar","Kutch","Jhansi","Gaya","Durg","Chickballapur","Chhindwara","Chandrapur","Barpeta","Wardha","Sitapur","Sirsa","Saran","Sangrur","Samastipur","Palakkad","Nadia","Medak","Khargone","Junagadh","Hoshiarpur","Fatehabad","Dhule","Dharmapuri","Darbhanga","Burhanpur","Buldhana","Beed","Bastar","Banas Kantha","Viluppuram","Una","Tinsukia","Thoothukudi","Subang Jaya","Shah Alam","Sabar Kantha","Puttur","Puchong","Pratapgarh","Jalna","Dangs","Chhatarpur","Bijapur","Afjalpur","Valsad","Tawang","Tapi","Sullia","Srikakulam","Sivaganga","Sindhudurg","Shimla","Narnaul","Namakkal","Munger","Kurukshetra","Korba","Kolar","Karur","Karaikal","Jorhat","Jharsuguda","Jalpaiguri","Hazaribag","Hassan","Hardoi","Hamirpur","Haliyal","Faridkot","Dohad","Dhar","Dhamtari","Dewas","Bulandshahr","Bidar","Bharatpur","Basti","Amreli","West Medinipur","Sultanpur","Siwan","Sirohi","Singrauli","Shorapur","Shikaripur","Sambalpur","Sagar","Rohtas","Rampur","Papum Pare","Neemuch","Moga","Mandsaur","Malvan","Malur","Malda","Maharajganj","Karwar","Karauli","Jhunjhunu","Jaunpur","Janjgir-champa","Jajpur","Hingoli","Haveri","Hailakandi","Gokak","Ghazipur","Firozabad","Fatehpur","Fatehgarh Sahib","Dholpur","Dadra And Nagar Haveli","Cooch Behar","Chamba","Bokaro","Bijnor","Barwani","Andaman","West Tripura","Unnao","Udhampur","Tiruvannamalai","Tiptur","Theni","Surguja","Supaul","Sundergarh","South Tangerang","Sonbhadra","Shivpuri","Shiggaon","Sheopur","Shahjahanpur","Sawai Madhopur","Satna","Sakleshpur","Rupnagar","Ratlam","Ramanathapuram","Rajsamand","Rajnandgaon","Rajauri","Raigarh","Raebareli","Purnia","Pulwama","Perambalur","Pashchim Champaran","Panch Mahals","Pali","Nawada","Nandurbar","Nagaon","Mudigere","Mirzapur","Mewat","Mayurbhanj","Mau","Marigaon","Mansa","Mandi","Malkangiri","Mahendragarh","Madhubani","Madhepura","Lakhisarai","Kumta","Kohima","Kheda","Khandwa","Kaushambi","Katni","Katihar","Kanyakumari","Kanker","Jind","Jewargi","Imphal","Hiriyur","Hathras","Hanumangarh","Guna","Golaghat","Gangavathi","Gadag","Ferozepur","Etah","East Sikkim","Dungarpur","Deoghar","Damoh","Daman","Chitradurga","Chatra","Chandauli","Challakere","Budaun","Birbhum","Bhilwara","Bhadravathi","Belur","Belthangady","Barnala","Barabanki","Bangarpet","Balrampur","Balangir","Bailhongal","Bagepalli","Bagalkot","Araria","Aizawl"],"specializations":["Dentist","General Physician","Homeopath","Pediatrician","Physiotherapist","Dental Surgeon","Ayurveda","Gynecologist\/obstetrician","Gynecologist","Saloon","Orthopedist","Implantologist","Cosmetic\/aesthetic Dentist","Orthodontist","General Surgeon","Endodontist","Orthopedic Surgeon","Cosmetologist","Unani","Cardiologist"],"form":{"city":"jaipur","q":null,"locality":null},"locality_list":[],"searchfor":"specialization","next_offset":0,"limit":10,"filters":[],"normalizedForm":{"q":"","city":"Jaipur","locality":null},"topLocalities":[],"cityCountry":{"bangalore":"india","hyderabad":"india","visakhapatnam":"india","patna":"india","chandigarh":"india","raipur":"india","delhi":"india","ahmedabad":"india","rajkot":"india","surat":"india","vadodara":"india","panchkula":"india","faridabad":"india","gurgaon":"india","ernakulam":"india","thiruvananthapuram":"india","bhopal":"india","indore":"india","aurangabad":"india","mumbai":"india","thane":"india","nagpur":"india","nashik":"india","pune":"india","puducherry":"india","ludhiana":"india","mohali":"india","jaipur":"india","jodhpur":"india","chennai":"india","coimbatore":"india","agra":"india","allahabad":"india","kanpur nagar":"india","lucknow":"india","noida":"india","ghaziabad":"india","meerut":"india","varanasi":"india","kolkata":"india","navi mumbai":"india","vijayawada":"india","singapore":"singapore","metro manila":"philippines","batangas":"philippines","jakarta":"indonesia","kuala lumpur":"malaysia"},"countriesHash":{"india":{"name":"India","helpline_number":"+91 95 9090 8080","cities":["Bangalore","Hyderabad","Visakhapatnam","Patna","Chandigarh","Raipur","Delhi","Ahmedabad","Rajkot","Surat","Vadodara","Panchkula","Faridabad","Gurgaon","Ernakulam","Thiruvananthapuram","Bhopal","Indore","Aurangabad","Mumbai","Thane","Nagpur","Nashik","Pune","Puducherry","Ludhiana","Mohali","Jaipur","Jodhpur","Chennai","Coimbatore","Agra","Allahabad","Kanpur Nagar","Lucknow","Noida","Ghaziabad","Meerut","Varanasi","Kolkata","Navi Mumbai","Vijayawada"],"topCities":["Bangalore","Mumbai","Delhi","Chennai","Kolkata","Pune","Hyderabad"],"defaultLocale":"en"},"singapore":{"name":"Singapore","helpline_number":"+65 6714 6601","cities":["Singapore"],"topCities":["Singapore"],"defaultLocale":"en"},"philippines":{"name":"Philippines","helpline_number":"+63 9271271962","cities":["Metro Manila","Batangas"],"topCities":["Metro Manila","Batangas"],"defaultLocale":"en"},"indonesia":{"name":"Indonesia","helpline_number":"+65 6714 6601","cities":["Jakarta"],"topCities":["Jakarta"],"defaultLocale":"id-id"},"malaysia":{"name":"Malaysia","helpline_number":"+65 6714 6601","cities":["Kuala Lumpur"],"topCities":["Kuala Lumpur"],"defaultLocale":"en"}}};
+		practiceRelations = [], practices = [];
+				practiceRelations.push({
+			"id" : 250239,
+			"status" : "ABS",
+			"visit_timings" : {"monday":{"session1_start_time":"09:00","session1_end_time":"12:05","session2_start_time":"17:00","session2_end_time":"21:00"},"tuesday":{"session1_start_time":"09:00","session1_end_time":"12:05","session2_start_time":"17:00","session2_end_time":"21:00"},"wednesday":{"session1_start_time":"09:00","session1_end_time":"12:05","session2_start_time":"17:00","session2_end_time":"21:00"},"thursday":{"session1_start_time":"09:00","session1_end_time":"12:05","session2_start_time":"17:00","session2_end_time":"21:00"},"friday":{"session1_start_time":"09:00","session1_end_time":"12:05","session2_start_time":"17:00","session2_end_time":"21:00"},"saturday":{"session1_start_time":"09:00","session1_end_time":"12:05","session2_start_time":"17:00","session2_end_time":"21:00"},"sunday":{"session1_start_time":"","session1_end_time":"","session2_start_time":"","session2_end_time":""}},
+			"practice_timings" : {"monday":{"session1_start_time":"09:00","session1_end_time":"12:00","session2_start_time":"17:00","session2_end_time":"20:30"},"tuesday":{"session1_start_time":"09:00","session1_end_time":"12:00","session2_start_time":"17:00","session2_end_time":"20:30"},"wednesday":{"session1_start_time":"09:00","session1_end_time":"12:00","session2_start_time":"17:00","session2_end_time":"20:30"},"thursday":{"session1_start_time":"09:00","session1_end_time":"12:00","session2_start_time":"17:00","session2_end_time":"20:30"},"friday":{"session1_start_time":"09:00","session1_end_time":"12:00","session2_start_time":"17:00","session2_end_time":"20:30"},"saturday":{"session1_start_time":"09:00","session1_end_time":"12:00","session2_start_time":"17:00","session2_end_time":"20:30"},"sunday":{"session1_start_time":"10:00","session1_end_time":"12:05","session2_start_time":"","session2_end_time":""}},
+			"practice_abs_active" : true,
+			"appointment_duration" : 250239,
+		});
+		practices.push({
+			"id" : 733921,
+			"name" : "Carewell Family Clinic",
+			"latitude" : "26.887413",
+			"longitude" : "75.768104"
+		});
+				practiceRelations.push({
+			"id" : 352206,
+			"status" : "ABS",
+			"visit_timings" : {"monday":{"session1_start_time":"12:05","session1_end_time":"14:30","session2_start_time":"","session2_end_time":""},"tuesday":{"session1_start_time":"12:05","session1_end_time":"14:30","session2_start_time":"","session2_end_time":""},"wednesday":{"session1_start_time":"12:05","session1_end_time":"14:30","session2_start_time":"","session2_end_time":""},"thursday":{"session1_start_time":"12:05","session1_end_time":"14:30","session2_start_time":"","session2_end_time":""},"friday":{"session1_start_time":"12:05","session1_end_time":"14:30","session2_start_time":"","session2_end_time":""},"saturday":{"session1_start_time":"12:05","session1_end_time":"14:30","session2_start_time":"","session2_end_time":""},"sunday":{"session1_start_time":"","session1_end_time":"","session2_start_time":"","session2_end_time":""}},
+			"practice_timings" : null,
+			"practice_abs_active" : true,
+			"appointment_duration" : 352206,
+		});
+		practices.push({
+			"id" : 835731,
+			"name" : "Sanjeevani Hospital",
+			"latitude" : "26.906154",
+			"longitude" : "75.774738"
+		});
+				photos = [{"photo_url":"https:\/\/practo-fabric.s3.amazonaws.com\/554b3bca747ac6fa41c645a69c0412a007584ba6bc635.jpg","photo_default":true}];
+		doctor = {id: -1};
+		doctor.id = 340798;
+	</script>
+		<div class="profile-overlay"></div>
+<div class="dialog-container" id="reportErrorDialog">
+        <form name="report-error" id="reportErrorForm" action="/">
+        <div class="report-error-container form-overall">
+            <div class="report-error-header">
+                <button class="profile-dialog-close btn-link re-close-btn" type="button">&#10005;</button>
+                <div>
+                    <div class="dialog-row">
+                        <div class="form-email">
+                            <label for="email">Your Email/Phone number *</label>
+                            <input type="text" class="reporter-email" name="reporter_email" id="email" value = "" required
+                                onchange="validateEmail()">
+                        </div>
+                    </div>
+                    <span class="emailError hide"> Enter correct values for email/phone number </span>
+                </div>
+                <div class="dialog-row doctor-padding">
+                    <div class="checkbox-container">
+                        <input type="checkbox" name="isDoctor" id="isDoctor">
+                        <label for="isDoctor" class="checkbox"></label>
+                        <label class="is-doctor" data-chkbxid="isDoctor">I am a Doctor</label>
+                    </div>
+                </div>
+                <span>
+                WHAT'S WRONG?
+                </span>
+                <span class="error hide-phone-number error-message">Select atleast one of the fields </span>
+            </div>
+            <input type="hidden" name="id" value="340798" data-type="doc">
+            <input type="hidden" name="practice_country" value="India">
+            <div class="dialog-row">
+                                <div class="dialog-col">
+                    <div class="checkbox-container">
+                        <input type="checkbox" name="issue_with[]" id="issue1" value="Phone number" onchange="enableSubmit()" data-target="issue_text1">
+                        <label for="issue1" class="checkbox"></label>
+                        <label class="labelForFilterCheckboxes" data-chkbxid="issue1">Phone number</label>
+                    </div>
+                </div>
+                                <div class="dialog-col">
+                    <div class="checkbox-container">
+                        <input type="checkbox" name="issue_with[]" id="issue2" value="Consultation Fee" onchange="enableSubmit()" data-target="issue_text2">
+                        <label for="issue2" class="checkbox"></label>
+                        <label class="labelForFilterCheckboxes" data-chkbxid="issue2">Consultation Fee</label>
+                    </div>
+                </div>
+                                <div class="dialog-col">
+                    <div class="checkbox-container">
+                        <input type="checkbox" name="issue_with[]" id="issue3" value="Doctor Qualification" onchange="enableSubmit()" data-target="issue_text3">
+                        <label for="issue3" class="checkbox"></label>
+                        <label class="labelForFilterCheckboxes" data-chkbxid="issue3">Doctor Qualification</label>
+                    </div>
+                </div>
+                                <div class="dialog-col">
+                    <div class="checkbox-container">
+                        <input type="checkbox" name="issue_with[]" id="issue4" value="Not Practicing anymore" onchange="enableSubmit()" data-target="issue_text4">
+                        <label for="issue4" class="checkbox"></label>
+                        <label class="labelForFilterCheckboxes" data-chkbxid="issue4">Not Practicing anymore</label>
+                    </div>
+                </div>
+                                <div class="dialog-col">
+                    <div class="checkbox-container">
+                        <input type="checkbox" name="issue_with[]" id="issue5" value="Address" onchange="enableSubmit()" data-target="issue_text5">
+                        <label for="issue5" class="checkbox"></label>
+                        <label class="labelForFilterCheckboxes" data-chkbxid="issue5">Address</label>
+                    </div>
+                </div>
+                                <div class="dialog-col">
+                    <div class="checkbox-container">
+                        <input type="checkbox" name="issue_with[]" id="issue6" value="Services" onchange="enableSubmit()" data-target="issue_text6">
+                        <label for="issue6" class="checkbox"></label>
+                        <label class="labelForFilterCheckboxes" data-chkbxid="issue6">Services</label>
+                    </div>
+                </div>
+                                <div class="dialog-col">
+                    <div class="checkbox-container">
+                        <input type="checkbox" name="issue_with[]" id="issue7" value="Timings" onchange="enableSubmit()" data-target="issue_text7">
+                        <label for="issue7" class="checkbox"></label>
+                        <label class="labelForFilterCheckboxes" data-chkbxid="issue7">Timings</label>
+                    </div>
+                </div>
+                                <div class="clear"></div>
+            </div>
+            <div class="dialog-row issue_text_hide hide">
+                                <div class="issue_text1 hide-phone-number " >
+                    <div class="form-phone-number">
+                        <label for="issue_text1" >Correct Phone number *</label>
+                        <input type="text" class="doctor-phone-number" name="issue_text[]" id="issue_text1">
+                    </div>
+                </div>
+                                <div class="issue_text2 hide-phone-number " >
+                    <div class="form-phone-number">
+                        <label for="issue_text2" >Correct Consultation Fee *</label>
+                        <input type="text" class="doctor-phone-number" name="issue_text[]" id="issue_text2">
+                    </div>
+                </div>
+                                <div class="issue_text3 hide-phone-number " >
+                    <div class="form-phone-number">
+                        <label for="issue_text3" >Correct Doctor Qualification *</label>
+                        <input type="text" class="doctor-phone-number" name="issue_text[]" id="issue_text3">
+                    </div>
+                </div>
+                                <div class="issue_text4 hide-phone-number " >
+                    <div class="form-phone-number">
+                        <label for="issue_text4" >Correct Not Practicing anymore *</label>
+                        <input type="text" class="doctor-phone-number" name="issue_text[]" id="issue_text4">
+                    </div>
+                </div>
+                                <div class="issue_text5 hide-phone-number " >
+                    <div class="form-phone-number">
+                        <label for="issue_text5" >Correct Address *</label>
+                        <input type="text" class="doctor-phone-number" name="issue_text[]" id="issue_text5">
+                    </div>
+                </div>
+                                <div class="issue_text6 hide-phone-number " >
+                    <div class="form-phone-number">
+                        <label for="issue_text6" >Correct Services *</label>
+                        <input type="text" class="doctor-phone-number" name="issue_text[]" id="issue_text6">
+                    </div>
+                </div>
+                                <div class="issue_text7 hide-phone-number " >
+                    <div class="form-phone-number">
+                        <label for="issue_text7" >Correct Timings *</label>
+                        <input type="text" class="doctor-phone-number" name="issue_text[]" id="issue_text7">
+                    </div>
+                </div>
+                            </div>
+            <div class="dialog-row">
+                <div class="form-description">
+                    <label for="description" > More Details</label>
+                    <textarea name="description" class="re-description" id="description" ></textarea>
+                </div>
+            </div>
+            <div class="clear"></div>
+            <button type="submit" id="reportErrors" class="btn btn-green re-submit-btn">Report</button>
+    </form>
+    </div>
+</div>	<div class="dialog-container" id="claimProfileDialog">
+    <div class="report-error-container">
+        <div class="report-error-header">
+            <span>
+                CLAIM PROFILE            </span>
+            <button class="profile-dialog-close btn-link re-close-btn" type="button">&#10005;</button>
+        </div>
+                <form name="report-error" id="claimProfileFrm" action="/" style="display:none">
+            <div id="error-msg" data-default="Sorry something went wrong. Please try again" style="display:none;color: rgb(255, 0, 0);font-size: 14px; height:30px; line-height:30px; font-family:inherit;">
+            </div>
+            <input type="hidden" name="id" value="340798">
+            <div class="dialog-row">
+                <div class="form-email dialog-col">
+                    <label for="email">Email</label>
+                    <input type="text" class="reporter-email" name="reporter_email" id="email">
+                </div>
+            </div>
+            <div class="dialog-row">
+                <div class="form-email dialog-col">
+                    <label for="mobileNumber">Mobile Number</label>
+                    <input type="text" class="reporter-email" name="mobile_number" id="mobileNumber">
+                </div>
+            </div>
+            <div class="dialog-row" id="doctorRegDetails" style="display:none;">
+                <div class="form-email dialog-col" style="width: 100%; margin-bottom: 5px;">
+                     <label for="regNo" style="display:block">Registration Number</label>
+                     <input type="text" class="reporter-email" name="reg_no" id="regNo" style="width: 128px;">
+                                                               <select class="reporter-email" id="year" style="width: 128px">
+                      <option value="">(year)</option>
+                                               <option value="2015">2015</option>
+                                                                        <option value="2014">2014</option>
+                                                                        <option value="2013">2013</option>
+                                                                        <option value="2012">2012</option>
+                                                                        <option value="2011">2011</option>
+                                                                        <option value="2010">2010</option>
+                                                                        <option value="2009">2009</option>
+                                                                        <option value="2008">2008</option>
+                                                                        <option value="2007">2007</option>
+                                                                        <option value="2006">2006</option>
+                                                                        <option value="2005">2005</option>
+                                                                        <option value="2004">2004</option>
+                                                                        <option value="2003">2003</option>
+                                                                        <option value="2002">2002</option>
+                                                                        <option value="2001">2001</option>
+                                                                        <option value="2000">2000</option>
+                                                                        <option value="1999">1999</option>
+                                                                        <option value="1998">1998</option>
+                                                                        <option value="1997">1997</option>
+                                                                        <option value="1996">1996</option>
+                                                                        <option value="1995">1995</option>
+                                                                        <option value="1994">1994</option>
+                                                                        <option value="1993">1993</option>
+                                                                        <option value="1992">1992</option>
+                                                                        <option value="1991">1991</option>
+                                                                        <option value="1990">1990</option>
+                                                                        <option value="1989">1989</option>
+                                                                        <option value="1988">1988</option>
+                                                                        <option value="1987">1987</option>
+                                                                        <option value="1986">1986</option>
+                                                                        <option value="1985">1985</option>
+                                                                        <option value="1984">1984</option>
+                                                                        <option value="1983">1983</option>
+                                                                        <option value="1982">1982</option>
+                                                                        <option value="1981">1981</option>
+                                                                        <option value="1980">1980</option>
+                                                                        <option value="1979">1979</option>
+                                                                        <option value="1978">1978</option>
+                                                                        <option value="1977">1977</option>
+                                                                        <option value="1976">1976</option>
+                                                                        <option value="1975">1975</option>
+                                                                        <option value="1974">1974</option>
+                                                                        <option value="1973">1973</option>
+                                                                        <option value="1972">1972</option>
+                                                                        <option value="1971">1971</option>
+                                                                        <option value="1970">1970</option>
+                                                                        <option value="1969">1969</option>
+                                                                        <option value="1968">1968</option>
+                                                                        <option value="1967">1967</option>
+                                                                        <option value="1966">1966</option>
+                                                                        <option value="1965">1965</option>
+                                                                        <option value="1964">1964</option>
+                                                                        <option value="1963">1963</option>
+                                                                        <option value="1962">1962</option>
+                                                                        <option value="1961">1961</option>
+                                                                        <option value="1960">1960</option>
+                                                                        <option value="1959">1959</option>
+                                                                        <option value="1958">1958</option>
+                                                                        <option value="1957">1957</option>
+                                                                        <option value="1956">1956</option>
+                                                                        <option value="1955">1955</option>
+                                                                        <option value="1954">1954</option>
+                                                                        <option value="1953">1953</option>
+                                                                        <option value="1952">1952</option>
+                                                                        <option value="1951">1951</option>
+                                                                        <option value="1950">1950</option>
+                                                                        <option value="1949">1949</option>
+                                                                        <option value="1948">1948</option>
+                                                                        <option value="1947">1947</option>
+                                                                        <option value="1946">1946</option>
+                                                                        <option value="1945">1945</option>
+                                                                        <option value="1944">1944</option>
+                                                                        <option value="1943">1943</option>
+                                                                        <option value="1942">1942</option>
+                                                                        <option value="1941">1941</option>
+                                                                        <option value="1940">1940</option>
+                                                                        <option value="1939">1939</option>
+                                                                        <option value="1938">1938</option>
+                                                                        <option value="1937">1937</option>
+                                                                        <option value="1936">1936</option>
+                                                                        <option value="1935">1935</option>
+                                                                        <option value="1934">1934</option>
+                                                                        <option value="1933">1933</option>
+                                                                        <option value="1932">1932</option>
+                                                                        <option value="1931">1931</option>
+                                                                        <option value="1930">1930</option>
+                                                                        <option value="1929">1929</option>
+                                                                        <option value="1928">1928</option>
+                                                                        <option value="1927">1927</option>
+                                                                        <option value="1926">1926</option>
+                                                                        <option value="1925">1925</option>
+                                                                        <option value="1924">1924</option>
+                                                                        <option value="1923">1923</option>
+                                                                        <option value="1922">1922</option>
+                                                                        <option value="1921">1921</option>
+                                                                        <option value="1920">1920</option>
+                                                                        <option value="1919">1919</option>
+                                                                        <option value="1918">1918</option>
+                                                                        <option value="1917">1917</option>
+                                                                        <option value="1916">1916</option>
+                                                                        <option value="1915">1915</option>
+                                                                   </select>
+                    <select class="reporter-email" id="regCouncil" style="width: 128px">
+                      <option value="">(Reg. Council)</option>
+                    </select>
+                </div>
+            </div>
+
+            <div class="clear"></div>
+            <button type="submit" class="btn btn-green re-submit-btn" id="claimSubmitBtn">Submit</button>
+        </form>
+        <div style="display:none;height: 30px;line-height: 30px;font-family: inherit;" id="claimMessage"></div>
+    </div>
+</div>
+            <input id="ana-record" type="hidden" value="{&quot;733921&quot;:{&quot;250239&quot;:&quot;ABS&quot;},&quot;835731&quot;:{&quot;352206&quot;:&quot;ABS&quot;},&quot;doctorData&quot;:{&quot;250239&quot;:{&quot;eventProperties&quot;:{&quot;Button Source&quot;:&quot;Doctor Profile&quot;,&quot;Page URL&quot;:&quot;https:\/\/www.practo.com\/jaipur\/doctor\/dr-vikas-mittal-general-physician&quot;,&quot;Doctor Speciality&quot;:&quot;General Physician&quot;,&quot;Doctor Locality&quot;:&quot;Sodala&quot;},&quot;peopleProperties&quot;:{&quot;Instant Clinic ID&quot;:733921,&quot;Instant Clinic Name&quot;:&quot;Carewell Family Clinic&quot;,&quot;Instant Clinic Profile URL&quot;:&quot;https:\/\/www.practo.com\/Jaipur\/clinic\/carewell-family-clinic-sodala&quot;,&quot;Instant Doctor Locality&quot;:&quot;Sodala&quot;,&quot;Instant Doctor Fees&quot;:&quot;200&quot;,&quot;Instant Page URL&quot;:&quot;https:\/\/www.practo.com\/jaipur\/doctor\/dr-vikas-mittal-general-physician&quot;,&quot;Instant Doctor ID&quot;:340798,&quot;Instant Doctor Name&quot;:&quot;Dr. Vikas Mittal&quot;,&quot;Instant Doctor Profile URL&quot;:&quot;https:\/\/www.practo.com\/jaipur\/doctor\/dr-vikas-mittal-general-physician&quot;,&quot;Instant Doctor Photo URL&quot;:&quot;https:\/\/practo-fabric.s3.amazonaws.com\/554b3bca747ac6fa41c645a69c0412a007584ba6bc635.jpg&quot;,&quot;Instant Doctor Parent URL&quot;:&quot;&quot;,&quot;Instant Doctor Experience&quot;:8,&quot;Instant Doctor Speciality&quot;:&quot;General Physician&quot;,&quot;Instant Doctor Reviews Count&quot;:&quot;10&quot;,&quot;Instant Recommendations Count&quot;:149}},&quot;352206&quot;:{&quot;eventProperties&quot;:{&quot;Button Source&quot;:&quot;Doctor Profile&quot;,&quot;Page URL&quot;:&quot;https:\/\/www.practo.com\/jaipur\/doctor\/dr-vikas-mittal-general-physician&quot;,&quot;Doctor Speciality&quot;:&quot;General Physician&quot;,&quot;Doctor Locality&quot;:&quot;Sodala&quot;},&quot;peopleProperties&quot;:{&quot;Instant Clinic ID&quot;:835731,&quot;Instant Clinic Name&quot;:&quot;Sanjeevani Hospital&quot;,&quot;Instant Clinic Profile URL&quot;:&quot;https:\/\/www.practo.com\/Jaipur\/clinic\/sanjeevani-hospital-sodala&quot;,&quot;Instant Doctor Locality&quot;:&quot;Sodala&quot;,&quot;Instant Doctor Fees&quot;:&quot;200&quot;,&quot;Instant Page URL&quot;:&quot;https:\/\/www.practo.com\/jaipur\/doctor\/dr-vikas-mittal-general-physician&quot;,&quot;Instant Doctor ID&quot;:340798,&quot;Instant Doctor Name&quot;:&quot;Dr. Vikas Mittal&quot;,&quot;Instant Doctor Profile URL&quot;:&quot;https:\/\/www.practo.com\/jaipur\/doctor\/dr-vikas-mittal-general-physician&quot;,&quot;Instant Doctor Photo URL&quot;:&quot;https:\/\/practo-fabric.s3.amazonaws.com\/554b3bca747ac6fa41c645a69c0412a007584ba6bc635.jpg&quot;,&quot;Instant Doctor Parent URL&quot;:&quot;&quot;,&quot;Instant Doctor Experience&quot;:8,&quot;Instant Doctor Speciality&quot;:&quot;General Physician&quot;,&quot;Instant Doctor Reviews Count&quot;:&quot;10&quot;,&quot;Instant Recommendations Count&quot;:149}}},&quot;pageView&quot;:{&quot;events&quot;:{&quot;Page Name&quot;:&quot;Doctor Profile&quot;,&quot;Doctor City&quot;:&quot;Jaipur&quot;,&quot;Search Type&quot;:&quot;Doctor&quot;,&quot;Doctor Locality&quot;:&quot;Sodala&quot;,&quot;Doctor Speciality&quot;:&quot;General Physician&quot;,&quot;Page URL&quot;:&quot;https:\/\/www.practo.com\/jaipur\/doctor\/dr-vikas-mittal-general-physician&quot;},&quot;people&quot;:{&quot;Doctor Profile viewed on&quot;:&quot;2015-12-24 07:54:11&quot;,&quot;Visited Doctor URL&quot;:&quot;https:\/\/www.practo.com\/jaipur\/doctor\/dr-vikas-mittal-general-physician&quot;,&quot;Visited Doctor ID&quot;:340798,&quot;Visited Doctor Name&quot;:&quot;Dr. Vikas Mittal&quot;,&quot;Visited Doctor Photo URL&quot;:&quot;https:\/\/practo-fabric.s3.amazonaws.com\/554b3bca747ac6fa41c645a69c0412a007584ba6bc635.jpg&quot;,&quot;Visited Doctor Speciality&quot;:&quot;General Physician&quot;,&quot;Visited Doctor Locality&quot;:&quot;Sodala&quot;,&quot;Visited Doctor City&quot;:&quot;Jaipur&quot;,&quot;Visited Doctor Parent URL&quot;:&quot;https:\/\/www.practo.com\/jaipur\/general-physician&quot;}},&quot;doctorId&quot;:340798}" />
+    </div>
+		<div class="city-dropdown">
+										<div class="city-dropdown-country-container">
+				<div class="city-dropdown-country-head flag-india-small">INDIA</div>
+				<div class="city-dropdown-top-cities-container">
+																		<div class="city-dropdown-top-city-row">
+														<a href="javascript:void(0);" data-slug="bangalore" data-country="india" class="city-dropdown-option city-dropdown-top-city-alpha">
+								Bangalore
+							</a>
+																									<a href="javascript:void(0);" data-slug="chennai" data-country="india" class="city-dropdown-option city-dropdown-top-city-beta">
+								Chennai
+							</a>
+															<div class="clear"></div>
+							</div>
+																								<div class="city-dropdown-top-city-row">
+														<a href="javascript:void(0);" data-slug="delhi" data-country="india" class="city-dropdown-option city-dropdown-top-city-alpha">
+								Delhi
+							</a>
+																									<a href="javascript:void(0);" data-slug="hyderabad" data-country="india" class="city-dropdown-option city-dropdown-top-city-beta">
+								Hyderabad
+							</a>
+															<div class="clear"></div>
+							</div>
+																								<div class="city-dropdown-top-city-row">
+														<a href="javascript:void(0);" data-slug="kolkata" data-country="india" class="city-dropdown-option city-dropdown-top-city-alpha">
+								Kolkata
+							</a>
+																									<a href="javascript:void(0);" data-slug="mumbai" data-country="india" class="city-dropdown-option city-dropdown-top-city-beta">
+								Mumbai
+							</a>
+															<div class="clear"></div>
+							</div>
+																								<div class="city-dropdown-top-city-row">
+														<a href="javascript:void(0);" data-slug="pune" data-country="india" class="city-dropdown-option city-dropdown-top-city-alpha">
+								Pune
+							</a>
+															<div class="clear"></div>
+							</div>
+																<div class="clear"></div>
+				</div>
+									<div class="other-city-search-activator">
+						<a href="javascript:void(0);" class="link">Other Cities</a>
+					</div>
+					<div class="other-city-container">
+						<div class="other-city-input-box">
+							<input type="text" name="other-city" data-country="India"/>
+							<a href="javascript:void(0);" class="close-other-city">CANCEL</a>
+						</div>
+						<div class="other-city-list">
+																								<a href="javascript:void(0);" data-slug="agra" data-country="india" class="city-dropdown-option city-dropdown-city">Agra</a>
+																																<a href="javascript:void(0);" data-slug="ahmedabad" data-country="india" class="city-dropdown-option city-dropdown-city">Ahmedabad</a>
+																																<a href="javascript:void(0);" data-slug="allahabad" data-country="india" class="city-dropdown-option city-dropdown-city">Allahabad</a>
+																																<a href="javascript:void(0);" data-slug="aurangabad" data-country="india" class="city-dropdown-option city-dropdown-city">Aurangabad</a>
+																																															<a href="javascript:void(0);" data-slug="bhopal" data-country="india" class="city-dropdown-option city-dropdown-city">Bhopal</a>
+																																<a href="javascript:void(0);" data-slug="chandigarh" data-country="india" class="city-dropdown-option city-dropdown-city">Chandigarh</a>
+																																															<a href="javascript:void(0);" data-slug="coimbatore" data-country="india" class="city-dropdown-option city-dropdown-city">Coimbatore</a>
+																																															<a href="javascript:void(0);" data-slug="ernakulam" data-country="india" class="city-dropdown-option city-dropdown-city">Ernakulam</a>
+																																<a href="javascript:void(0);" data-slug="faridabad" data-country="india" class="city-dropdown-option city-dropdown-city">Faridabad</a>
+																																<a href="javascript:void(0);" data-slug="ghaziabad" data-country="india" class="city-dropdown-option city-dropdown-city">Ghaziabad</a>
+																																<a href="javascript:void(0);" data-slug="gurgaon" data-country="india" class="city-dropdown-option city-dropdown-city">Gurgaon</a>
+																																															<a href="javascript:void(0);" data-slug="indore" data-country="india" class="city-dropdown-option city-dropdown-city">Indore</a>
+																																<a href="javascript:void(0);" data-slug="jaipur" data-country="india" class="city-dropdown-option city-dropdown-city">Jaipur</a>
+																																<a href="javascript:void(0);" data-slug="jodhpur" data-country="india" class="city-dropdown-option city-dropdown-city">Jodhpur</a>
+																																<a href="javascript:void(0);" data-slug="kanpur-nagar" data-country="india" class="city-dropdown-option city-dropdown-city">Kanpur Nagar</a>
+																																															<a href="javascript:void(0);" data-slug="lucknow" data-country="india" class="city-dropdown-option city-dropdown-city">Lucknow</a>
+																																<a href="javascript:void(0);" data-slug="ludhiana" data-country="india" class="city-dropdown-option city-dropdown-city">Ludhiana</a>
+																																<a href="javascript:void(0);" data-slug="meerut" data-country="india" class="city-dropdown-option city-dropdown-city">Meerut</a>
+																																<a href="javascript:void(0);" data-slug="mohali" data-country="india" class="city-dropdown-option city-dropdown-city">Mohali</a>
+																																															<a href="javascript:void(0);" data-slug="nagpur" data-country="india" class="city-dropdown-option city-dropdown-city">Nagpur</a>
+																																<a href="javascript:void(0);" data-slug="nashik" data-country="india" class="city-dropdown-option city-dropdown-city">Nashik</a>
+																																<a href="javascript:void(0);" data-slug="navi-mumbai" data-country="india" class="city-dropdown-option city-dropdown-city">Navi Mumbai</a>
+																																<a href="javascript:void(0);" data-slug="noida" data-country="india" class="city-dropdown-option city-dropdown-city">Noida</a>
+																																<a href="javascript:void(0);" data-slug="panchkula" data-country="india" class="city-dropdown-option city-dropdown-city">Panchkula</a>
+																																<a href="javascript:void(0);" data-slug="patna" data-country="india" class="city-dropdown-option city-dropdown-city">Patna</a>
+																																<a href="javascript:void(0);" data-slug="puducherry" data-country="india" class="city-dropdown-option city-dropdown-city">Puducherry</a>
+																																															<a href="javascript:void(0);" data-slug="raipur" data-country="india" class="city-dropdown-option city-dropdown-city">Raipur</a>
+																																<a href="javascript:void(0);" data-slug="rajkot" data-country="india" class="city-dropdown-option city-dropdown-city">Rajkot</a>
+																																<a href="javascript:void(0);" data-slug="surat" data-country="india" class="city-dropdown-option city-dropdown-city">Surat</a>
+																																<a href="javascript:void(0);" data-slug="thane" data-country="india" class="city-dropdown-option city-dropdown-city">Thane</a>
+																																<a href="javascript:void(0);" data-slug="thiruvananthapuram" data-country="india" class="city-dropdown-option city-dropdown-city">Thiruvananthapuram</a>
+																																<a href="javascript:void(0);" data-slug="vadodara" data-country="india" class="city-dropdown-option city-dropdown-city">Vadodara</a>
+																																<a href="javascript:void(0);" data-slug="varanasi" data-country="india" class="city-dropdown-option city-dropdown-city">Varanasi</a>
+																																<a href="javascript:void(0);" data-slug="vijayawada" data-country="india" class="city-dropdown-option city-dropdown-city">Vijayawada</a>
+																																<a href="javascript:void(0);" data-slug="visakhapatnam" data-country="india" class="city-dropdown-option city-dropdown-city">Visakhapatnam</a>
+																					</div>
+					</div>
+							</div>
+												<div class="city-dropdown-country-seperator"></div>
+						<div class="city-dropdown-country-container">
+				<div class="city-dropdown-country-head flag-singapore-small">SINGAPORE</div>
+				<div class="city-dropdown-top-cities-container">
+																		<div class="city-dropdown-top-city-row">
+														<a href="javascript:void(0);" data-slug="singapore" data-country="singapore" class="city-dropdown-option city-dropdown-top-city-alpha">
+								Singapore
+							</a>
+															<div class="clear"></div>
+							</div>
+																<div class="clear"></div>
+				</div>
+							</div>
+												<div class="city-dropdown-country-seperator"></div>
+						<div class="city-dropdown-country-container">
+				<div class="city-dropdown-country-head flag-philippines-small">PHILIPPINES</div>
+				<div class="city-dropdown-top-cities-container">
+																		<div class="city-dropdown-top-city-row">
+														<a href="javascript:void(0);" data-slug="batangas" data-country="philippines" class="city-dropdown-option city-dropdown-top-city-alpha">
+								Batangas
+							</a>
+																									<a href="javascript:void(0);" data-slug="metro-manila" data-country="philippines" class="city-dropdown-option city-dropdown-top-city-beta">
+								Metro Manila
+							</a>
+															<div class="clear"></div>
+							</div>
+																<div class="clear"></div>
+				</div>
+							</div>
+												<div class="city-dropdown-country-seperator"></div>
+						<div class="city-dropdown-country-container">
+				<div class="city-dropdown-country-head flag-indonesia-small">INDONESIA</div>
+				<div class="city-dropdown-top-cities-container">
+																		<div class="city-dropdown-top-city-row">
+														<a href="javascript:void(0);" data-slug="jakarta" data-country="indonesia" class="city-dropdown-option city-dropdown-top-city-alpha">
+								Jakarta
+							</a>
+															<div class="clear"></div>
+							</div>
+																<div class="clear"></div>
+				</div>
+							</div>
+												<div class="city-dropdown-country-seperator"></div>
+						<div class="city-dropdown-country-container">
+				<div class="city-dropdown-country-head flag-malaysia-small">MALAYSIA</div>
+				<div class="city-dropdown-top-cities-container">
+																		<div class="city-dropdown-top-city-row">
+														<a href="javascript:void(0);" data-slug="kuala-lumpur" data-country="malaysia" class="city-dropdown-option city-dropdown-top-city-alpha">
+								Kuala Lumpur
+							</a>
+															<div class="clear"></div>
+							</div>
+																<div class="clear"></div>
+				</div>
+							</div>
+						</div>
+	<div class="clear"></div>
+				<div class="pr-footer-new">
+    <div class="page-body-container">
+        <div class="pr-footer-column">
+            <div class="pr-footer-column-head">
+                <h6 class="collapsed">Practo</h6>
+            </div>
+            <div class="pr-footer-column-links responsive-hide">
+                                                                                                                        <a href="/jaipur?searchfor=doctor">Search for doctors</a>
+                                                    <a href="/sitemap/jaipur">Healthcare Directory Jaipur</a>
+                                <a href="/for-doctors/reach?source=footer">Get Practo Reach</a>
+                <a class="app-dnl-icon" href="http://www.practo.com/mobile?utm_source=footer&utm_medium=banner&utm_campaign=Footer%20Banner">
+                    <img alt="Practo App" width="70%" src="/bundles/practopractoapp/images/marketing/practo-app-dowload-footer.png">
+                </a>
+            </div>
+        </div>
+        <div class="pr-footer-column">
+            <div class="pr-footer-column-head">
+                <h6 class="collapsed">For Doctors</h6>
+            </div>
+            <div class="pr-footer-column-links responsive-hide">
+                <a href="/ray">Practice Management Software</a>
+                <a href="/ray/features/emr">EMR Software</a>
+                <a href="/ray/features/calendar">Appointment Scheduling Software</a>
+                <a href="/ray/features/billing">Medical Billing Software</a>
+                <a href="/ray/features/communications">Patient SMS Software</a>
+            </div>
+        </div>
+        <div class="pr-footer-column">
+            <div class="pr-footer-column-head">
+                <h6 class="collapsed">Support</h6>
+            </div>
+            <div class="pr-footer-column-links responsive-hide">
+                <a href="http://help.practo.com">Knowledge base</a>
+                <a href="/company/contact">Contact Us</a>
+            </div>
+        </div>
+        <div class="pr-footer-column">
+            <div class="pr-footer-column-head">
+                <h6 class="collapsed">About Us</h6>
+            </div>
+            <div class="pr-footer-column-links responsive-hide">
+                <a href="/ray/aboutus">Our Story</a>
+                <a href="http://blog.practo.com">Blog</a>
+                <a href="/ray/careers">Jobs</a>
+                <a href="/company/contact">Locations</a>
+            </div>
+        </div>
+        <div class="pr-footer-column">
+            <div class="pr-footer-column-head">
+                <h6 class="collapsed">Connect</h6>
+            </div>
+            <div class="pr-footer-column-links responsive-hide">
+                <a href="//twitter.com/Practo" rel="nofollow">Twitter</a>
+                <a href="//www.facebook.com/practo" rel="nofollow">Facebook</a>
+                <a href="//plus.google.com/+practo" rel="nofollow">Google+</a>
+                <a href="//www.youtube.com/user/PractoSupport" rel="nofollow">Youtube</a>
+                <a href="//github.com/practo" rel="nofollow">Github</a>
+                <a href="//www.linkedin.com/company/2390063?trk=tyah" rel="nofollow">LinkedIn</a>
+            </div>
+        </div>
+        <div class="pr-footer-column">
+            <div class="pr-footer-column-head">
+                <h6 class="collapsed">More</h6>
+            </div>
+            <div class="pr-footer-column-links responsive-hide">
+                <a href="/ray/privacy">Privacy Policy</a>
+                <a href="/ray/terms">Terms &amp; Conditions</a>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+		<div class="pr-footer-copyright">
+			<p class="page-body-container">&copy; 2015, Practo Technologies Pvt. Ltd. All Rights Reserved.</p>
+		</div>
+		<script>
+		
+		if (typeof window.practo == "undefined" ){
+			window.practo = {
+				"fabric" : {
+					"labels" : {"doctor":"Doctor","patient":"Patient","practice":"Practice"}
+				}
+			}
+		}
+		else {
+			if (typeof window.practo.fabric == "undefined"){
+				window.practo.fabric = {
+					"labels" : {"doctor":"Doctor","patient":"Patient","practice":"Practice"}
+				};
+			}
+			else {
+				window.practo.fabric.labels = {"doctor":"Doctor","patient":"Patient","practice":"Practice"};
+			}
+		}
+		
+		if (typeof searchvars !== 'undefined') {
+			searchvars.practice_types = [];
+		}
+	</script>
+	<script type="text/template" id="newAppointmentTemplate">
+		<div class="new_appointment_notice">
+			<div style="width:95%;" class="floatleft"><a class="link pad_left appt_href_link" href="<%-appt_url%>">New Online Appointment</a> booked in "<%-clinic_name%>"</div>
+			<div class="floatright" style="width:16px;"><a class="appt_notice_close"><img src="/bundles/practopractoapp/images/close.png"/></a></div>
+			<div class="clear"></div>
+		</div>
+	</script>
+		
+										<!-- Google Code for Remarketing Tag -->
+				<script type="text/javascript">
+					/* <![CDATA[ */
+					var google_conversion_id = 1007860816;
+					var google_custom_params = window.google_tag_params;
+					var google_remarketing_only = true;
+					window.addEventListener('load', function(){
+						var a = document.createElement('script');
+						a.async=1;a.src='//www.googleadservices.com/pagead/conversion.js';
+						var m = document.getElementsByTagName('script')[0];
+						m.parentNode.insertBefore(a,m);
+					});
+
+					/* ]]> */
+				</script>
+
+				<noscript>
+					<div style="display:inline;">
+						<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1007860816/?value=0&amp;guid=ON&amp;script=0"/>
+					</div>
+				</noscript>
+									
+	
+	<!--Start Scripts-->
+		    <script type="text/javascript">
+	        window.mixpanel_token = "85d643d7bc71611832663cd683666848";
+	    </script>
+	    	      <script src="https://www.practo.com/js/174da8d-36c7443.js"></script>
+	    			<script async-src="https://www.practo.com/js/0e6b51b-e83cf48.js"></script>
+			<script>
+  window.locale = '';
+  var practo = practo||{};
+  practo.omnisearch = {};
+  practo.omnisearch.doctorLabel = 'Doctors named';
+  practo.omnisearch.clinicLabel = 'Clinics named';
+  practo.omnisearch.labLabel = 'Labs named';
+  practo.omnisearch.currentLocation = ['Current location'];
+  practo.omnisearch.wellnessLabel = 'Spas and Salons named';
+  practo.omnisearch.fitnessLabel = 'Gyms named';
+  practo.omnisearch.gettingLocationPlaceholder = 'Getting location...'
+  practo.omnisearch.translations = {
+  'locality': 'locality',
+  'city': 'city',
+  'landmark': 'landmark',
+  'speciality': 'speciality',
+  'clinic speciality': 'clinic speciality',
+  'symptom': 'symptom',
+  'service': 'service',
+  'test': 'test',
+  'doctor': 'doctor',
+  'clinic': 'clinic',
+  'Dentist': "Dentist",
+  'Gynecologist/obstetrician': "Gynecologist/obstetrician",
+  'Dermatologist/cosmetologist': "Dermatologist/cosmetologist",
+  'Pediatrician': "Pediatrician",
+  'General Physician': "General Physician",
+  'Dermatologist/cosmetologist': "Dermatologist/Cosmetologist",
+  'Ear-nose-throat (ent) Specialist': "Ear-nose-throat (ent) Specialist",
+  'Homeopath': "Homeopath",
+  'Ayurveda': "Ayurveda",
+  'Thyroid Profile': 'Thyroid Profile',
+  'Lipid Profile': 'Lipid Profile',
+  'Complete Blood Count': 'Complete Blood Count'
+  }
+  practo.omnisearch.topSpecializations = [
+    "Dentist",
+    "Gynecologist/obstetrician",
+    "General Physician",
+    "Dermatologist/cosmetologist",
+    "Ear-nose-throat (ent) Specialist",
+    "Homeopath",
+    "Ayurveda"
+  ];
+  practo.omnisearch.topSpecializationsType = 'speciality';
+
+  practo.omnisearch.topTests = ["Thyroid Profile", "Lipid Profile", "Complete Blood Count"];
+  practo.omnisearch.topTestsType = 'test';
+
+  practo.omnisearch.headerWordsKeyValueMap = {
+    "clinic": "Clinics",
+    "doctor": "Doctors",
+    "diagnostic": "Diagnostic Labs",
+    "spa": "Spas and Salons",
+    "salon": "Spas and Salons",
+    "gym": "Gyms and Yoga Centres",
+    "yoga": "Gyms and Yoga Centres"
+  };
+
+  practo.omnisearch.placeholderDoctor = 'Specialities, Doctors, Clinics';
+  practo.omnisearch.placeholderLabs = 'Labs';
+  practo.omnisearch.placeholderWellness = 'Spas and Salons';
+  practo.omnisearch.placeholderFitness = 'Gyms and Yoga Centers';
+  practo.omnisearch.placeholderEtc = 'etc';
+
+</script>
+	<script>
+  var practo = practo||{};
+  practo.errormessage = {};
+  practo.errormessage.smsNotSent = 'Sorry, SMS could not be sent';
+  practo.errormessage.enterValidNumber = 'Enter valid number';
+  practo.errormessage.enterTenDigitNumber = 'Enter 10 digit number';
+ </script>						<script async-src="https://www.practo.com/js/aa5dcee-b70c257.js"></script>
+			
+	
+		
+    
+		<script>
+		
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;i.addEventListener('load', function(){m.parentNode.insertBefore(a,m)});
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    
+    ga('create', 'UA-18841050-11', 'auto', {'name': 'practo'});
+    
+
+    ga('practo.require', 'displayfeatures');
+    ga('practo.send', 'pageview', gadimensions);
+
+(function (window){
+    // our code
+    window.addSokratiTracking = function (doctor_id, appointment_time){
+        _sokrati_registration(doctor_id, appointment_time);
+    }
+    var sokratiExecutionQueue = [];
+    window._sokrati_registration = function () {
+        sokratiExecutionQueue.push(arguments);
+    };
+
+    window.onSokratiLoad = function () {
+        sokratiExecutionQueue.forEach(function (item) {
+            _sokrati_registration.apply(null, item);
+        });
+    }
+})(window);
+
+(function() {
+
+    // sokrati code
+    var a = document.createElement('script');
+    a.type = 'text/javascript';
+    a.async = true;
+    a.src=('https:'==document.location.protocol?'https://':'http://cdn.')+'chuknu.sokrati.com/8799/tracker.js';
+    a.addEventListener('load', onSokratiLoad);
+    var s = document.getElementsByTagName('script')[0];
+    window.addEventListener('load', function(){
+        s.parentNode.insertBefore(a, s);
+    });
+})();
+
+// VWO Tracking code
+    var _vwo_code=(function(){
+    var account_id=149141,
+    settings_tolerance=2000,
+    library_tolerance=2500,
+    use_existing_jquery=false,
+    // DO NOT EDIT BELOW THIS LINE
+    f=false,d=document;return{use_existing_jquery:function(){return use_existing_jquery;},library_tolerance:function(){return library_tolerance;},finish:function(){if(!f){f=true;var a=d.getElementById('_vis_opt_path_hides');if(a)a.parentNode.removeChild(a);}},finished:function(){return f;},load:function(a){var b=d.createElement('script');b.src=a;b.type='text/javascript';b.innerText;b.onerror=function(){_vwo_code.finish();};d.getElementsByTagName('head')[0].appendChild(b);},init:function(){settings_timer=setTimeout('_vwo_code.finish()',settings_tolerance);this.load('//dev.visualwebsiteoptimizer.com/j.php?a='+account_id+'&u='+encodeURIComponent(d.URL)+'&r='+Math.random());var a=d.createElement('style'),b='body{visibility:hidden !important;background:none !important;}',h=d.getElementsByTagName('head')[0];a.setAttribute('id','_vis_opt_path_hides');a.setAttribute('type','text/css');if(a.styleSheet)a.styleSheet.cssText=b;else a.appendChild(d.createTextNode(b));h.appendChild(a);return settings_timer;}};}());_vwo_settings_timer=_vwo_code.init();
+
+    //yahoo-tracker
+    (function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"4019013"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+		   !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];window.addEventListener('load', function(){n.parentNode.insertBefore(e,n)})};analytics.SNIPPET_VERSION="3.0.1";
+  analytics.load('ktT2bhuZOZ63MSCsefECsyOuOYIBlxMS');
+  }}();
+
+  var practoAnalytics = {
+    page : function(payload) {
+      payload = payload || "";
+      analytics.page(payload);
+    },
+    track : function(payload) {
+      analytics.track(payload.action, payload);
+    }
+  }
+
+  var pagePayload = "";
+  practoAnalytics.page(pagePayload);
+ 
+	</script>
+
+		<script async-src="/js/16b0a79-ce1265d.js"></script>
+				    	    <script async-src="/js/fb4d503-fa9419f.js"></script>
+	    		<script src="//maps.googleapis.com/maps/api/js?sensor=true"></script>
+			<script id="_webengage_script_tag" type="text/javascript">
+  var _weq = _weq || {};
+  _weq['webengage.licenseCode'] = 'd3a495b9';
+  _weq['webengage.widgetVersion'] = "4.0";
+  window.addEventListener("load", function(){
+    var _we = document.createElement('script');
+    _we.type = 'text/javascript';
+    _we.async = true;
+    _we.src = (document.location.protocol == 'https:' ? "https://ssl.widgets.webengage.com" : "http://cdn.widgets.webengage.com") + "/js/widget/webengage-min-v-4.0.js";
+    var _sNode = document.getElementById('_webengage_script_tag');
+    _sNode.parentNode.insertBefore(_we, _sNode);
+  });
+</script>
+		<!--End Scripts-->
+	<!-- Must be loaded at the end of the page -->
+<script>
+    (function(window, document){
+        var ev = document.createEvent('Event');
+        ev.initEvent('script-load', true, true);
+        var scripts = document.querySelectorAll("script[async-src]");
+
+        var _loadScript = function(index){
+            if(index >= scripts.length){
+                window.dispatchEvent(ev);
+                return null;
+            }
+
+            var script = scripts[index];
+            var asyncSrc = script.getAttribute("async-src");
+            script.removeAttribute("async-src");
+            if(!asyncSrc){
+                throw Error("URL not provided for async loading");
+            }
+            var asyncScript = document.createElement("script");
+            asyncScript.src = asyncSrc;
+
+            asyncScript.onload = asyncScript.onerror = function(){
+                asyncScript.onload = asyncScript.onerror = null;
+                _loadScript(index+1);
+            };
+            if(script.parentNode){
+                script.parentNode.removeChild(script);
+            }
+            document.head.appendChild(asyncScript)
+        };
+
+        window.addEventListener('load', function(){
+            _loadScript(0);
+        });
+
+    })(window, document);
+</script>	<input type="hidden" id="tracker-constants" value='{
+		"googleadservice" : {
+			"default" : {
+				"id" : "960721207",
+				"label" : {
+					"vn" : "JgCMCMHB41wQt-KNygM",
+					"abs" : "OKo2CK74vFcQt-KNygM"
+				}
+			},
+			"singapore" : {
+				"id" : "957551904",
+				"label" : {
+					"vn" : "2KlYCNHhxlkQoKrMyAM",
+					"abs" : "pjxaCMz_w1kQoKrMyAM"
+				}
+			},
+			"metro-manila" : {
+				"id" : "952353750",
+				"label" : {
+					"vn" : "EEplCN7Xs1sQ1oePxgM",
+					"abs" : "VIz-CKbnnFsQ1oePxgM"
+				}
+			}
+		},
+		"bing_analytics" : {
+			"id" : {
+				"vn" : "4019014",
+				"abs" : "4019013"
+			}
+		},
+		"vizury_acc_id" : "VIZVRM3153"
+	}' />	<script type="text/javascript">
+		var locationItem = null;
+				(function(d){
+			var locationElem = d.getElementById('locationInput');
+			var placeholderElem = d.getElementById('locationPlaceholder');
+			var keywordsElem = d.getElementById('keywordsInput');
+			if (locationItem !== null) {
+				locationElem.value = locationItem.value;
+				locationElem.style.display = 'block';
+				placeholderElem.style.display = 'none';
+			} else {
+			    locationElem.value = '';
+				locationElem.style.display = 'none';
+				placeholderElem.style.display = 'block';
+			}
+			if (typeof searchedItem !== 'undefined' && searchedItem !== null) {
+			    keywordsElem.value = searchedItem.translatedValue;
+			} else {
+							    	keywordsElem.value = '';
+			    			}
+		})(document);
+	</script>
+	<script type="text/javascript">
+		document.addEventListener("DOMContentLoaded", function(event) {
+				if (window.sessionStorage) {
+				window.sessionStorage.setItem("searchResultUrl",window.location.href);
+			}
+		});
+	</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"e66900166e","applicationID":"853593","transactionName":"b1wDZktSXkVRUhcNWFYWIkdKR19bH0ERBVRMVj5CS1JTQl9QExRoXFYCRlZBb0ZFUw8NVGdJE11fWlxT","queueTime":0,"applicationTime":252,"atts":"QxsAEANITUs=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-768.min.js"}</script></body>
+</html>
+
