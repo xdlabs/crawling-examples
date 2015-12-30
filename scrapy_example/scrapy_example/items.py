@@ -11,3 +11,8 @@ import scrapy
 class ScrapyExampleItem(scrapy.Item):
     name = scrapy.Field()
     link = scrapy.Field()
+
+
+class SpiderItem(scrapy.Item):
+    title = scrapy.Field()
+    name = scrapy.Field()
