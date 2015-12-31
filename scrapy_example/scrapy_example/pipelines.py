@@ -12,7 +12,13 @@ from scrapy.conf import settings
 class ScrapyExamplePipeline(object):
 
     def __init__(self):
-        self.file = open("data.txt", "wb")
+        self.filename = "data.txt"
+
+    def open_spider(self, spider):
+        self.file = open(self.filename, "wb")
+
+    def close_spider(self, spider):
+        self.file.close()
 
     def process_item(self, item, spider):
         line = json.dumps(dict(item)) + "\n"
