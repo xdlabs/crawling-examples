@@ -61,9 +61,12 @@ NEWSPIDER_MODULE = 'scrapy_example.spiders'
 
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'scrapy_example.pipelines.SomePipeline': 300,
-#}
+ITEM_PIPELINES = ['scrapy_example.pipelines.ScrapyExamplePipeline', 'scrapy_example.pipelines.MongoDBPipeline',]
+
+MONGODB_SERVER = 'localhost'
+MONGODB_PORT = 9200
+MONGODB_DB = 'scrapy_data'
+MONGODB_COLLECTION = 'data'
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html

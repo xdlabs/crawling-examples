@@ -22,13 +22,13 @@ class MySpider(scrapy.Spider):
     def parse_content(self, response):
         new_data = response.body
         new_soup = BeautifulSoup(new_data, 'html.parser')
-        items = SpiderItem()
+        item = SpiderItem()
         title = new_soup.find("title").text
-        items["title"] = title
+        item["title"] = title
         for ul in new_soup.find_all('ul', {'class': 'directory dir-col'}):
             for li in ul.find_all('li'):
                 a = li.find('a')
-                items["name"] = a.string
-                yield items
+                item["name"] = a.string
+                yield item
                 url = response.urljoin(a['href'])
                 yield scrapy.Request(url, callback=self.parse_content)
