@@ -1,0 +1,1343 @@
+{"name": "Computer Science", "title": "DMOZ - Computers"}
+{"name": "Hardware", "title": "DMOZ - Computers"}
+{"name": "Internet", "title": "DMOZ - Computers"}
+{"name": "Security", "title": "DMOZ - Computers"}
+{"name": "Software", "title": "DMOZ - Computers"}
+{"name": "Systems", "title": "DMOZ - Computers"}
+{"name": "Algorithms", "title": "DMOZ - Computers"}
+{"name": "Artificial Intelligence", "title": "DMOZ - Computers"}
+{"name": "Artificial Life", "title": "DMOZ - Computers"}
+{"name": "Bulletin Board Systems", "title": "DMOZ - Computers"}
+{"name": "CAD and CAM", "title": "DMOZ - Computers"}
+{"name": "Computer and Technology Law", "title": "DMOZ - Computers"}
+{"name": "Data Communications", "title": "DMOZ - Computers"}
+{"name": "Activism", "title": "DMOZ - Society"}
+{"name": "Coaching", "title": "DMOZ - Sports"}
+{"name": "Apartment Living", "title": "DMOZ - Home"}
+{"name": "Data Formats", "title": "DMOZ - Computers"}
+{"name": "Desktop Publishing", "title": "DMOZ - Computers"}
+{"name": "E-Books", "title": "DMOZ - Computers"}
+{"name": "Emulators", "title": "DMOZ - Computers"}
+{"name": "Fonts", "title": "DMOZ - Computers"}
+{"name": "Games", "title": "DMOZ - Computers"}
+{"name": "Graphics", "title": "DMOZ - Computers"}
+{"name": "Hacking", "title": "DMOZ - Computers"}
+{"name": "Home Automation", "title": "DMOZ - Computers"}
+{"name": "Human-Computer Interaction", "title": "DMOZ - Computers"}
+{"name": "Intranet", "title": "DMOZ - Computers"}
+{"name": "MIS", "title": "DMOZ - Computers"}
+{"name": "Mobile Computing", "title": "DMOZ - Computers"}
+{"name": "Aesthetics", "title": "DMOZ - Arts"}
+{"name": "Advice", "title": "DMOZ - Society"}
+{"name": "Crime", "title": "DMOZ - Society"}
+{"name": "Death", "title": "DMOZ - Society"}
+{"name": "Disabled", "title": "DMOZ - Society"}
+{"name": "Economics", "title": "DMOZ - Society"}
+{"name": "Education", "title": "DMOZ - Society"}
+{"name": "Ethnicity", "title": "DMOZ - Society"}
+{"name": "Folklore", "title": "DMOZ - Society"}
+{"name": "Future", "title": "DMOZ - Society"}
+{"name": "Gay, Lesbian, and Bisexual", "title": "DMOZ - Society"}
+{"name": "Genealogy", "title": "DMOZ - Society"}
+{"name": "Government", "title": "DMOZ - Society"}
+{"name": "History", "title": "DMOZ - Society"}
+{"name": "College and University", "title": "DMOZ - Sports"}
+{"name": "Disabled", "title": "DMOZ - Sports"}
+{"name": "Events", "title": "DMOZ - Sports"}
+{"name": "Fantasy", "title": "DMOZ - Sports"}
+{"name": "Gay, Lesbian, and Bisexual", "title": "DMOZ - Sports"}
+{"name": "History", "title": "DMOZ - Sports"}
+{"name": "News and Media", "title": "DMOZ - Sports"}
+{"name": "Officiating", "title": "DMOZ - Sports"}
+{"name": "Organizations", "title": "DMOZ - Sports"}
+{"name": "Consumer Information", "title": "DMOZ - Home"}
+{"name": "Cooking", "title": "DMOZ - Home"}
+{"name": "Do-It-Yourself", "title": "DMOZ - Home"}
+{"name": "Domestic Services", "title": "DMOZ - Home"}
+{"name": "Emergency Preparation", "title": "DMOZ - Home"}
+{"name": "Entertaining", "title": "DMOZ - Home"}
+{"name": "Family", "title": "DMOZ - Home"}
+{"name": "Gardening", "title": "DMOZ - Home"}
+{"name": "Home Automation", "title": "DMOZ - Home"}
+{"name": "Home Business", "title": "DMOZ - Home"}
+{"name": "Home Buyers", "title": "DMOZ - Home"}
+{"name": "Home Improvement", "title": "DMOZ - Home"}
+{"name": "Multimedia", "title": "DMOZ - Computers"}
+{"name": "Newsgroups", "title": "DMOZ - Computers"}
+{"name": "Open Source", "title": "DMOZ - Computers"}
+{"name": "Operating Systems", "title": "DMOZ - Computers"}
+{"name": "Parallel Computing", "title": "DMOZ - Computers"}
+{"name": "Countries", "title": "DMOZ - Regional"}
+{"name": "Animation", "title": "DMOZ - Arts"}
+{"name": "Antiques", "title": "DMOZ - Arts"}
+{"name": "Architecture", "title": "DMOZ - Arts"}
+{"name": "Art History", "title": "DMOZ - Arts"}
+{"name": "Bodyart", "title": "DMOZ - Arts"}
+{"name": "Classical Studies", "title": "DMOZ - Arts"}
+{"name": "Comics", "title": "DMOZ - Arts"}
+{"name": "Costumes", "title": "DMOZ - Arts"}
+{"name": "Crafts", "title": "DMOZ - Arts"}
+{"name": "Dance", "title": "DMOZ - Arts"}
+{"name": "Design", "title": "DMOZ - Arts"}
+{"name": "Digital", "title": "DMOZ - Arts"}
+{"name": "Entertainment", "title": "DMOZ - Arts"}
+{"name": "Directories", "title": "DMOZ - Recreation"}
+{"name": "Agriculture", "title": "DMOZ - Science"}
+{"name": "Holidays", "title": "DMOZ - Society"}
+{"name": "Issues", "title": "DMOZ - Society"}
+{"name": "Language and Linguistics", "title": "DMOZ - Society"}
+{"name": "Law", "title": "DMOZ - Society"}
+{"name": "Lifestyle Choices", "title": "DMOZ - Society"}
+{"name": "Men", "title": "DMOZ - Society"}
+{"name": "Military", "title": "DMOZ - Society"}
+{"name": "Organizations", "title": "DMOZ - Society"}
+{"name": "Paranormal", "title": "DMOZ - Society"}
+{"name": "People", "title": "DMOZ - Sports"}
+{"name": "Professional", "title": "DMOZ - Sports"}
+{"name": "Resources", "title": "DMOZ - Sports"}
+{"name": "Shopping", "title": "DMOZ - Sports"}
+{"name": "Software", "title": "DMOZ - Sports"}
+{"name": "Team Spirit", "title": "DMOZ - Sports"}
+{"name": "Travel", "title": "DMOZ - Sports"}
+{"name": "Women", "title": "DMOZ - Sports"}
+{"name": "Youth and High School", "title": "DMOZ - Sports"}
+{"name": "Adventure Racing", "title": "DMOZ - Sports"}
+{"name": "Homemaking", "title": "DMOZ - Home"}
+{"name": "Homeowners", "title": "DMOZ - Home"}
+{"name": "Moving and Relocating", "title": "DMOZ - Home"}
+{"name": "Personal Finance", "title": "DMOZ - Home"}
+{"name": "Personal Organization", "title": "DMOZ - Home"}
+{"name": "Pets", "title": "DMOZ - Home"}
+{"name": "Rural Living", "title": "DMOZ - Home"}
+{"name": "Performance and Capacity", "title": "DMOZ - Computers"}
+{"name": "Programming", "title": "DMOZ - Computers"}
+{"name": "Robotics", "title": "DMOZ - Computers"}
+{"name": "Speech Technology", "title": "DMOZ - Computers"}
+{"name": "Supercomputing", "title": "DMOZ - Computers"}
+{"name": "Usenet", "title": "DMOZ - Computers"}
+{"name": "Virtual Reality", "title": "DMOZ - Computers"}
+{"name": "Africa", "title": "DMOZ - Regional"}
+{"name": "Asia", "title": "DMOZ - Regional"}
+{"name": "Caribbean", "title": "DMOZ - Regional"}
+{"name": "Central America", "title": "DMOZ - Regional"}
+{"name": "Europe", "title": "DMOZ - Regional"}
+{"name": "Middle East", "title": "DMOZ - Regional"}
+{"name": "Graphic Design", "title": "DMOZ - Arts"}
+{"name": "Humanities", "title": "DMOZ - Arts"}
+{"name": "Illustration", "title": "DMOZ - Arts"}
+{"name": "Literature", "title": "DMOZ - Arts"}
+{"name": "Movies", "title": "DMOZ - Arts"}
+{"name": "Music", "title": "DMOZ - Arts"}
+{"name": "Myths and Folktales", "title": "DMOZ - Arts"}
+{"name": "Native and Tribal", "title": "DMOZ - Arts"}
+{"name": "Online Writing", "title": "DMOZ - Arts"}
+{"name": "Antiques", "title": "DMOZ - Recreation"}
+{"name": "Astronomy", "title": "DMOZ - Recreation"}
+{"name": "Anomalies and Alternative Science", "title": "DMOZ - Science"}
+{"name": "Astronomy", "title": "DMOZ - Science"}
+{"name": "Biology", "title": "DMOZ - Science"}
+{"name": "Chemistry", "title": "DMOZ - Science"}
+{"name": "Computer Science", "title": "DMOZ - Science"}
+{"name": "Earth Sciences", "title": "DMOZ - Science"}
+{"name": "Environment", "title": "DMOZ - Science"}
+{"name": "People", "title": "DMOZ - Society"}
+{"name": "Philanthropy", "title": "DMOZ - Society"}
+{"name": "Philosophy", "title": "DMOZ - Society"}
+{"name": "Politics", "title": "DMOZ - Society"}
+{"name": "Relationships", "title": "DMOZ - Society"}
+{"name": "Religion and Spirituality", "title": "DMOZ - Society"}
+{"name": "Airsoft", "title": "DMOZ - Sports"}
+{"name": "American Football", "title": "DMOZ - Sports"}
+{"name": "Animal Sports", "title": "DMOZ - Sports"}
+{"name": "Archery", "title": "DMOZ - Sports"}
+{"name": "Badminton", "title": "DMOZ - Sports"}
+{"name": "Baseball", "title": "DMOZ - Sports"}
+{"name": "Basketball", "title": "DMOZ - Sports"}
+{"name": "Bocce", "title": "DMOZ - Sports"}
+{"name": "Seniors", "title": "DMOZ - Home"}
+{"name": "Shopping", "title": "DMOZ - Home"}
+{"name": "Urban Living", "title": "DMOZ - Home"}
+{"name": "News and Media", "title": "DMOZ - Home"}
+{"name": "Software", "title": "DMOZ - Home"}
+{"name": "Weblogs", "title": "DMOZ - Home"}
+{"name": "Chats and Forums", "title": "DMOZ - Computers"}
+{"name": "Companies", "title": "DMOZ - Computers"}
+{"name": "Conferences", "title": "DMOZ - Computers"}
+{"name": "Consultants", "title": "DMOZ - Computers"}
+{"name": "Directories", "title": "DMOZ - Computers"}
+{"name": "Education", "title": "DMOZ - Computers"}
+{"name": "Employment", "title": "DMOZ - Computers"}
+{"name": "Ethics", "title": "DMOZ - Computers"}
+{"name": "FAQs, Help, and Tutorials", "title": "DMOZ - Computers"}
+{"name": "History", "title": "DMOZ - Computers"}
+{"name": "North America", "title": "DMOZ - Regional"}
+{"name": "Oceania", "title": "DMOZ - Regional"}
+{"name": "Polar Regions", "title": "DMOZ - Regional"}
+{"name": "South America", "title": "DMOZ - Regional"}
+{"name": "Performing Arts", "title": "DMOZ - Arts"}
+{"name": "Photography", "title": "DMOZ - Arts"}
+{"name": "Radio", "title": "DMOZ - Arts"}
+{"name": "Rhetoric", "title": "DMOZ - Arts"}
+{"name": "Television", "title": "DMOZ - Arts"}
+{"name": "Theatre", "title": "DMOZ - Arts"}
+{"name": "Typography", "title": "DMOZ - Arts"}
+{"name": "Video", "title": "DMOZ - Arts"}
+{"name": "Audio", "title": "DMOZ - Recreation"}
+{"name": "Autos", "title": "DMOZ - Recreation"}
+{"name": "Aviation", "title": "DMOZ - Recreation"}
+{"name": "Birding", "title": "DMOZ - Recreation"}
+{"name": "Boating", "title": "DMOZ - Recreation"}
+{"name": "Bowling", "title": "DMOZ - Recreation"}
+{"name": "Camps", "title": "DMOZ - Recreation"}
+{"name": "Climbing", "title": "DMOZ - Recreation"}
+{"name": "Collecting", "title": "DMOZ - Recreation"}
+{"name": "Math", "title": "DMOZ - Science"}
+{"name": "Physics", "title": "DMOZ - Science"}
+{"name": "Science in Society", "title": "DMOZ - Science"}
+{"name": "Social Sciences", "title": "DMOZ - Science"}
+{"name": "Technology", "title": "DMOZ - Science"}
+{"name": "Women", "title": "DMOZ - Science"}
+{"name": "Academic Departments", "title": "DMOZ - Science"}
+{"name": "By Region", "title": "DMOZ - Science"}
+{"name": "Chats and Forums", "title": "DMOZ - Science"}
+{"name": "Directories", "title": "DMOZ - Science"}
+{"name": "Educational Resources", "title": "DMOZ - Science"}
+{"name": "Sexuality", "title": "DMOZ - Society"}
+{"name": "Social Sciences", "title": "DMOZ - Society"}
+{"name": "Subcultures", "title": "DMOZ - Society"}
+{"name": "Support Groups", "title": "DMOZ - Society"}
+{"name": "Transgendered", "title": "DMOZ - Society"}
+{"name": "Urban Legends", "title": "DMOZ - Society"}
+{"name": "Women", "title": "DMOZ - Society"}
+{"name": "Work", "title": "DMOZ - Society"}
+{"name": "Boomerang", "title": "DMOZ - Sports"}
+{"name": "Bowling", "title": "DMOZ - Sports"}
+{"name": "Mailing Lists", "title": "DMOZ - Computers"}
+{"name": "News and Media", "title": "DMOZ - Computers"}
+{"name": "Organizations", "title": "DMOZ - Computers"}
+{"name": "Product Support", "title": "DMOZ - Computers"}
+{"name": "Shopping", "title": "DMOZ - Computers"}
+{"name": "Visual Arts", "title": "DMOZ - Arts"}
+{"name": "Writers Resources", "title": "DMOZ - Arts"}
+{"name": "Archives", "title": "DMOZ - Arts"}
+{"name": "Awards", "title": "DMOZ - Arts"}
+{"name": "Book Shopping", "title": "DMOZ - Arts"}
+{"name": "Chats and Forums", "title": "DMOZ - Arts"}
+{"name": "Crafts", "title": "DMOZ - Recreation"}
+{"name": "Drugs", "title": "DMOZ - Recreation"}
+{"name": "Fireworks", "title": "DMOZ - Recreation"}
+{"name": "Fishing", "title": "DMOZ - Recreation"}
+{"name": "Food", "title": "DMOZ - Recreation"}
+{"name": "Gambling", "title": "DMOZ - Recreation"}
+{"name": "Games", "title": "DMOZ - Recreation"}
+{"name": "Gardening", "title": "DMOZ - Recreation"}
+{"name": "Employment", "title": "DMOZ - Science"}
+{"name": "Events", "title": "DMOZ - Science"}
+{"name": "History", "title": "DMOZ - Science"}
+{"name": "Instruments and Supplies", "title": "DMOZ - Science"}
+{"name": "Libraries", "title": "DMOZ - Science"}
+{"name": "Methods and Techniques", "title": "DMOZ - Science"}
+{"name": "Museums", "title": "DMOZ - Science"}
+{"name": "News and Media", "title": "DMOZ - Science"}
+{"name": "Boxing", "title": "DMOZ - Sports"}
+{"name": "Canoeing and Kayaking", "title": "DMOZ - Sports"}
+{"name": "Caving", "title": "DMOZ - Sports"}
+{"name": "Cheerleading", "title": "DMOZ - Sports"}
+{"name": "Cricket", "title": "DMOZ - Sports"}
+{"name": "Croquet", "title": "DMOZ - Sports"}
+{"name": "Cue Sports", "title": "DMOZ - Sports"}
+{"name": "Cycling", "title": "DMOZ - Sports"}
+{"name": "Contests", "title": "DMOZ - Arts"}
+{"name": "Cultures and Groups", "title": "DMOZ - Arts"}
+{"name": "Directories", "title": "DMOZ - Arts"}
+{"name": "Education", "title": "DMOZ - Arts"}
+{"name": "Events", "title": "DMOZ - Arts"}
+{"name": "Genres", "title": "DMOZ - Arts"}
+{"name": "Libraries", "title": "DMOZ - Arts"}
+{"name": "Magazines and E-zines", "title": "DMOZ - Arts"}
+{"name": "Museums", "title": "DMOZ - Arts"}
+{"name": "News and Media", "title": "DMOZ - Arts"}
+{"name": "Genealogy", "title": "DMOZ - Recreation"}
+{"name": "Guns", "title": "DMOZ - Recreation"}
+{"name": "Hiking", "title": "DMOZ - Recreation"}
+{"name": "Horoscopes", "title": "DMOZ - Recreation"}
+{"name": "Humor", "title": "DMOZ - Recreation"}
+{"name": "Hunting", "title": "DMOZ - Recreation"}
+{"name": "Kites", "title": "DMOZ - Recreation"}
+{"name": "Knives", "title": "DMOZ - Recreation"}
+{"name": "Living History", "title": "DMOZ - Recreation"}
+{"name": "Locks", "title": "DMOZ - Recreation"}
+{"name": "Organizations", "title": "DMOZ - Science"}
+{"name": "People", "title": "DMOZ - Science"}
+{"name": "Publications", "title": "DMOZ - Science"}
+{"name": "Reference", "title": "DMOZ - Science"}
+{"name": "Research Groups and Centers", "title": "DMOZ - Science"}
+{"name": "Search Engines", "title": "DMOZ - Science"}
+{"name": "Darts", "title": "DMOZ - Sports"}
+{"name": "Equestrian", "title": "DMOZ - Sports"}
+{"name": "Extreme Sports", "title": "DMOZ - Sports"}
+{"name": "Fencing", "title": "DMOZ - Sports"}
+{"name": "Fishing", "title": "DMOZ - Sports"}
+{"name": "Flying Discs", "title": "DMOZ - Sports"}
+{"name": "Footbag", "title": "DMOZ - Sports"}
+{"name": "Organizations", "title": "DMOZ - Arts"}
+{"name": "People", "title": "DMOZ - Arts"}
+{"name": "Periods and Movements", "title": "DMOZ - Arts"}
+{"name": "Personal Pages", "title": "DMOZ - Arts"}
+{"name": "Publishers", "title": "DMOZ - Arts"}
+{"name": "Regional", "title": "DMOZ - Arts"}
+{"name": "Web Rings", "title": "DMOZ - Arts"}
+{"name": "Weblogs", "title": "DMOZ - Arts"}
+{"name": "Martial Arts", "title": "DMOZ - Recreation"}
+{"name": "Models", "title": "DMOZ - Recreation"}
+{"name": "Motorcycles", "title": "DMOZ - Recreation"}
+{"name": "Nudism", "title": "DMOZ - Recreation"}
+{"name": "Outdoors", "title": "DMOZ - Recreation"}
+{"name": "Parties", "title": "DMOZ - Recreation"}
+{"name": "Software", "title": "DMOZ - Science"}
+{"name": "Weblogs", "title": "DMOZ - Science"}
+{"name": "Football", "title": "DMOZ - Sports"}
+{"name": "Gaelic", "title": "DMOZ - Sports"}
+{"name": "Goalball", "title": "DMOZ - Sports"}
+{"name": "Golf", "title": "DMOZ - Sports"}
+{"name": "Greyhound Racing", "title": "DMOZ - Sports"}
+{"name": "Gymnastics", "title": "DMOZ - Sports"}
+{"name": "Handball", "title": "DMOZ - Sports"}
+{"name": "Pets", "title": "DMOZ - Recreation"}
+{"name": "Picture Ratings", "title": "DMOZ - Recreation"}
+{"name": "Radio", "title": "DMOZ - Recreation"}
+{"name": "Roads and Highways", "title": "DMOZ - Recreation"}
+{"name": "Scouting", "title": "DMOZ - Recreation"}
+{"name": "Scuba Diving", "title": "DMOZ - Recreation"}
+{"name": "Sports", "title": "DMOZ - Recreation"}
+{"name": "Theme Parks", "title": "DMOZ - Recreation"}
+{"name": "Tobacco", "title": "DMOZ - Recreation"}
+{"name": "Trains and Railroads", "title": "DMOZ - Recreation"}
+{"name": "Hockey", "title": "DMOZ - Sports"}
+{"name": "Horse Racing", "title": "DMOZ - Sports"}
+{"name": "Hunting", "title": "DMOZ - Sports"}
+{"name": "Ice Hockey", "title": "DMOZ - Sports"}
+{"name": "Ice Skating", "title": "DMOZ - Sports"}
+{"name": "Informal Sports", "title": "DMOZ - Sports"}
+{"name": "Jai Alai", "title": "DMOZ - Sports"}
+{"name": "Kabbadi", "title": "DMOZ - Sports"}
+{"name": "Korfball", "title": "DMOZ - Sports"}
+{"name": "Lacrosse", "title": "DMOZ - Sports"}
+{"name": "Laser Games", "title": "DMOZ - Sports"}
+{"name": "Lumberjack", "title": "DMOZ - Sports"}
+{"name": "Martial Arts", "title": "DMOZ - Sports"}
+{"name": "Arts", "title": "DMOZ - Kids and Teens"}
+{"name": "By Region", "title": "DMOZ - Shopping"}
+{"name": "Education", "title": "DMOZ - Reference"}
+{"name": "Travel", "title": "DMOZ - Recreation"}
+{"name": "Whips", "title": "DMOZ - Recreation"}
+{"name": "Motorsports", "title": "DMOZ - Sports"}
+{"name": "Multi-Sports", "title": "DMOZ - Sports"}
+{"name": "Netball", "title": "DMOZ - Sports"}
+{"name": "Olympics", "title": "DMOZ - Sports"}
+{"name": "Orienteering", "title": "DMOZ - Sports"}
+{"name": "Paddleball", "title": "DMOZ - Sports"}
+{"name": "Paintball", "title": "DMOZ - Sports"}
+{"name": "Pes\u00e4pallo", "title": "DMOZ - Sports"}
+{"name": "Petanque", "title": "DMOZ - Sports"}
+{"name": "Racquetball", "title": "DMOZ - Sports"}
+{"name": "Computers", "title": "DMOZ - Kids and Teens"}
+{"name": "Directories", "title": "DMOZ - Kids and Teens"}
+{"name": "Entertainment", "title": "DMOZ - Kids and Teens"}
+{"name": "Games", "title": "DMOZ - Kids and Teens"}
+{"name": "Health", "title": "DMOZ - Kids and Teens"}
+{"name": "News", "title": "DMOZ - Kids and Teens"}
+{"name": "People and Society", "title": "DMOZ - Kids and Teens"}
+{"name": "Pre-School", "title": "DMOZ - Kids and Teens"}
+{"name": "School Time", "title": "DMOZ - Kids and Teens"}
+{"name": "Sports and Hobbies", "title": "DMOZ - Kids and Teens"}
+{"name": "Teen Life", "title": "DMOZ - Kids and Teens"}
+{"name": "Your Family", "title": "DMOZ - Kids and Teens"}
+{"name": "Auctions", "title": "DMOZ - Shopping"}
+{"name": "Classifieds", "title": "DMOZ - Shopping"}
+{"name": "Directories", "title": "DMOZ - Shopping"}
+{"name": "Antiques and Collectibles", "title": "DMOZ - Shopping"}
+{"name": "Autos", "title": "DMOZ - Shopping"}
+{"name": "Beauty Products", "title": "DMOZ - Shopping"}
+{"name": "Books", "title": "DMOZ - Shopping"}
+{"name": "Internet Search", "title": "DMOZ - Reference"}
+{"name": "Knowledge Management", "title": "DMOZ - Reference"}
+{"name": "Libraries", "title": "DMOZ - Reference"}
+{"name": "Museums", "title": "DMOZ - Reference"}
+{"name": "Almanacs", "title": "DMOZ - Reference"}
+{"name": "Archives", "title": "DMOZ - Reference"}
+{"name": "Ask an Expert", "title": "DMOZ - Reference"}
+{"name": "Animal", "title": "DMOZ - Health"}
+{"name": "Accounting", "title": "DMOZ - Business"}
+{"name": "Rodeo", "title": "DMOZ - Sports"}
+{"name": "Rope Skipping", "title": "DMOZ - Sports"}
+{"name": "Rounders", "title": "DMOZ - Sports"}
+{"name": "Rowing", "title": "DMOZ - Sports"}
+{"name": "Rugby League", "title": "DMOZ - Sports"}
+{"name": "Rugby Union", "title": "DMOZ - Sports"}
+{"name": "Running", "title": "DMOZ - Sports"}
+{"name": "Sepak Takraw", "title": "DMOZ - Sports"}
+{"name": "International", "title": "DMOZ - Kids and Teens"}
+{"name": "Board Games", "title": "DMOZ - Games"}
+{"name": "Children", "title": "DMOZ - Shopping"}
+{"name": "Clothing", "title": "DMOZ - Shopping"}
+{"name": "Computers", "title": "DMOZ - Shopping"}
+{"name": "Consumer Electronics", "title": "DMOZ - Shopping"}
+{"name": "Crafts", "title": "DMOZ - Shopping"}
+{"name": "Death Care", "title": "DMOZ - Shopping"}
+{"name": "Education", "title": "DMOZ - Shopping"}
+{"name": "Entertainment", "title": "DMOZ - Shopping"}
+{"name": "Ethnic and Regional", "title": "DMOZ - Shopping"}
+{"name": "Bibliography", "title": "DMOZ - Reference"}
+{"name": "Biography", "title": "DMOZ - Reference"}
+{"name": "Books", "title": "DMOZ - Reference"}
+{"name": "Dictionaries", "title": "DMOZ - Reference"}
+{"name": "Directories", "title": "DMOZ - Reference"}
+{"name": "Encyclopedias", "title": "DMOZ - Reference"}
+{"name": "Journals", "title": "DMOZ - Reference"}
+{"name": "Maps", "title": "DMOZ - Reference"}
+{"name": "Quotations", "title": "DMOZ - Reference"}
+{"name": "Style Guides", "title": "DMOZ - Reference"}
+{"name": "Thesauri", "title": "DMOZ - Reference"}
+{"name": "Alternative", "title": "DMOZ - Health"}
+{"name": "Healthcare Industry", "title": "DMOZ - Health"}
+{"name": "Medicine", "title": "DMOZ - Health"}
+{"name": "Mental Health", "title": "DMOZ - Health"}
+{"name": "Regional", "title": "DMOZ - Health"}
+{"name": "Addictions", "title": "DMOZ - Health"}
+{"name": "Aging", "title": "DMOZ - Health"}
+{"name": "Beauty", "title": "DMOZ - Health"}
+{"name": "Child Health", "title": "DMOZ - Health"}
+{"name": "Business and Society", "title": "DMOZ - Business"}
+{"name": "Cooperatives", "title": "DMOZ - Business"}
+{"name": "Customer Service", "title": "DMOZ - Business"}
+{"name": "E-Commerce", "title": "DMOZ - Business"}
+{"name": "Education and Training", "title": "DMOZ - Business"}
+{"name": "Employment", "title": "DMOZ - Business"}
+{"name": "Human Resources", "title": "DMOZ - Business"}
+{"name": "Information Services", "title": "DMOZ - Business"}
+{"name": "International Business and Trade", "title": "DMOZ - Business"}
+{"name": "Investing", "title": "DMOZ - Business"}
+{"name": "Major Companies", "title": "DMOZ - Business"}
+{"name": "Shooting", "title": "DMOZ - Sports"}
+{"name": "Skateboarding", "title": "DMOZ - Sports"}
+{"name": "Card Games", "title": "DMOZ - Games"}
+{"name": "CCGs", "title": "DMOZ - Games"}
+{"name": "Coin-Op", "title": "DMOZ - Games"}
+{"name": "Dice", "title": "DMOZ - Games"}
+{"name": "Gambling", "title": "DMOZ - Games"}
+{"name": "Hand Games", "title": "DMOZ - Games"}
+{"name": "Flowers", "title": "DMOZ - Shopping"}
+{"name": "Food", "title": "DMOZ - Shopping"}
+{"name": "Furniture", "title": "DMOZ - Shopping"}
+{"name": "General Merchandise", "title": "DMOZ - Shopping"}
+{"name": "Gifts", "title": "DMOZ - Shopping"}
+{"name": "Health", "title": "DMOZ - Shopping"}
+{"name": "Advice", "title": "DMOZ - Reference"}
+{"name": "Flags", "title": "DMOZ - Reference"}
+{"name": "Knots", "title": "DMOZ - Reference"}
+{"name": "Open Access Resources", "title": "DMOZ - Reference"}
+{"name": "Parliamentary Procedure", "title": "DMOZ - Reference"}
+{"name": "Scientific Reference", "title": "DMOZ - Reference"}
+{"name": "Time", "title": "DMOZ - Reference"}
+{"name": "Conditions and Diseases", "title": "DMOZ - Health"}
+{"name": "Conferences", "title": "DMOZ - Health"}
+{"name": "Dentistry", "title": "DMOZ - Health"}
+{"name": "Directories", "title": "DMOZ - Health"}
+{"name": "Disabilities", "title": "DMOZ - Health"}
+{"name": "Education", "title": "DMOZ - Health"}
+{"name": "Management", "title": "DMOZ - Business"}
+{"name": "Marketing and Advertising", "title": "DMOZ - Business"}
+{"name": "Opportunities", "title": "DMOZ - Business"}
+{"name": "Small Business", "title": "DMOZ - Business"}
+{"name": "Aerospace and Defense", "title": "DMOZ - Business"}
+{"name": "Agriculture and Forestry", "title": "DMOZ - Business"}
+{"name": "Arts and Entertainment", "title": "DMOZ - Business"}
+{"name": "Skating", "title": "DMOZ - Sports"}
+{"name": "Skiing", "title": "DMOZ - Sports"}
+{"name": "Soccer", "title": "DMOZ - Sports"}
+{"name": "Softball", "title": "DMOZ - Sports"}
+{"name": "Squash", "title": "DMOZ - Sports"}
+{"name": "Strength Sports", "title": "DMOZ - Sports"}
+{"name": "Surfing", "title": "DMOZ - Sports"}
+{"name": "Swimming and Diving", "title": "DMOZ - Sports"}
+{"name": "Table Tennis", "title": "DMOZ - Sports"}
+{"name": "Tchoukball", "title": "DMOZ - Sports"}
+{"name": "Cable Modem", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Hand-Eye Coordination", "title": "DMOZ - Games"}
+{"name": "Miniatures", "title": "DMOZ - Games"}
+{"name": "Online", "title": "DMOZ - Games"}
+{"name": "Paper and Pencil", "title": "DMOZ - Games"}
+{"name": "Party Games", "title": "DMOZ - Games"}
+{"name": "Play-By-Mail", "title": "DMOZ - Games"}
+{"name": "Puzzles", "title": "DMOZ - Games"}
+{"name": "Roleplaying", "title": "DMOZ - Games"}
+{"name": "Tile Games", "title": "DMOZ - Games"}
+{"name": "Holidays", "title": "DMOZ - Shopping"}
+{"name": "Home and Garden", "title": "DMOZ - Shopping"}
+{"name": "Jewelry", "title": "DMOZ - Shopping"}
+{"name": "Major Retailers", "title": "DMOZ - Shopping"}
+{"name": "Music", "title": "DMOZ - Shopping"}
+{"name": "Niche", "title": "DMOZ - Shopping"}
+{"name": "Office Products", "title": "DMOZ - Shopping"}
+{"name": "Outdoor Recreation", "title": "DMOZ - Shopping"}
+{"name": "Pets", "title": "DMOZ - Shopping"}
+{"name": "Photography", "title": "DMOZ - Shopping"}
+{"name": "Publications", "title": "DMOZ - Shopping"}
+{"name": "Recreation", "title": "DMOZ - Shopping"}
+{"name": "World Records", "title": "DMOZ - Reference"}
+{"name": "Employment", "title": "DMOZ - Health"}
+{"name": "Environmental Health", "title": "DMOZ - Health"}
+{"name": "Fitness", "title": "DMOZ - Health"}
+{"name": "History", "title": "DMOZ - Health"}
+{"name": "Home Health", "title": "DMOZ - Health"}
+{"name": "Insurance", "title": "DMOZ - Health"}
+{"name": "Issues", "title": "DMOZ - Health"}
+{"name": "Medical Tourism", "title": "DMOZ - Health"}
+{"name": "Men's Health", "title": "DMOZ - Health"}
+{"name": "Automotive", "title": "DMOZ - Business"}
+{"name": "Biotechnology and Pharmaceuticals", "title": "DMOZ - Business"}
+{"name": "Business Services", "title": "DMOZ - Business"}
+{"name": "Chemicals", "title": "DMOZ - Business"}
+{"name": "Construction and Maintenance", "title": "DMOZ - Business"}
+{"name": "Consumer Goods and Services", "title": "DMOZ - Business"}
+{"name": "Electronics and Electrical", "title": "DMOZ - Business"}
+{"name": "Energy", "title": "DMOZ - Business"}
+{"name": "Team Handball", "title": "DMOZ - Sports"}
+{"name": "Tennis", "title": "DMOZ - Sports"}
+{"name": "Track and Field", "title": "DMOZ - Sports"}
+{"name": "Volleyball", "title": "DMOZ - Sports"}
+{"name": "Walking", "title": "DMOZ - Sports"}
+{"name": "Water Sports", "title": "DMOZ - Sports"}
+{"name": "Winter Sports", "title": "DMOZ - Sports"}
+{"name": "Wrestling", "title": "DMOZ - Sports"}
+{"name": "Digital Hierarchy", "title": "DMOZ - Computers: Data Communications"}
+{"name": "DSL", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Ethernet", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Frame Relay", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Trading Card Games", "title": "DMOZ - Games"}
+{"name": "Video Games", "title": "DMOZ - Games"}
+{"name": "Yard, Deck, and Table Games", "title": "DMOZ - Games"}
+{"name": "Addiction", "title": "DMOZ - Games"}
+{"name": "Collecting", "title": "DMOZ - Games"}
+{"name": "Consumer Information", "title": "DMOZ - Games"}
+{"name": "Religious", "title": "DMOZ - Shopping"}
+{"name": "Sports", "title": "DMOZ - Shopping"}
+{"name": "Tobacco", "title": "DMOZ - Shopping"}
+{"name": "Tools", "title": "DMOZ - Shopping"}
+{"name": "Toys and Games", "title": "DMOZ - Shopping"}
+{"name": "Travel", "title": "DMOZ - Shopping"}
+{"name": "Vehicles", "title": "DMOZ - Shopping"}
+{"name": "News and Media", "title": "DMOZ - Health"}
+{"name": "Nursing", "title": "DMOZ - Health"}
+{"name": "Nutrition", "title": "DMOZ - Health"}
+{"name": "Occupational Health and Safety", "title": "DMOZ - Health"}
+{"name": "Organizations", "title": "DMOZ - Health"}
+{"name": "Pharmacy", "title": "DMOZ - Health"}
+{"name": "Environment", "title": "DMOZ - Business"}
+{"name": "Financial Services", "title": "DMOZ - Business"}
+{"name": "Food and Related Products", "title": "DMOZ - Business"}
+{"name": "Healthcare", "title": "DMOZ - Business"}
+{"name": "Hospitality", "title": "DMOZ - Business"}
+{"name": "Industrial Goods and Services", "title": "DMOZ - Business"}
+{"name": "Information Technology", "title": "DMOZ - Business"}
+{"name": "By Category", "title": "DMOZ - News"}
+{"name": "Associations", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Modems", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Telephony", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Unified Messaging", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Wireless", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Education", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Installation", "title": "DMOZ - Computers: Data Communications"}
+{"name": "News and Media", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Organizations", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Reference", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Software", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Support", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Testing and Tools", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Internet", "title": "DMOZ - Society: Law: Legal Information: Computer and Technology Law"}
+{"name": "Conventions", "title": "DMOZ - Games"}
+{"name": "Developers and Publishers", "title": "DMOZ - Games"}
+{"name": "Game Studies", "title": "DMOZ - Games"}
+{"name": "History", "title": "DMOZ - Games"}
+{"name": "Play Groups", "title": "DMOZ - Games"}
+{"name": "Resources", "title": "DMOZ - Games"}
+{"name": "Shopping", "title": "DMOZ - Games"}
+{"name": "Web Hosting", "title": "DMOZ - Games"}
+{"name": "Women in Gaming", "title": "DMOZ - Games"}
+{"name": "Individual Systems", "title": "DMOZ - Computers: Bulletin Board Systems"}
+{"name": "Visual Arts", "title": "DMOZ - Shopping"}
+{"name": "Weddings", "title": "DMOZ - Shopping"}
+{"name": "Wholesale", "title": "DMOZ - Shopping"}
+{"name": "Products and Shopping", "title": "DMOZ - Health"}
+{"name": "Professions", "title": "DMOZ - Health"}
+{"name": "Materials", "title": "DMOZ - Business"}
+{"name": "Mining and Drilling", "title": "DMOZ - Business"}
+{"name": "Publishing and Printing", "title": "DMOZ - Business"}
+{"name": "Real Estate", "title": "DMOZ - Business"}
+{"name": "Retail Trade", "title": "DMOZ - Business"}
+{"name": "Telecommunications", "title": "DMOZ - Business"}
+{"name": "By Region", "title": "DMOZ - News"}
+{"name": "By Subject", "title": "DMOZ - News"}
+{"name": "Alternative", "title": "DMOZ - News"}
+{"name": "Analysis and Opinion", "title": "DMOZ - News"}
+{"name": "Breaking News", "title": "DMOZ - News"}
+{"name": "Colleges and Universities", "title": "DMOZ - News"}
+{"name": "Current Events", "title": "DMOZ - News"}
+{"name": "CAD Consultants", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Companies", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Development", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Directories", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Education", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Vendors", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Cables", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Fax Server", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Virtual Private Networks", "title": "DMOZ - Computers: Data Communications"}
+{"name": "Resources", "title": "DMOZ - Society: Law: Legal Information: Computer and Technology Law"}
+{"name": "Specific Cases", "title": "DMOZ - Society: Law: Legal Information: Computer and Technology Law"}
+{"name": "Weblogs", "title": "DMOZ - Society: Law: Legal Information: Computer and Technology Law"}
+{"name": "Organizations", "title": "DMOZ - Society: Law: Legal Information: Computer and Technology Law"}
+{"name": "Lawyers and Law Firms", "title": "DMOZ - Society: Law: Legal Information: Computer and Technology Law"}
+{"name": "Products", "title": "DMOZ - Society: Law: Legal Information: Computer and Technology Law"}
+{"name": "Fidonet", "title": "DMOZ - Computers: Bulletin Board Systems"}
+{"name": "Hotline", "title": "DMOZ - Computers: Bulletin Board Systems"}
+{"name": "Software", "title": "DMOZ - Computers: Bulletin Board Systems"}
+{"name": "Web Rings", "title": "DMOZ - Computers: Bulletin Board Systems"}
+{"name": "Public Health and Safety", "title": "DMOZ - Health"}
+{"name": "Publications", "title": "DMOZ - Health"}
+{"name": "Reproductive Health", "title": "DMOZ - Health"}
+{"name": "Resources", "title": "DMOZ - Health"}
+{"name": "Search Engines", "title": "DMOZ - Health"}
+{"name": "Senior Health", "title": "DMOZ - Health"}
+{"name": "Senses", "title": "DMOZ - Health"}
+{"name": "Services", "title": "DMOZ - Health"}
+{"name": "Specific Substances", "title": "DMOZ - Health"}
+{"name": "Textiles and Nonwovens", "title": "DMOZ - Business"}
+{"name": "Transportation and Logistics", "title": "DMOZ - Business"}
+{"name": "Wholesale Trade", "title": "DMOZ - Business"}
+{"name": "Associations", "title": "DMOZ - Business"}
+{"name": "Directories", "title": "DMOZ - Business"}
+{"name": "News and Media", "title": "DMOZ - Business"}
+{"name": "Regional", "title": "DMOZ - Business"}
+{"name": "Resources", "title": "DMOZ - Business"}
+{"name": "Companies", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Extended Coverage", "title": "DMOZ - News"}
+{"name": "Headline Links", "title": "DMOZ - News"}
+{"name": "Internet Broadcasts", "title": "DMOZ - News"}
+{"name": "Journals", "title": "DMOZ - News"}
+{"name": "Magazines and E-zines", "title": "DMOZ - News"}
+{"name": "Newspapers", "title": "DMOZ - News"}
+{"name": "Personalized News", "title": "DMOZ - News"}
+{"name": "Radio", "title": "DMOZ - News"}
+{"name": "Satire", "title": "DMOZ - News"}
+{"name": "Television", "title": "DMOZ - News"}
+{"name": "Weather", "title": "DMOZ - News"}
+{"name": "Weblogs", "title": "DMOZ - News"}
+{"name": "Chats and Forums", "title": "DMOZ - News"}
+{"name": "Academic Departments", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Employment", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Magazines and E-zines", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Parts Libraries", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Personal Pages", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "2D Drafting", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "3D Modelling", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "AEC Design", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Computer Aided Manufacturing", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Drawing Exchange and Interoperability", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Electronic Design Automation", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "FEA Integration", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Graphics Hardware", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Support Groups", "title": "DMOZ - Health"}
+{"name": "Teen Health", "title": "DMOZ - Health"}
+{"name": "Travel Health", "title": "DMOZ - Health"}
+{"name": "Weight Loss", "title": "DMOZ - Health"}
+{"name": "Women's Health", "title": "DMOZ - Health"}
+{"name": "Conferences", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "People", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Publications", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Research Groups", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Software", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Agents", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Ant Colony Optimization", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Art", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Artificial Worlds", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Biomimicry", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Directories", "title": "DMOZ - News"}
+{"name": "Journalism", "title": "DMOZ - News"}
+{"name": "Media Industry", "title": "DMOZ - News"}
+{"name": "Museums and Archives", "title": "DMOZ - News"}
+{"name": "Associations", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Companies", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Conferences and Events", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "People", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Publications", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Agents", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Applications", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Artificial Life", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Mapping and GIS", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Mechanical Design", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Plotters", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Product Data Management", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Raster to Vector", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Textile Design", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Viewers", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "ArchiCAD", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "AutoCAD", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Cadkey", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "CATIA", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "Conferences", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Cellular Automata", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Distributed Projects", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Genetic Programming", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Iterated Prisoner Dilemma", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Lindenmayer Systems", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Neural Networks", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Particle Swarm", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Robotics", "title": "DMOZ - Computers: Artificial Life"}
+{"name": "Belief Networks", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Creativity", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Data Mining", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Distributed Projects", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "FAQs, Help, and Tutorials", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Fuzzy", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Games", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Genetic Programming", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Knowledge Representation", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Chief Architect", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "DataCAD", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "IntelliCAD", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "MicroStation", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "NX (Unigraphics) and Solid Edge", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "PDMS", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "PTC Pro Engineer", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "TurboCAD", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "VectorWorks", "title": "DMOZ - Computers: CAD and CAM"}
+{"name": "People", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Publications", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Research Groups", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Complexity", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Computability", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Animated", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Compression", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Computational Algebra", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Computational Geometry", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Computational Number Theory", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Machine Learning", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Natural Language", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Neural Networks", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Philosophy", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Programming Languages", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Qualitative Physics", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Cryptography", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Digital Signal Processing", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Genetic", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Graphics", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Numerical Analysis", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Pseudorandom Numbers", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Support Vector Machines", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Vision", "title": "DMOZ - Computers: Artificial Intelligence"}
+{"name": "Sorting and Searching", "title": "DMOZ - Computers: Algorithms"}
+{"name": "Magazines and E-zines", "title": "DMOZ - Computers: Systems"}
+{"name": "Game Consoles", "title": "DMOZ - Computers: Systems"}
+{"name": "Handhelds", "title": "DMOZ - Computers: Systems"}
+{"name": "Internet Appliances", "title": "DMOZ - Computers: Systems"}
+{"name": "Tablet PCs", "title": "DMOZ - Computers: Systems"}
+{"name": "Acorn", "title": "DMOZ - Computers: Systems"}
+{"name": "Amiga", "title": "DMOZ - Computers: Systems"}
+{"name": "Amstrad", "title": "DMOZ - Computers: Systems"}
+{"name": "Apple", "title": "DMOZ - Computers: Systems"}
+{"name": "Atari", "title": "DMOZ - Computers: Systems"}
+{"name": "Commodore", "title": "DMOZ - Computers: Systems"}
+{"name": "DEC", "title": "DMOZ - Computers: Systems"}
+{"name": "EPOC-based", "title": "DMOZ - Computers: Systems"}
+{"name": "HP", "title": "DMOZ - Computers: Systems"}
+{"name": "HP 3000", "title": "DMOZ - Computers: Systems"}
+{"name": "IBM", "title": "DMOZ - Computers: Systems"}
+{"name": "MSX", "title": "DMOZ - Computers: Systems"}
+{"name": "Oric", "title": "DMOZ - Computers: Systems"}
+{"name": "Palm OS", "title": "DMOZ - Computers: Systems"}
+{"name": "RISC OS", "title": "DMOZ - Computers: Systems"}
+{"name": "SGI", "title": "DMOZ - Computers: Systems"}
+{"name": "Sinclair", "title": "DMOZ - Computers: Systems"}
+{"name": "Sun", "title": "DMOZ - Computers: Systems"}
+{"name": "Windows CE", "title": "DMOZ - Computers: Systems"}
+{"name": "Auctions", "title": "DMOZ - Computers: Shopping"}
+{"name": "Books", "title": "DMOZ - Computers: Shopping"}
+{"name": "Games", "title": "DMOZ - Computers: Shopping"}
+{"name": "Gifts", "title": "DMOZ - Computers: Shopping"}
+{"name": "Hardware Retailers", "title": "DMOZ - Computers: Shopping"}
+{"name": "Software Retailers", "title": "DMOZ - Computers: Shopping"}
+{"name": "Consumer Information", "title": "DMOZ - Computers: Shopping"}
+{"name": "Hardware Reviews", "title": "DMOZ - Computers: Shopping"}
+{"name": "Freeware", "title": "DMOZ - Computers: Software"}
+{"name": "Open Source", "title": "DMOZ - Computers: Software"}
+{"name": "Shareware", "title": "DMOZ - Computers: Software"}
+{"name": "Abandonware", "title": "DMOZ - Computers: Software"}
+{"name": "Beta Releases", "title": "DMOZ - Computers: Software"}
+{"name": "Conferences and Trade Shows", "title": "DMOZ - Computers: Software"}
+{"name": "Consultants", "title": "DMOZ - Computers: Software"}
+{"name": "Consumer Information", "title": "DMOZ - Computers: Software"}
+{"name": "Development Companies", "title": "DMOZ - Computers: Software"}
+{"name": "Directories", "title": "DMOZ - Computers: Software"}
+{"name": "Education", "title": "DMOZ - Computers: Software"}
+{"name": "FAQs, Help, and Tutorials", "title": "DMOZ - Computers: Software"}
+{"name": "Globalization", "title": "DMOZ - Computers: Software"}
+{"name": "History", "title": "DMOZ - Computers: Software"}
+{"name": "Licensing", "title": "DMOZ - Computers: Software"}
+{"name": "Malicious Software", "title": "DMOZ - Computers: Software"}
+{"name": "News and Media", "title": "DMOZ - Computers: Software"}
+{"name": "Programming", "title": "DMOZ - Computers: Software"}
+{"name": "Rentable", "title": "DMOZ - Computers: Software"}
+{"name": "Retailers", "title": "DMOZ - Computers: Software"}
+{"name": "Search Engines", "title": "DMOZ - Computers: Software"}
+{"name": "Software Engineering", "title": "DMOZ - Computers: Software"}
+{"name": "Year 2000", "title": "DMOZ - Computers: Software"}
+{"name": "Associations", "title": "DMOZ - Computers: Organizations"}
+{"name": "Acer", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Accounting", "title": "DMOZ - Computers: Software"}
+{"name": "Anti-Virus", "title": "DMOZ - Computers: Software"}
+{"name": "Backup", "title": "DMOZ - Computers: Software"}
+{"name": "Barcode", "title": "DMOZ - Computers: Software"}
+{"name": "Build Management", "title": "DMOZ - Computers: Software"}
+{"name": "Business", "title": "DMOZ - Computers: Software"}
+{"name": "Business Drawing", "title": "DMOZ - Computers: Software"}
+{"name": "Business Intelligence", "title": "DMOZ - Computers: Software"}
+{"name": "CAD", "title": "DMOZ - Computers: Software"}
+{"name": "Communications", "title": "DMOZ - Computers: Software"}
+{"name": "Committees", "title": "DMOZ - Computers: Organizations"}
+{"name": "Non-Profit", "title": "DMOZ - Computers: Organizations"}
+{"name": "Professional", "title": "DMOZ - Computers: Organizations"}
+{"name": "Student", "title": "DMOZ - Computers: Organizations"}
+{"name": "User Groups", "title": "DMOZ - Computers: Organizations"}
+{"name": "Working Groups", "title": "DMOZ - Computers: Organizations"}
+{"name": "Artificial Intelligence", "title": "DMOZ - Computers: Organizations"}
+{"name": "Computer Science", "title": "DMOZ - Computers: Organizations"}
+{"name": "Data Communications", "title": "DMOZ - Computers: Organizations"}
+{"name": "Data Storage", "title": "DMOZ - Computers: Organizations"}
+{"name": "Human-Computer Interaction", "title": "DMOZ - Computers: Organizations"}
+{"name": "Internet", "title": "DMOZ - Computers: Organizations"}
+{"name": "Apple", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Compaq", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Compilers", "title": "DMOZ - Computers: Software"}
+{"name": "Configuration Management", "title": "DMOZ - Computers: Software"}
+{"name": "Data Administration", "title": "DMOZ - Computers: Software"}
+{"name": "Data Compression", "title": "DMOZ - Computers: Software"}
+{"name": "Databases", "title": "DMOZ - Computers: Software"}
+{"name": "Desktop Customization", "title": "DMOZ - Computers: Software"}
+{"name": "Desktop Publishing", "title": "DMOZ - Computers: Software"}
+{"name": "Device Drivers", "title": "DMOZ - Computers: Software"}
+{"name": "Object-Oriented Programming", "title": "DMOZ - Computers: Organizations"}
+{"name": "Open Source", "title": "DMOZ - Computers: Organizations"}
+{"name": "Security", "title": "DMOZ - Computers: Organizations"}
+{"name": "Unix Administration", "title": "DMOZ - Computers: Organizations"}
+{"name": "Directories", "title": "DMOZ - Computers: Organizations"}
+{"name": "Bar Billiards", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "Dell", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Gateway", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Hitachi", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "HP", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "IBM", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Intel", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Lucent Technologies", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Mitsubishi Electric", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Packard Bell", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "SGI", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Sun", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Diagnostics", "title": "DMOZ - Computers: Software"}
+{"name": "Digital Signage", "title": "DMOZ - Computers: Software"}
+{"name": "Digital Video", "title": "DMOZ - Computers: Software"}
+{"name": "Disk Management", "title": "DMOZ - Computers: Software"}
+{"name": "Distributed Computing", "title": "DMOZ - Computers: Software"}
+{"name": "Document Imaging", "title": "DMOZ - Computers: Software"}
+{"name": "Document Management", "title": "DMOZ - Computers: Software"}
+{"name": "Editors", "title": "DMOZ - Computers: Software"}
+{"name": "Educational", "title": "DMOZ - Computers: Software"}
+{"name": "Emulators", "title": "DMOZ - Computers: Software"}
+{"name": "Enterprise Application Integration", "title": "DMOZ - Computers: Software"}
+{"name": "Enterprise Information Integration", "title": "DMOZ - Computers: Software"}
+{"name": "ERP", "title": "DMOZ - Computers: Software"}
+{"name": "File Management", "title": "DMOZ - Computers: Software"}
+{"name": "Carom", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "English Billiards", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "Pool", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "Snooker", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "Associations", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "Clubs and Leagues", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "Coaching and Instruction", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "News and Media", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "Players", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "Consumer Software", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Independent Tech Support", "title": "DMOZ - Computers: Companies: Product Support"}
+{"name": "Associations", "title": "DMOZ - Sports: Croquet"}
+{"name": "Fonts", "title": "DMOZ - Computers: Software"}
+{"name": "Games", "title": "DMOZ - Computers: Software"}
+{"name": "Disc Golf", "title": "DMOZ - Sports: Flying Discs"}
+{"name": "Manufacturers", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "Shopping", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "Video Games", "title": "DMOZ - Sports: Cue Sports"}
+{"name": "Clubs", "title": "DMOZ - Sports: Croquet"}
+{"name": "Coaching", "title": "DMOZ - Sports: Croquet"}
+{"name": "History", "title": "DMOZ - Sports: Croquet"}
+{"name": "Image Galleries", "title": "DMOZ - Sports: Croquet"}
+{"name": "Introduction", "title": "DMOZ - Sports: Croquet"}
+{"name": "Personal Pages", "title": "DMOZ - Sports: Croquet"}
+{"name": "Resorts", "title": "DMOZ - Sports: Croquet"}
+{"name": "Shopping", "title": "DMOZ - Sports: Croquet"}
+{"name": "Graphics", "title": "DMOZ - Computers: Software"}
+{"name": "Groupware", "title": "DMOZ - Computers: Software"}
+{"name": "Help Desk", "title": "DMOZ - Computers: Software"}
+{"name": "Home", "title": "DMOZ - Computers: Software"}
+{"name": "Home Automation", "title": "DMOZ - Computers: Software"}
+{"name": "Human Resources", "title": "DMOZ - Computers: Software"}
+{"name": "Industry-Specific", "title": "DMOZ - Computers: Software"}
+{"name": "Information Retrieval", "title": "DMOZ - Computers: Software"}
+{"name": "Internet", "title": "DMOZ - Computers: Software"}
+{"name": "Double Disc Court", "title": "DMOZ - Sports: Flying Discs"}
+{"name": "Freestyle", "title": "DMOZ - Sports: Flying Discs"}
+{"name": "Goaltimate", "title": "DMOZ - Sports: Flying Discs"}
+{"name": "Guts", "title": "DMOZ - Sports: Flying Discs"}
+{"name": "Shopping", "title": "DMOZ - Sports: Flying Discs"}
+{"name": "Ultimate Frisbee", "title": "DMOZ - Sports: Flying Discs"}
+{"name": "Intranet", "title": "DMOZ - Computers: Software"}
+{"name": "Manufacturing", "title": "DMOZ - Computers: Software"}
+{"name": "Marketing", "title": "DMOZ - Computers: Software"}
+{"name": "Master Data Management", "title": "DMOZ - Computers: Software"}
+{"name": "Math", "title": "DMOZ - Computers: Software"}
+{"name": "Multimedia", "title": "DMOZ - Computers: Software"}
+{"name": "Networking", "title": "DMOZ - Computers: Software"}
+{"name": "Object-Oriented", "title": "DMOZ - Computers: Software"}
+{"name": "Office Suites", "title": "DMOZ - Computers: Software"}
+{"name": "Online Training", "title": "DMOZ - Computers: Software"}
+{"name": "Operating Systems", "title": "DMOZ - Computers: Software"}
+{"name": "Presentation", "title": "DMOZ - Computers: Software"}
+{"name": "Project Management", "title": "DMOZ - Computers: Software"}
+{"name": "Robotics", "title": "DMOZ - Computers: Software"}
+{"name": "Science", "title": "DMOZ - Computers: Software"}
+{"name": "Security", "title": "DMOZ - Computers: Software"}
+{"name": "Sports", "title": "DMOZ - Computers: Software"}
+{"name": "Spreadsheets", "title": "DMOZ - Computers: Software"}
+{"name": "System Management", "title": "DMOZ - Computers: Software"}
+{"name": "Typesetting", "title": "DMOZ - Computers: Software"}
+{"name": "Virtual Reality", "title": "DMOZ - Computers: Software"}
+{"name": "Word Processors", "title": "DMOZ - Computers: Software"}
+{"name": "Workflow", "title": "DMOZ - Computers: Software"}
+{"name": "Arts", "title": "DMOZ - Reference: Archives"}
+{"name": "Medical", "title": "DMOZ - Reference: Archives"}
+{"name": "Personal", "title": "DMOZ - Reference: Archives"}
+{"name": "Social History", "title": "DMOZ - Reference: Archives"}
+{"name": "University", "title": "DMOZ - Reference: Archives"}
+{"name": "Regional", "title": "DMOZ - Reference: Archives"}
+{"name": "Professional Resources", "title": "DMOZ - Reference: Archives"}
+{"name": "Records Management", "title": "DMOZ - Reference: Archives"}
+{"name": "Brokerages", "title": "DMOZ - Business: Investing"}
+{"name": "Clearing Houses and Securities Depositories", "title": "DMOZ - Business: Investing"}
+{"name": "Day Trading", "title": "DMOZ - Business: Investing"}
+{"name": "Exchanges", "title": "DMOZ - Business: Investing"}
+{"name": "Funds", "title": "DMOZ - Business: Investing"}
+{"name": "Guides", "title": "DMOZ - Business: Investing"}
+{"name": "Money Managers", "title": "DMOZ - Business: Investing"}
+{"name": "Payment Associations", "title": "DMOZ - Business: Investing"}
+{"name": "Research and Analysis", "title": "DMOZ - Business: Investing"}
+{"name": "Commodities and Futures", "title": "DMOZ - Business: Investing"}
+{"name": "Derivatives", "title": "DMOZ - Business: Investing"}
+{"name": "Real Estate", "title": "DMOZ - Business: Investing"}
+{"name": "Retirement Planning", "title": "DMOZ - Business: Investing"}
+{"name": "Socially Responsible", "title": "DMOZ - Business: Investing"}
+{"name": "Stocks and Bonds", "title": "DMOZ - Business: Investing"}
+{"name": "Associations", "title": "DMOZ - Business: Investing"}
+{"name": "Books", "title": "DMOZ - Business: Investing"}
+{"name": "Chats and Forums", "title": "DMOZ - Business: Investing"}
+{"name": "Consulting", "title": "DMOZ - Business: Investing"}
+{"name": "Education and Training", "title": "DMOZ - Business: Investing"}
+{"name": "Employment", "title": "DMOZ - Business: Investing"}
+{"name": "Games", "title": "DMOZ - Business: Investing"}
+{"name": "Humor", "title": "DMOZ - Business: Investing"}
+{"name": "Marketing and Advertising", "title": "DMOZ - Business: Investing"}
+{"name": "News and Media", "title": "DMOZ - Business: Investing"}
+{"name": "Resources", "title": "DMOZ - Business: Investing"}
+{"name": "Software", "title": "DMOZ - Business: Investing"}
+{"name": "Aquaculture", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "By Region", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Field Crops", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Food and Related Products", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Forestry", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "History", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Horticulture", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Industrial Hemp", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Livestock", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "News and Media", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Publications", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Aeronautical", "title": "DMOZ - Business: Aerospace and Defense"}
+{"name": "Aerial Application", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Agricultural Chemicals", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Barns and Structures", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Biologicals", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Equipment and Supplies", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Farm Real Estate", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Fencing", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Instruments and Supplies", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Defense", "title": "DMOZ - Business: Aerospace and Defense"}
+{"name": "Space", "title": "DMOZ - Business: Aerospace and Defense"}
+{"name": "Associations", "title": "DMOZ - Business: Aerospace and Defense"}
+{"name": "Conferences", "title": "DMOZ - Business: Aerospace and Defense"}
+{"name": "Dictionaries", "title": "DMOZ - Business: Aerospace and Defense"}
+{"name": "Directories", "title": "DMOZ - Business: Aerospace and Defense"}
+{"name": "Software", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Tractors, Machinery, and Implements", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Associations", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Consulting", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Cooperatives", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Directories", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Economics", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Employment", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Import and Export", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Marketing and Advertising", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Marketplaces", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Trade Shows", "title": "DMOZ - Business: Agriculture and Forestry"}
+{"name": "Commercial and Industrial Products", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Contract Manufacturing", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Production Equipment and Materials", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Circuit Protection", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Components", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Control Systems", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Electromechanical", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Heating and Cooling", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Human Interfaces", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Instrumentation", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Optoelectronics and Fiber", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Power Supplies", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Repair and Service", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Safety and Compliance Testing", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Substation and Transmission", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Surge Protectors", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Test and Measurement", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Transformers and Inductors", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Wiring and Accessories", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Associations", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Conferences", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Consumer Electronics", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Directories", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Education and Training", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Employment", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Engineering", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Import and Export", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Manufacturers' Representatives", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Marketing and Advertising", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "News and Media", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Standards and Codes", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Tools and Equipment", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Wholesale and Distribution", "title": "DMOZ - Business: Electronics and Electrical"}
+{"name": "Analytical Laboratories", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Bearings", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Cable and Wire", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Calibration and Testing", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Casting, Molding, Machining", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Coating and Laminating", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Engineering", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Factory Automation", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Fluid Handling", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Industrial Supply", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Machinery and Tools", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Optics", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Packaging", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Services", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Associations", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Conferences", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Consulting", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Directories", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Employment", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Marketing and Advertising", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "News and Media", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Software", "title": "DMOZ - Business: Industrial Goods and Services"}
+{"name": "Conferences", "title": "DMOZ - Computers: Artificial Intelligence: Vision"}
+{"name": "Journals", "title": "DMOZ - Computers: Artificial Intelligence: Vision"}
+{"name": "Research Labs", "title": "DMOZ - Computers: Artificial Intelligence: Vision"}
+{"name": "Software", "title": "DMOZ - Computers: Artificial Intelligence: Vision"}
+{"name": "Games", "title": "DMOZ - Home: Consumer Information: Computers and Internet"}
+{"name": "Hardware", "title": "DMOZ - Home: Consumer Information: Computers and Internet"}
+{"name": "Internet", "title": "DMOZ - Home: Consumer Information: Computers and Internet"}
+{"name": "Security", "title": "DMOZ - Home: Consumer Information: Computers and Internet"}
+{"name": "Software", "title": "DMOZ - Home: Consumer Information: Computers and Internet"}
+{"name": "Barter", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Cross-Cultural Communications", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Import and Export", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "International Organization for Standardization - ISO", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "International Taxation", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Services", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Trade Lead Portals", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Translation", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Associations", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Conferences", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Consulting", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Directories", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Economic Development", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Issues", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Trade Policy", "title": "DMOZ - Business: International Business and Trade"}
+{"name": "Accounting", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Configuration Management", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Desktop Customization", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Educational", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Fonts", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Help Desk", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Internet", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Operating Systems", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Project Management", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Video Games", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Freeware", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Open Source", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Shareware", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Apple Macintosh", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Linux", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Palm OS", "title": "DMOZ - Computers: Software: Directories"}
+{"name": "Databases", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Desktop Customization", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Globalization", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Graphics", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Android", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Apache", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Concurrent Versions System", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Excel", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Firefox", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Linux", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Mac OS X", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Microsoft Exchange", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Microsoft Outlook", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Microsoft Windows", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Netscape", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "OpenOffice", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Procmail", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "TeX", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Unix", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "VMS", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Webalizer", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Wiki", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Word", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "x86 DOS", "title": "DMOZ - Computers: Software: FAQs, Help, and Tutorials"}
+{"name": "Configuration Management", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Design", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Programming", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Project Management", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Quality Assurance", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Reuse", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Development Tools", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Programming Methodologies", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Articles", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Accounting Products", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Books", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Conferences", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Directories", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Employment", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "History", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Journals", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "People", "title": "DMOZ - Computers: Software: Software Engineering"}
+{"name": "Christian", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Discount", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Document Management Products", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Educational", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Games", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Graphics", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Law", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Networking", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Productivity", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Sales and Support", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Screen Savers", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Workflow", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Linux OS", "title": "DMOZ - Computers: Software: Retailers"}
+{"name": "Back Office", "title": "DMOZ - Business: Investing: Software"}
+{"name": "Calculators", "title": "DMOZ - Business: Investing: Software"}
+{"name": "Bonds", "title": "DMOZ - Business: Investing: Software"}
+{"name": "Derivatives", "title": "DMOZ - Business: Investing: Software"}
+{"name": "Equities", "title": "DMOZ - Business: Investing: Software"}
+{"name": "Money Managers", "title": "DMOZ - Business: Investing: Software"}
+{"name": "Research and Analysis", "title": "DMOZ - Business: Investing: Software"}
+{"name": "Brokerages", "title": "DMOZ - Business: Investing: Software"}
+{"name": "Consulting", "title": "DMOZ - Computers: Software: Workflow"}
+{"name": "Products", "title": "DMOZ - Computers: Software: Workflow"}
+{"name": "Research", "title": "DMOZ - Computers: Software: Workflow"}
+{"name": "Accessories", "title": "DMOZ - Shopping: Sports: Croquet"}
+{"name": "Forestry", "title": "DMOZ - Business: Agriculture and Forestry: News and Media"}
+{"name": "Livestock", "title": "DMOZ - Business: Agriculture and Forestry: News and Media"}
+{"name": "Weather", "title": "DMOZ - Business: Agriculture and Forestry: News and Media"}
+{"name": "Organizations", "title": "DMOZ - Business: Agriculture and Forestry: News and Media"}
+{"name": "Bonds", "title": "DMOZ - Business: Investing: Resources"}
+{"name": "Brokerages", "title": "DMOZ - Business: Investing: Resources"}
+{"name": "Commodities", "title": "DMOZ - Business: Investing: Resources"}
+{"name": "Day Trading", "title": "DMOZ - Business: Investing: Resources"}
+{"name": "Derivatives", "title": "DMOZ - Business: Investing: Resources"}
+{"name": "Equities", "title": "DMOZ - Business: Investing: Resources"}
+{"name": "Managers and Advisors", "title": "DMOZ - Business: Investing: Resources"}
+{"name": "Clubs", "title": "DMOZ - Business: Investing: Resources"}
+{"name": "Directories", "title": "DMOZ - Business: Investing: Resources"}
+{"name": "Chats and Forums", "title": "DMOZ - Business: Investing: Resources"}
+{"name": "Oil and Gas", "title": "DMOZ - Business: Industrial Goods and Services: Marketing and Advertising"}
+{"name": "Past Events", "title": "DMOZ - Business: Agriculture and Forestry: Trade Shows"}
+{"name": "Casting, Molding, Machining", "title": "DMOZ - Business: Industrial Goods and Services: Employment"}
+{"name": "Engineering", "title": "DMOZ - Business: Industrial Goods and Services: Employment"}
+{"name": "Machinery and Tools", "title": "DMOZ - Business: Industrial Goods and Services: Employment"}
+{"name": "Cable and Wire", "title": "DMOZ - Business: Industrial Goods and Services: News and Media"}
+{"name": "Ceramics", "title": "DMOZ - Business: Industrial Goods and Services: News and Media"}
+{"name": "Chemicals", "title": "DMOZ - Business: Industrial Goods and Services: News and Media"}
+{"name": "Electrical", "title": "DMOZ - Business: Industrial Goods and Services: News and Media"}
+{"name": "Fluid and Gas Control", "title": "DMOZ - Business: Industrial Goods and Services: News and Media"}
+{"name": "Materials Handling", "title": "DMOZ - Business: Industrial Goods and Services: News and Media"}
+{"name": "Mechanical Engineering", "title": "DMOZ - Business: Industrial Goods and Services: News and Media"}
+{"name": "Metals", "title": "DMOZ - Business: Industrial Goods and Services: News and Media"}
+{"name": "Oil and Gas", "title": "DMOZ - Business: Industrial Goods and Services: News and Media"}
+{"name": "Packaging", "title": "DMOZ - Business: Industrial Goods and Services: News and Media"}
+{"name": "Textiles and Nonwovens", "title": "DMOZ - Business: Industrial Goods and Services: News and Media"}
+{"name": "Abuse", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet"}
+{"name": "Access Providers", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet"}
+{"name": "Appliances", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet"}
+{"name": "Chain Letters", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet"}
+{"name": "Computer Virus Hoaxes", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet"}
+{"name": "Directories", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet"}
+{"name": "Evaluation of Web Site Content", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet"}
+{"name": "Free E-mail", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet"}
+{"name": "Software", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet"}
+{"name": "Web Hosting", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet"}
+{"name": "Web Site Reviews", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet"}
+{"name": "Child Safety", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Security"}
+{"name": "Cyberstalking", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Security"}
+{"name": "Fraud", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Security"}
+{"name": "Privacy", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Security"}
+{"name": "Spam", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Security"}
+{"name": "Trade Issues", "title": "DMOZ - Science: Social Sciences: Political Science: Trade Policy"}
+{"name": "World Trade Organization", "title": "DMOZ - Science: Social Sciences: Political Science: Trade Policy"}
+{"name": "Technical Analysis", "title": "DMOZ - Business: Investing: Research and Analysis: Software"}
+{"name": "Centers", "title": "DMOZ - Computers: Software: Workflow: Research"}
+{"name": "People", "title": "DMOZ - Computers: Software: Workflow: Research"}
+{"name": "Derivatives", "title": "DMOZ - Business: Investing: Resources: Clubs"}
+{"name": "Clubs", "title": "DMOZ - Business: Investing: Stocks and Bonds: Equities: Resources"}
+{"name": "Securities Law", "title": "DMOZ - Business: Investing: Stocks and Bonds: Equities: Resources"}
+{"name": "Clothing", "title": "DMOZ - Business: Textiles and Nonwovens: News and Media"}
+{"name": "Geotechnical", "title": "DMOZ - Business: Textiles and Nonwovens: News and Media"}
+{"name": "Nonwovens", "title": "DMOZ - Business: Textiles and Nonwovens: News and Media"}
+{"name": "Textiles", "title": "DMOZ - Business: Textiles and Nonwovens: News and Media"}
+{"name": "Fibers", "title": "DMOZ - Business: Textiles and Nonwovens: News and Media"}
+{"name": "Leathers", "title": "DMOZ - Business: Textiles and Nonwovens: News and Media"}
+{"name": "Resins and Chemicals", "title": "DMOZ - Business: Textiles and Nonwovens: News and Media"}
+{"name": "Composites", "title": "DMOZ - Business: Textiles and Nonwovens: News and Media"}
+{"name": "Filtration", "title": "DMOZ - Business: Textiles and Nonwovens: News and Media"}
+{"name": "Furnishing", "title": "DMOZ - Business: Textiles and Nonwovens: News and Media"}
+{"name": "Textile Care", "title": "DMOZ - Business: Textiles and Nonwovens: News and Media"}
+{"name": "Bankruptcy", "title": "DMOZ - Society: Law: Products: Computers: Software"}
+{"name": "Estate Planning and Administration", "title": "DMOZ - Society: Law: Products: Computers: Software"}
+{"name": "Family Law", "title": "DMOZ - Society: Law: Products: Computers: Software"}
+{"name": "Law Enforcement", "title": "DMOZ - Society: Law: Products: Computers: Software"}
+{"name": "Court Reporting", "title": "DMOZ - Society: Law: Products: Computers: Software"}
+{"name": "Practice Management", "title": "DMOZ - Society: Law: Products: Computers: Software"}
+{"name": "Reviews", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet: Web Hosting"}
+{"name": "Web Hosting Providers", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet: Web Hosting"}
+{"name": "Blacklisting", "title": "DMOZ - Computers: Internet: E-mail: Spam"}
+{"name": "Chain Letters", "title": "DMOZ - Computers: Internet: E-mail: Spam"}
+{"name": "Filtering", "title": "DMOZ - Computers: Internet: E-mail: Spam"}
+{"name": "Laws", "title": "DMOZ - Computers: Internet: E-mail: Spam"}
+{"name": "Preventing", "title": "DMOZ - Computers: Internet: E-mail: Spam"}
+{"name": "Tracking", "title": "DMOZ - Computers: Internet: E-mail: Spam"}
+{"name": "Bulk Mailers", "title": "DMOZ - Computers: Internet: E-mail: Spam"}
+{"name": "Articles", "title": "DMOZ - Computers: Internet: E-mail: Spam"}
+{"name": "Humor", "title": "DMOZ - Computers: Internet: E-mail: Spam"}
+{"name": "News and Media", "title": "DMOZ - Computers: Internet: E-mail: Spam"}
+{"name": "Organizations", "title": "DMOZ - Computers: Internet: E-mail: Spam"}
+{"name": "Issues", "title": "DMOZ - Society: Government: Multilateral: World Trade Organization"}
+{"name": "News and Media", "title": "DMOZ - Society: Government: Multilateral: World Trade Organization"}
+{"name": "Advice", "title": "DMOZ - Computers: Security: Internet: Privacy"}
+{"name": "Anonymized Access", "title": "DMOZ - Computers: Security: Internet: Privacy"}
+{"name": "Child Safety", "title": "DMOZ - Computers: Security: Internet: Privacy"}
+{"name": "Consultants", "title": "DMOZ - Computers: Security: Internet: Privacy"}
+{"name": "Cookies", "title": "DMOZ - Computers: Security: Internet: Privacy"}
+{"name": "Hosted Proxy Services", "title": "DMOZ - Computers: Security: Internet: Privacy"}
+{"name": "News and Media", "title": "DMOZ - Computers: Security: Internet: Privacy"}
+{"name": "Organizations", "title": "DMOZ - Computers: Security: Internet: Privacy"}
+{"name": "Privacy Seal Programs", "title": "DMOZ - Computers: Security: Internet: Privacy"}
+{"name": "Products and Tools", "title": "DMOZ - Computers: Security: Internet: Privacy"}
+{"name": "Protocols", "title": "DMOZ - Computers: Security: Internet: Privacy"}
+{"name": "Chain Letters", "title": "DMOZ - Society: Issues: Fraud: Internet"}
+{"name": "Computer Virus Hoaxes", "title": "DMOZ - Society: Issues: Fraud: Internet"}
+{"name": "Fake Escrow Sites", "title": "DMOZ - Society: Issues: Fraud: Internet"}
+{"name": "Identity Theft", "title": "DMOZ - Society: Issues: Fraud: Internet"}
+{"name": "Make Money Fast", "title": "DMOZ - Society: Issues: Fraud: Internet"}
+{"name": "Nigerian Email Fraud", "title": "DMOZ - Society: Issues: Fraud: Internet"}
+{"name": "Phishing", "title": "DMOZ - Society: Issues: Fraud: Internet"}
+{"name": "For Kids and Teens", "title": "DMOZ - Computers: Internet: Child Safety"}
+{"name": "Windows Keylogger Shareware", "title": "DMOZ - Computers: Internet: Child Safety"}
+{"name": "Windows Parental Control Shareware", "title": "DMOZ - Computers: Internet: Child Safety"}
+{"name": "Filtering Software", "title": "DMOZ - Computers: Internet: Child Safety"}
+{"name": "Monitoring Software", "title": "DMOZ - Computers: Internet: Child Safety"}
+{"name": "Browsers", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Software: Internet"}
+{"name": "Filtering Software", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Software: Internet"}
+{"name": "Hotmail", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet: Free E-mail"}
+{"name": "Options", "title": "DMOZ - Business: Investing: Derivatives: Resources: Clubs"}
+{"name": "Fraud and Misconduct", "title": "DMOZ - Society: Law: Legal Information: Business and Corporate Law: Securities"}
+{"name": "Billing", "title": "DMOZ - Society: Law: Products: Practice Management: Software"}
+{"name": "Document Management", "title": "DMOZ - Society: Law: Products: Practice Management: Software"}
+{"name": "Law Department", "title": "DMOZ - Society: Law: Products: Practice Management: Software"}
+{"name": "Litigation", "title": "DMOZ - Society: Law: Products: Practice Management: Software"}
+{"name": "Online", "title": "DMOZ - Society: Law: Products: Practice Management: Software"}
+{"name": "By Country", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Arts and Humanities", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Baby Homepages", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Colocation", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Free", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Games", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Images", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Ruby", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Wiki Farms", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Chats and Forums", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Directories", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "FAQs, Help, and Tutorials", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Reviews", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting"}
+{"name": "Humor", "title": "DMOZ - Society: Issues: Fraud: Advance Fee Fraud"}
+{"name": "Chain Letters", "title": "DMOZ - Society: Issues: Fraud: Internet: Make Money Fast"}
+{"name": "Ponzi or Pyramid Schemes", "title": "DMOZ - Society: Issues: Fraud: Internet: Make Money Fast"}
+{"name": "News and Media", "title": "DMOZ - Computers: Security: Internet: Privacy: Protocols"}
+{"name": "Child Safety", "title": "DMOZ - Computers: Software: Internet: Monitoring"}
+{"name": "Security Monitoring", "title": "DMOZ - Computers: Software: Internet: Monitoring"}
+{"name": "Open Source", "title": "DMOZ - Computers: Software: Internet: Monitoring"}
+{"name": "Security Holes", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Internet: Free E-mail: Hotmail"}
+{"name": "Accessories", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Software: Internet: Browsers"}
+{"name": "Microsoft Internet Explorer", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Software: Internet: Browsers"}
+{"name": "Netscape", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Software: Internet: Browsers"}
+{"name": "Opera", "title": "DMOZ - Home: Consumer Information: Computers and Internet: Software: Internet: Browsers"}
+{"name": "Ad Filters", "title": "DMOZ - Computers: Internet: Proxying and Filtering: Content Filtering: Software: Client"}
+{"name": "Getting Around Filters", "title": "DMOZ - Computers: Internet: Proxying and Filtering: Content Filtering: Software: Client"}
+{"name": "Opinions", "title": "DMOZ - Computers: Internet: Proxying and Filtering: Content Filtering: Software: Client"}
+{"name": "Reviews", "title": "DMOZ - Computers: Internet: Proxying and Filtering: Content Filtering: Software: Client"}
+{"name": "Web Design and Development", "title": "DMOZ - Society: Law: Products: Practice Management: Software: Online"}
+{"name": "ASP.NET", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Directories"}
+{"name": "Free Hosting", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Directories"}
+{"name": "United Kingdom", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Directories"}
+{"name": "Keyloggers", "title": "DMOZ - Computers: Security: Products and Tools: Monitoring"}
+{"name": "Directories", "title": "DMOZ - Computers: Internet: On the Web: Web Applications: Photo Sharing: Image Hosting"}
+{"name": "Con", "title": "DMOZ - Society: Issues: Science and Technology: Computers: Internet: Content Filtering"}
+{"name": "Pro", "title": "DMOZ - Society: Issues: Science and Technology: Computers: Internet: Content Filtering"}
+{"name": "News and Media", "title": "DMOZ - Society: Issues: Science and Technology: Computers: Internet: Content Filtering"}
+{"name": "Proxy Servers", "title": "DMOZ - Computers: Internet: Proxying and Filtering: Content Filtering: Circumventing"}
+{"name": "Fake Identification", "title": "DMOZ - Society: Crime: Theft: Identity Theft"}
+{"name": "Phishing", "title": "DMOZ - Society: Crime: Theft: Identity Theft"}
+{"name": "Prevention Consultants and Trainers", "title": "DMOZ - Society: Crime: Theft: Identity Theft"}
+{"name": "Bridge Clubs", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Games"}
+{"name": "Free", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Games"}
+{"name": "MUDs", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Games"}
+{"name": "Shareware", "title": "DMOZ - Computers: Security: Products and Tools: Monitoring: Keyloggers"}
+{"name": "Directories", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Business", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Personal", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Arts and Humanities", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Cars, Trucks, and Cycles", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Computer Related", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Family and Genealogy", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Games", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Music Related", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Non-Profit", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Religion Related", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Special Interest", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Sports Related", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Student Interest", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: Free"}
+{"name": "Directories", "title": "DMOZ - Business: Telecommunications: Colocation"}
+{"name": "Europe", "title": "DMOZ - Business: Telecommunications: Colocation"}
+{"name": "North America", "title": "DMOZ - Business: Telecommunications: Colocation"}
+{"name": "Wired News", "title": "DMOZ - Society: Issues: Science and Technology: Computers: Internet: Content Filtering: News and Media"}
+{"name": "Australia", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: By Country"}
+{"name": "Brazil", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosting: By Country"}
+{"name": "Egypt", "title": "DMOZ - Computers: Internet: Web Design and Development: H
