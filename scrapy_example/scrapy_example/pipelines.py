@@ -33,7 +33,7 @@ class MongoDBPipeline(object):
         self.db = self.client[self.db]
 
     def close_spider(self, spider):
-        self.spider.close()
+        self.client.close()
 
     def process_item(self, item, spider):
         self.db[self.collection].insert(dict(item))
