@@ -11,5 +11,5 @@ Examples of crawling and scraping web.
 
 
 ### License
-Copyright &copy; 2016 Abhay Arora.
+Copyright &copy; 2016 Xenon DigiLabs LLP.
 Licensed under the [MIT License](LICENSE).
