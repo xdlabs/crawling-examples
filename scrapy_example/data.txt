@@ -1,62 +1,4 @@
-{"name": "Aesthetics", "title": "DMOZ - Arts"}
-{"name": "Animation", "title": "DMOZ - Arts"}
-{"name": "Antiques", "title": "DMOZ - Arts"}
-{"name": "Architecture", "title": "DMOZ - Arts"}
-{"name": "Art History", "title": "DMOZ - Arts"}
-{"name": "Bodyart", "title": "DMOZ - Arts"}
-{"name": "Classical Studies", "title": "DMOZ - Arts"}
-{"name": "Comics", "title": "DMOZ - Arts"}
-{"name": "Costumes", "title": "DMOZ - Arts"}
-{"name": "Crafts", "title": "DMOZ - Arts"}
-{"name": "Dance", "title": "DMOZ - Arts"}
-{"name": "Design", "title": "DMOZ - Arts"}
-{"name": "Apartment Living", "title": "DMOZ - Home"}
-{"name": "Computer Science", "title": "DMOZ - Computers"}
-{"name": "Coaching", "title": "DMOZ - Sports"}
 {"name": "Activism", "title": "DMOZ - Society"}
-{"name": "Directories", "title": "DMOZ - Recreation"}
-{"name": "Digital", "title": "DMOZ - Arts"}
-{"name": "Entertainment", "title": "DMOZ - Arts"}
-{"name": "Graphic Design", "title": "DMOZ - Arts"}
-{"name": "Humanities", "title": "DMOZ - Arts"}
-{"name": "Illustration", "title": "DMOZ - Arts"}
-{"name": "Literature", "title": "DMOZ - Arts"}
-{"name": "Movies", "title": "DMOZ - Arts"}
-{"name": "Music", "title": "DMOZ - Arts"}
-{"name": "Consumer Information", "title": "DMOZ - Home"}
-{"name": "Cooking", "title": "DMOZ - Home"}
-{"name": "Do-It-Yourself", "title": "DMOZ - Home"}
-{"name": "Domestic Services", "title": "DMOZ - Home"}
-{"name": "Emergency Preparation", "title": "DMOZ - Home"}
-{"name": "Entertaining", "title": "DMOZ - Home"}
-{"name": "Family", "title": "DMOZ - Home"}
-{"name": "Gardening", "title": "DMOZ - Home"}
-{"name": "Home Automation", "title": "DMOZ - Home"}
-{"name": "Home Business", "title": "DMOZ - Home"}
-{"name": "Home Buyers", "title": "DMOZ - Home"}
-{"name": "Home Improvement", "title": "DMOZ - Home"}
-{"name": "Hardware", "title": "DMOZ - Computers"}
-{"name": "Internet", "title": "DMOZ - Computers"}
-{"name": "Security", "title": "DMOZ - Computers"}
-{"name": "Software", "title": "DMOZ - Computers"}
-{"name": "Systems", "title": "DMOZ - Computers"}
-{"name": "Algorithms", "title": "DMOZ - Computers"}
-{"name": "Artificial Intelligence", "title": "DMOZ - Computers"}
-{"name": "Artificial Life", "title": "DMOZ - Computers"}
-{"name": "Bulletin Board Systems", "title": "DMOZ - Computers"}
-{"name": "CAD and CAM", "title": "DMOZ - Computers"}
-{"name": "Computer and Technology Law", "title": "DMOZ - Computers"}
-{"name": "College and University", "title": "DMOZ - Sports"}
-{"name": "Disabled", "title": "DMOZ - Sports"}
-{"name": "Events", "title": "DMOZ - Sports"}
-{"name": "Fantasy", "title": "DMOZ - Sports"}
-{"name": "Gay, Lesbian, and Bisexual", "title": "DMOZ - Sports"}
-{"name": "History", "title": "DMOZ - Sports"}
-{"name": "News and Media", "title": "DMOZ - Sports"}
-{"name": "Officiating", "title": "DMOZ - Sports"}
-{"name": "Organizations", "title": "DMOZ - Sports"}
-{"name": "People", "title": "DMOZ - Sports"}
-{"name": "Professional", "title": "DMOZ - Sports"}
 {"name": "Advice", "title": "DMOZ - Society"}
 {"name": "Crime", "title": "DMOZ - Society"}
 {"name": "Death", "title": "DMOZ - Society"}
@@ -66,63 +8,9 @@
 {"name": "Ethnicity", "title": "DMOZ - Society"}
 {"name": "Folklore", "title": "DMOZ - Society"}
 {"name": "Future", "title": "DMOZ - Society"}
-{"name": "Gay, Lesbian, and Bisexual", "title": "DMOZ - Society"}
-{"name": "Antiques", "title": "DMOZ - Recreation"}
-{"name": "Astronomy", "title": "DMOZ - Recreation"}
-{"name": "Audio", "title": "DMOZ - Recreation"}
-{"name": "Autos", "title": "DMOZ - Recreation"}
-{"name": "Aviation", "title": "DMOZ - Recreation"}
-{"name": "Birding", "title": "DMOZ - Recreation"}
-{"name": "Boating", "title": "DMOZ - Recreation"}
-{"name": "Bowling", "title": "DMOZ - Recreation"}
-{"name": "Camps", "title": "DMOZ - Recreation"}
-{"name": "Climbing", "title": "DMOZ - Recreation"}
-{"name": "Myths and Folktales", "title": "DMOZ - Arts"}
-{"name": "Native and Tribal", "title": "DMOZ - Arts"}
-{"name": "Online Writing", "title": "DMOZ - Arts"}
-{"name": "Performing Arts", "title": "DMOZ - Arts"}
-{"name": "Photography", "title": "DMOZ - Arts"}
-{"name": "Radio", "title": "DMOZ - Arts"}
-{"name": "Rhetoric", "title": "DMOZ - Arts"}
-{"name": "Television", "title": "DMOZ - Arts"}
-{"name": "Theatre", "title": "DMOZ - Arts"}
-{"name": "Typography", "title": "DMOZ - Arts"}
-{"name": "Agriculture", "title": "DMOZ - Science"}
 {"name": "Countries", "title": "DMOZ - Regional"}
-{"name": "Homemaking", "title": "DMOZ - Home"}
-{"name": "Homeowners", "title": "DMOZ - Home"}
-{"name": "Moving and Relocating", "title": "DMOZ - Home"}
-{"name": "Personal Finance", "title": "DMOZ - Home"}
-{"name": "Personal Organization", "title": "DMOZ - Home"}
-{"name": "Pets", "title": "DMOZ - Home"}
-{"name": "Rural Living", "title": "DMOZ - Home"}
-{"name": "Seniors", "title": "DMOZ - Home"}
-{"name": "Shopping", "title": "DMOZ - Home"}
-{"name": "Urban Living", "title": "DMOZ - Home"}
-{"name": "News and Media", "title": "DMOZ - Home"}
-{"name": "Data Communications", "title": "DMOZ - Computers"}
-{"name": "Data Formats", "title": "DMOZ - Computers"}
-{"name": "Desktop Publishing", "title": "DMOZ - Computers"}
-{"name": "E-Books", "title": "DMOZ - Computers"}
-{"name": "Emulators", "title": "DMOZ - Computers"}
-{"name": "Fonts", "title": "DMOZ - Computers"}
-{"name": "Games", "title": "DMOZ - Computers"}
-{"name": "Graphics", "title": "DMOZ - Computers"}
-{"name": "Hacking", "title": "DMOZ - Computers"}
-{"name": "Home Automation", "title": "DMOZ - Computers"}
-{"name": "Human-Computer Interaction", "title": "DMOZ - Computers"}
-{"name": "Intranet", "title": "DMOZ - Computers"}
-{"name": "MIS", "title": "DMOZ - Computers"}
-{"name": "Mobile Computing", "title": "DMOZ - Computers"}
-{"name": "Resources", "title": "DMOZ - Sports"}
-{"name": "Shopping", "title": "DMOZ - Sports"}
-{"name": "Software", "title": "DMOZ - Sports"}
-{"name": "Team Spirit", "title": "DMOZ - Sports"}
-{"name": "Travel", "title": "DMOZ - Sports"}
-{"name": "Women", "title": "DMOZ - Sports"}
-{"name": "Youth and High School", "title": "DMOZ - Sports"}
-{"name": "Adventure Racing", "title": "DMOZ - Sports"}
-{"name": "Airsoft", "title": "DMOZ - Sports"}
+{"name": "Directories", "title": "DMOZ - Recreation"}
+{"name": "Gay, Lesbian, and Bisexual", "title": "DMOZ - Society"}
 {"name": "Genealogy", "title": "DMOZ - Society"}
 {"name": "Government", "title": "DMOZ - Society"}
 {"name": "History", "title": "DMOZ - Society"}
@@ -130,36 +18,6 @@
 {"name": "Issues", "title": "DMOZ - Society"}
 {"name": "Language and Linguistics", "title": "DMOZ - Society"}
 {"name": "Law", "title": "DMOZ - Society"}
-{"name": "Lifestyle Choices", "title": "DMOZ - Society"}
-{"name": "Collecting", "title": "DMOZ - Recreation"}
-{"name": "Crafts", "title": "DMOZ - Recreation"}
-{"name": "Drugs", "title": "DMOZ - Recreation"}
-{"name": "Fireworks", "title": "DMOZ - Recreation"}
-{"name": "Fishing", "title": "DMOZ - Recreation"}
-{"name": "Food", "title": "DMOZ - Recreation"}
-{"name": "Gambling", "title": "DMOZ - Recreation"}
-{"name": "Games", "title": "DMOZ - Recreation"}
-{"name": "Video", "title": "DMOZ - Arts"}
-{"name": "Visual Arts", "title": "DMOZ - Arts"}
-{"name": "Writers Resources", "title": "DMOZ - Arts"}
-{"name": "Archives", "title": "DMOZ - Arts"}
-{"name": "Awards", "title": "DMOZ - Arts"}
-{"name": "Book Shopping", "title": "DMOZ - Arts"}
-{"name": "Chats and Forums", "title": "DMOZ - Arts"}
-{"name": "Contests", "title": "DMOZ - Arts"}
-{"name": "Cultures and Groups", "title": "DMOZ - Arts"}
-{"name": "Anomalies and Alternative Science", "title": "DMOZ - Science"}
-{"name": "Astronomy", "title": "DMOZ - Science"}
-{"name": "Biology", "title": "DMOZ - Science"}
-{"name": "Chemistry", "title": "DMOZ - Science"}
-{"name": "Computer Science", "title": "DMOZ - Science"}
-{"name": "Earth Sciences", "title": "DMOZ - Science"}
-{"name": "Environment", "title": "DMOZ - Science"}
-{"name": "Math", "title": "DMOZ - Science"}
-{"name": "Physics", "title": "DMOZ - Science"}
-{"name": "Science in Society", "title": "DMOZ - Science"}
-{"name": "Social Sciences", "title": "DMOZ - Science"}
-{"name": "Technology", "title": "DMOZ - Science"}
 {"name": "Africa", "title": "DMOZ - Regional"}
 {"name": "Asia", "title": "DMOZ - Regional"}
 {"name": "Caribbean", "title": "DMOZ - Regional"}
@@ -168,49 +26,91 @@
 {"name": "Middle East", "title": "DMOZ - Regional"}
 {"name": "North America", "title": "DMOZ - Regional"}
 {"name": "Oceania", "title": "DMOZ - Regional"}
-{"name": "Polar Regions", "title": "DMOZ - Regional"}
-{"name": "Software", "title": "DMOZ - Home"}
-{"name": "Weblogs", "title": "DMOZ - Home"}
-{"name": "Multimedia", "title": "DMOZ - Computers"}
-{"name": "Newsgroups", "title": "DMOZ - Computers"}
-{"name": "Open Source", "title": "DMOZ - Computers"}
-{"name": "Operating Systems", "title": "DMOZ - Computers"}
-{"name": "Parallel Computing", "title": "DMOZ - Computers"}
-{"name": "Performance and Capacity", "title": "DMOZ - Computers"}
-{"name": "Programming", "title": "DMOZ - Computers"}
-{"name": "Robotics", "title": "DMOZ - Computers"}
-{"name": "Speech Technology", "title": "DMOZ - Computers"}
-{"name": "Supercomputing", "title": "DMOZ - Computers"}
-{"name": "Usenet", "title": "DMOZ - Computers"}
-{"name": "Virtual Reality", "title": "DMOZ - Computers"}
-{"name": "American Football", "title": "DMOZ - Sports"}
-{"name": "Animal Sports", "title": "DMOZ - Sports"}
-{"name": "Archery", "title": "DMOZ - Sports"}
-{"name": "Badminton", "title": "DMOZ - Sports"}
-{"name": "Baseball", "title": "DMOZ - Sports"}
-{"name": "Basketball", "title": "DMOZ - Sports"}
-{"name": "Bocce", "title": "DMOZ - Sports"}
-{"name": "Boomerang", "title": "DMOZ - Sports"}
-{"name": "Bowling", "title": "DMOZ - Sports"}
-{"name": "Boxing", "title": "DMOZ - Sports"}
-{"name": "Canoeing and Kayaking", "title": "DMOZ - Sports"}
+{"name": "Antiques", "title": "DMOZ - Recreation"}
+{"name": "Astronomy", "title": "DMOZ - Recreation"}
+{"name": "Audio", "title": "DMOZ - Recreation"}
+{"name": "Autos", "title": "DMOZ - Recreation"}
+{"name": "Aviation", "title": "DMOZ - Recreation"}
+{"name": "Birding", "title": "DMOZ - Recreation"}
+{"name": "Lifestyle Choices", "title": "DMOZ - Society"}
 {"name": "Men", "title": "DMOZ - Society"}
 {"name": "Military", "title": "DMOZ - Society"}
+{"name": "Agriculture", "title": "DMOZ - Science"}
+{"name": "Polar Regions", "title": "DMOZ - Regional"}
+{"name": "South America", "title": "DMOZ - Regional"}
+{"name": "Computer Science", "title": "DMOZ - Computers"}
+{"name": "Apartment Living", "title": "DMOZ - Home"}
+{"name": "Boating", "title": "DMOZ - Recreation"}
+{"name": "Bowling", "title": "DMOZ - Recreation"}
+{"name": "Camps", "title": "DMOZ - Recreation"}
+{"name": "Climbing", "title": "DMOZ - Recreation"}
+{"name": "Collecting", "title": "DMOZ - Recreation"}
+{"name": "Crafts", "title": "DMOZ - Recreation"}
+{"name": "Drugs", "title": "DMOZ - Recreation"}
+{"name": "Fireworks", "title": "DMOZ - Recreation"}
 {"name": "Organizations", "title": "DMOZ - Society"}
 {"name": "Paranormal", "title": "DMOZ - Society"}
 {"name": "People", "title": "DMOZ - Society"}
 {"name": "Philanthropy", "title": "DMOZ - Society"}
 {"name": "Philosophy", "title": "DMOZ - Society"}
 {"name": "Politics", "title": "DMOZ - Society"}
+{"name": "Anomalies and Alternative Science", "title": "DMOZ - Science"}
+{"name": "Astronomy", "title": "DMOZ - Science"}
+{"name": "Biology", "title": "DMOZ - Science"}
+{"name": "Chemistry", "title": "DMOZ - Science"}
+{"name": "Computer Science", "title": "DMOZ - Science"}
+{"name": "Earth Sciences", "title": "DMOZ - Science"}
+{"name": "Environment", "title": "DMOZ - Science"}
+{"name": "Hardware", "title": "DMOZ - Computers"}
+{"name": "Internet", "title": "DMOZ - Computers"}
+{"name": "Security", "title": "DMOZ - Computers"}
+{"name": "Software", "title": "DMOZ - Computers"}
+{"name": "Systems", "title": "DMOZ - Computers"}
+{"name": "Algorithms", "title": "DMOZ - Computers"}
+{"name": "Consumer Information", "title": "DMOZ - Home"}
+{"name": "Cooking", "title": "DMOZ - Home"}
+{"name": "Do-It-Yourself", "title": "DMOZ - Home"}
+{"name": "Domestic Services", "title": "DMOZ - Home"}
+{"name": "Emergency Preparation", "title": "DMOZ - Home"}
+{"name": "Entertaining", "title": "DMOZ - Home"}
+{"name": "Family", "title": "DMOZ - Home"}
+{"name": "Gardening", "title": "DMOZ - Home"}
+{"name": "Fishing", "title": "DMOZ - Recreation"}
+{"name": "Food", "title": "DMOZ - Recreation"}
+{"name": "Gambling", "title": "DMOZ - Recreation"}
+{"name": "Games", "title": "DMOZ - Recreation"}
+{"name": "Gardening", "title": "DMOZ - Recreation"}
+{"name": "Genealogy", "title": "DMOZ - Recreation"}
+{"name": "Guns", "title": "DMOZ - Recreation"}
+{"name": "Hiking", "title": "DMOZ - Recreation"}
 {"name": "Relationships", "title": "DMOZ - Society"}
 {"name": "Religion and Spirituality", "title": "DMOZ - Society"}
 {"name": "Sexuality", "title": "DMOZ - Society"}
 {"name": "Social Sciences", "title": "DMOZ - Society"}
 {"name": "Subcultures", "title": "DMOZ - Society"}
-{"name": "Gardening", "title": "DMOZ - Recreation"}
-{"name": "Genealogy", "title": "DMOZ - Recreation"}
-{"name": "Guns", "title": "DMOZ - Recreation"}
-{"name": "Hiking", "title": "DMOZ - Recreation"}
+{"name": "Support Groups", "title": "DMOZ - Society"}
+{"name": "Transgendered", "title": "DMOZ - Society"}
+{"name": "Urban Legends", "title": "DMOZ - Society"}
+{"name": "Math", "title": "DMOZ - Science"}
+{"name": "Physics", "title": "DMOZ - Science"}
+{"name": "Science in Society", "title": "DMOZ - Science"}
+{"name": "Social Sciences", "title": "DMOZ - Science"}
+{"name": "Technology", "title": "DMOZ - Science"}
+{"name": "Artificial Intelligence", "title": "DMOZ - Computers"}
+{"name": "Artificial Life", "title": "DMOZ - Computers"}
+{"name": "Bulletin Board Systems", "title": "DMOZ - Computers"}
+{"name": "CAD and CAM", "title": "DMOZ - Computers"}
+{"name": "Computer and Technology Law", "title": "DMOZ - Computers"}
+{"name": "Data Communications", "title": "DMOZ - Computers"}
+{"name": "Data Formats", "title": "DMOZ - Computers"}
+{"name": "Home Automation", "title": "DMOZ - Home"}
+{"name": "Home Business", "title": "DMOZ - Home"}
+{"name": "Home Buyers", "title": "DMOZ - Home"}
+{"name": "Home Improvement", "title": "DMOZ - Home"}
+{"name": "Homemaking", "title": "DMOZ - Home"}
+{"name": "Homeowners", "title": "DMOZ - Home"}
+{"name": "Moving and Relocating", "title": "DMOZ - Home"}
+{"name": "Personal Finance", "title": "DMOZ - Home"}
 {"name": "Horoscopes", "title": "DMOZ - Recreation"}
 {"name": "Humor", "title": "DMOZ - Recreation"}
 {"name": "Hunting", "title": "DMOZ - Recreation"}
@@ -218,18 +118,10 @@
 {"name": "Knives", "title": "DMOZ - Recreation"}
 {"name": "Living History", "title": "DMOZ - Recreation"}
 {"name": "Locks", "title": "DMOZ - Recreation"}
-{"name": "Martial Arts", "title": "DMOZ - Recreation"}
-{"name": "Directories", "title": "DMOZ - Arts"}
-{"name": "Education", "title": "DMOZ - Arts"}
-{"name": "Events", "title": "DMOZ - Arts"}
-{"name": "Genres", "title": "DMOZ - Arts"}
-{"name": "Libraries", "title": "DMOZ - Arts"}
-{"name": "Magazines and E-zines", "title": "DMOZ - Arts"}
-{"name": "Museums", "title": "DMOZ - Arts"}
-{"name": "News and Media", "title": "DMOZ - Arts"}
-{"name": "Organizations", "title": "DMOZ - Arts"}
-{"name": "People", "title": "DMOZ - Arts"}
-{"name": "Periods and Movements", "title": "DMOZ - Arts"}
+{"name": "Women", "title": "DMOZ - Society"}
+{"name": "Work", "title": "DMOZ - Society"}
+{"name": "Coaching", "title": "DMOZ - Sports"}
+{"name": "Aesthetics", "title": "DMOZ - Arts"}
 {"name": "Women", "title": "DMOZ - Science"}
 {"name": "Academic Departments", "title": "DMOZ - Science"}
 {"name": "By Region", "title": "DMOZ - Science"}
@@ -239,21 +131,25 @@
 {"name": "Employment", "title": "DMOZ - Science"}
 {"name": "Events", "title": "DMOZ - Science"}
 {"name": "History", "title": "DMOZ - Science"}
-{"name": "Instruments and Supplies", "title": "DMOZ - Science"}
-{"name": "South America", "title": "DMOZ - Regional"}
-{"name": "Chats and Forums", "title": "DMOZ - Computers"}
-{"name": "Caving", "title": "DMOZ - Sports"}
-{"name": "Cheerleading", "title": "DMOZ - Sports"}
-{"name": "Cricket", "title": "DMOZ - Sports"}
-{"name": "Croquet", "title": "DMOZ - Sports"}
-{"name": "Cue Sports", "title": "DMOZ - Sports"}
-{"name": "Cycling", "title": "DMOZ - Sports"}
-{"name": "Darts", "title": "DMOZ - Sports"}
-{"name": "Support Groups", "title": "DMOZ - Society"}
-{"name": "Transgendered", "title": "DMOZ - Society"}
-{"name": "Urban Legends", "title": "DMOZ - Society"}
-{"name": "Women", "title": "DMOZ - Society"}
-{"name": "Work", "title": "DMOZ - Society"}
+{"name": "Desktop Publishing", "title": "DMOZ - Computers"}
+{"name": "E-Books", "title": "DMOZ - Computers"}
+{"name": "Emulators", "title": "DMOZ - Computers"}
+{"name": "Fonts", "title": "DMOZ - Computers"}
+{"name": "Games", "title": "DMOZ - Computers"}
+{"name": "Graphics", "title": "DMOZ - Computers"}
+{"name": "Hacking", "title": "DMOZ - Computers"}
+{"name": "Home Automation", "title": "DMOZ - Computers"}
+{"name": "Human-Computer Interaction", "title": "DMOZ - Computers"}
+{"name": "Personal Organization", "title": "DMOZ - Home"}
+{"name": "Pets", "title": "DMOZ - Home"}
+{"name": "Rural Living", "title": "DMOZ - Home"}
+{"name": "Seniors", "title": "DMOZ - Home"}
+{"name": "Shopping", "title": "DMOZ - Home"}
+{"name": "Urban Living", "title": "DMOZ - Home"}
+{"name": "News and Media", "title": "DMOZ - Home"}
+{"name": "Software", "title": "DMOZ - Home"}
+{"name": "Weblogs", "title": "DMOZ - Home"}
+{"name": "Martial Arts", "title": "DMOZ - Recreation"}
 {"name": "Models", "title": "DMOZ - Recreation"}
 {"name": "Motorcycles", "title": "DMOZ - Recreation"}
 {"name": "Nudism", "title": "DMOZ - Recreation"}
@@ -261,24 +157,132 @@
 {"name": "Parties", "title": "DMOZ - Recreation"}
 {"name": "Pets", "title": "DMOZ - Recreation"}
 {"name": "Picture Ratings", "title": "DMOZ - Recreation"}
-{"name": "Personal Pages", "title": "DMOZ - Arts"}
-{"name": "Publishers", "title": "DMOZ - Arts"}
-{"name": "Regional", "title": "DMOZ - Arts"}
-{"name": "Web Rings", "title": "DMOZ - Arts"}
-{"name": "Weblogs", "title": "DMOZ - Arts"}
+{"name": "Radio", "title": "DMOZ - Recreation"}
+{"name": "College and University", "title": "DMOZ - Sports"}
+{"name": "Disabled", "title": "DMOZ - Sports"}
+{"name": "Events", "title": "DMOZ - Sports"}
+{"name": "Fantasy", "title": "DMOZ - Sports"}
+{"name": "Gay, Lesbian, and Bisexual", "title": "DMOZ - Sports"}
+{"name": "History", "title": "DMOZ - Sports"}
+{"name": "News and Media", "title": "DMOZ - Sports"}
+{"name": "Officiating", "title": "DMOZ - Sports"}
+{"name": "Animation", "title": "DMOZ - Arts"}
+{"name": "Antiques", "title": "DMOZ - Arts"}
+{"name": "Architecture", "title": "DMOZ - Arts"}
+{"name": "Art History", "title": "DMOZ - Arts"}
+{"name": "Bodyart", "title": "DMOZ - Arts"}
+{"name": "Classical Studies", "title": "DMOZ - Arts"}
+{"name": "Comics", "title": "DMOZ - Arts"}
+{"name": "Instruments and Supplies", "title": "DMOZ - Science"}
 {"name": "Libraries", "title": "DMOZ - Science"}
 {"name": "Methods and Techniques", "title": "DMOZ - Science"}
 {"name": "Museums", "title": "DMOZ - Science"}
+{"name": "Intranet", "title": "DMOZ - Computers"}
+{"name": "MIS", "title": "DMOZ - Computers"}
+{"name": "Mobile Computing", "title": "DMOZ - Computers"}
+{"name": "Multimedia", "title": "DMOZ - Computers"}
+{"name": "Newsgroups", "title": "DMOZ - Computers"}
+{"name": "Open Source", "title": "DMOZ - Computers"}
+{"name": "Operating Systems", "title": "DMOZ - Computers"}
+{"name": "Parallel Computing", "title": "DMOZ - Computers"}
+{"name": "Performance and Capacity", "title": "DMOZ - Computers"}
+{"name": "Programming", "title": "DMOZ - Computers"}
+{"name": "Robotics", "title": "DMOZ - Computers"}
+{"name": "Roads and Highways", "title": "DMOZ - Recreation"}
+{"name": "Scouting", "title": "DMOZ - Recreation"}
+{"name": "Scuba Diving", "title": "DMOZ - Recreation"}
+{"name": "Sports", "title": "DMOZ - Recreation"}
+{"name": "Theme Parks", "title": "DMOZ - Recreation"}
+{"name": "Tobacco", "title": "DMOZ - Recreation"}
+{"name": "Trains and Railroads", "title": "DMOZ - Recreation"}
+{"name": "Travel", "title": "DMOZ - Recreation"}
+{"name": "Whips", "title": "DMOZ - Recreation"}
+{"name": "Organizations", "title": "DMOZ - Sports"}
+{"name": "People", "title": "DMOZ - Sports"}
+{"name": "Professional", "title": "DMOZ - Sports"}
+{"name": "Resources", "title": "DMOZ - Sports"}
+{"name": "Shopping", "title": "DMOZ - Sports"}
+{"name": "Software", "title": "DMOZ - Sports"}
+{"name": "Team Spirit", "title": "DMOZ - Sports"}
+{"name": "Travel", "title": "DMOZ - Sports"}
+{"name": "Women", "title": "DMOZ - Sports"}
+{"name": "Youth and High School", "title": "DMOZ - Sports"}
+{"name": "Adventure Racing", "title": "DMOZ - Sports"}
+{"name": "Airsoft", "title": "DMOZ - Sports"}
+{"name": "American Football", "title": "DMOZ - Sports"}
+{"name": "Animal Sports", "title": "DMOZ - Sports"}
+{"name": "Costumes", "title": "DMOZ - Arts"}
+{"name": "Crafts", "title": "DMOZ - Arts"}
+{"name": "Dance", "title": "DMOZ - Arts"}
+{"name": "Design", "title": "DMOZ - Arts"}
+{"name": "Digital", "title": "DMOZ - Arts"}
+{"name": "Entertainment", "title": "DMOZ - Arts"}
+{"name": "Graphic Design", "title": "DMOZ - Arts"}
+{"name": "Humanities", "title": "DMOZ - Arts"}
+{"name": "Illustration", "title": "DMOZ - Arts"}
+{"name": "Literature", "title": "DMOZ - Arts"}
+{"name": "Movies", "title": "DMOZ - Arts"}
+{"name": "Music", "title": "DMOZ - Arts"}
+{"name": "Myths and Folktales", "title": "DMOZ - Arts"}
 {"name": "News and Media", "title": "DMOZ - Science"}
 {"name": "Organizations", "title": "DMOZ - Science"}
 {"name": "People", "title": "DMOZ - Science"}
 {"name": "Publications", "title": "DMOZ - Science"}
+{"name": "Reference", "title": "DMOZ - Science"}
+{"name": "Research Groups and Centers", "title": "DMOZ - Science"}
+{"name": "Search Engines", "title": "DMOZ - Science"}
+{"name": "Software", "title": "DMOZ - Science"}
+{"name": "Weblogs", "title": "DMOZ - Science"}
+{"name": "Speech Technology", "title": "DMOZ - Computers"}
+{"name": "Supercomputing", "title": "DMOZ - Computers"}
+{"name": "Usenet", "title": "DMOZ - Computers"}
+{"name": "Virtual Reality", "title": "DMOZ - Computers"}
+{"name": "Chats and Forums", "title": "DMOZ - Computers"}
 {"name": "Companies", "title": "DMOZ - Computers"}
 {"name": "Conferences", "title": "DMOZ - Computers"}
 {"name": "Consultants", "title": "DMOZ - Computers"}
 {"name": "Directories", "title": "DMOZ - Computers"}
 {"name": "Education", "title": "DMOZ - Computers"}
+{"name": "Archery", "title": "DMOZ - Sports"}
+{"name": "Badminton", "title": "DMOZ - Sports"}
+{"name": "Baseball", "title": "DMOZ - Sports"}
+{"name": "Basketball", "title": "DMOZ - Sports"}
+{"name": "Bocce", "title": "DMOZ - Sports"}
+{"name": "Boomerang", "title": "DMOZ - Sports"}
+{"name": "Bowling", "title": "DMOZ - Sports"}
+{"name": "Boxing", "title": "DMOZ - Sports"}
+{"name": "Native and Tribal", "title": "DMOZ - Arts"}
+{"name": "Online Writing", "title": "DMOZ - Arts"}
+{"name": "Performing Arts", "title": "DMOZ - Arts"}
+{"name": "Photography", "title": "DMOZ - Arts"}
+{"name": "Radio", "title": "DMOZ - Arts"}
+{"name": "Rhetoric", "title": "DMOZ - Arts"}
+{"name": "Television", "title": "DMOZ - Arts"}
+{"name": "Theatre", "title": "DMOZ - Arts"}
 {"name": "Employment", "title": "DMOZ - Computers"}
+{"name": "Ethics", "title": "DMOZ - Computers"}
+{"name": "FAQs, Help, and Tutorials", "title": "DMOZ - Computers"}
+{"name": "History", "title": "DMOZ - Computers"}
+{"name": "Canoeing and Kayaking", "title": "DMOZ - Sports"}
+{"name": "Caving", "title": "DMOZ - Sports"}
+{"name": "Cheerleading", "title": "DMOZ - Sports"}
+{"name": "Cricket", "title": "DMOZ - Sports"}
+{"name": "Croquet", "title": "DMOZ - Sports"}
+{"name": "Cue Sports", "title": "DMOZ - Sports"}
+{"name": "Cycling", "title": "DMOZ - Sports"}
+{"name": "Typography", "title": "DMOZ - Arts"}
+{"name": "Video", "title": "DMOZ - Arts"}
+{"name": "Visual Arts", "title": "DMOZ - Arts"}
+{"name": "Writers Resources", "title": "DMOZ - Arts"}
+{"name": "Archives", "title": "DMOZ - Arts"}
+{"name": "Awards", "title": "DMOZ - Arts"}
+{"name": "Book Shopping", "title": "DMOZ - Arts"}
+{"name": "Mailing Lists", "title": "DMOZ - Computers"}
+{"name": "News and Media", "title": "DMOZ - Computers"}
+{"name": "Organizations", "title": "DMOZ - Computers"}
+{"name": "Product Support", "title": "DMOZ - Computers"}
+{"name": "Shopping", "title": "DMOZ - Computers"}
+{"name": "Darts", "title": "DMOZ - Sports"}
 {"name": "Equestrian", "title": "DMOZ - Sports"}
 {"name": "Extreme Sports", "title": "DMOZ - Sports"}
 {"name": "Fencing", "title": "DMOZ - Sports"}
@@ -286,50 +290,47 @@
 {"name": "Flying Discs", "title": "DMOZ - Sports"}
 {"name": "Footbag", "title": "DMOZ - Sports"}
 {"name": "Football", "title": "DMOZ - Sports"}
-{"name": "Radio", "title": "DMOZ - Recreation"}
-{"name": "Roads and Highways", "title": "DMOZ - Recreation"}
-{"name": "Scouting", "title": "DMOZ - Recreation"}
-{"name": "Scuba Diving", "title": "DMOZ - Recreation"}
-{"name": "Sports", "title": "DMOZ - Recreation"}
-{"name": "Theme Parks", "title": "DMOZ - Recreation"}
-{"name": "Tobacco", "title": "DMOZ - Recreation"}
-{"name": "Reference", "title": "DMOZ - Science"}
-{"name": "Research Groups and Centers", "title": "DMOZ - Science"}
-{"name": "Search Engines", "title": "DMOZ - Science"}
-{"name": "Software", "title": "DMOZ - Science"}
-{"name": "Weblogs", "title": "DMOZ - Science"}
-{"name": "Ethics", "title": "DMOZ - Computers"}
-{"name": "FAQs, Help, and Tutorials", "title": "DMOZ - Computers"}
-{"name": "History", "title": "DMOZ - Computers"}
 {"name": "Gaelic", "title": "DMOZ - Sports"}
 {"name": "Goalball", "title": "DMOZ - Sports"}
+{"name": "Chats and Forums", "title": "DMOZ - Arts"}
+{"name": "Contests", "title": "DMOZ - Arts"}
+{"name": "Cultures and Groups", "title": "DMOZ - Arts"}
+{"name": "Directories", "title": "DMOZ - Arts"}
+{"name": "Education", "title": "DMOZ - Arts"}
+{"name": "Events", "title": "DMOZ - Arts"}
+{"name": "Genres", "title": "DMOZ - Arts"}
+{"name": "Libraries", "title": "DMOZ - Arts"}
+{"name": "Magazines and E-zines", "title": "DMOZ - Arts"}
 {"name": "Golf", "title": "DMOZ - Sports"}
 {"name": "Greyhound Racing", "title": "DMOZ - Sports"}
 {"name": "Gymnastics", "title": "DMOZ - Sports"}
 {"name": "Handball", "title": "DMOZ - Sports"}
-{"name": "Trains and Railroads", "title": "DMOZ - Recreation"}
-{"name": "Travel", "title": "DMOZ - Recreation"}
-{"name": "Whips", "title": "DMOZ - Recreation"}
-{"name": "Mailing Lists", "title": "DMOZ - Computers"}
-{"name": "News and Media", "title": "DMOZ - Computers"}
-{"name": "Organizations", "title": "DMOZ - Computers"}
-{"name": "Product Support", "title": "DMOZ - Computers"}
-{"name": "Shopping", "title": "DMOZ - Computers"}
 {"name": "Hockey", "title": "DMOZ - Sports"}
 {"name": "Horse Racing", "title": "DMOZ - Sports"}
 {"name": "Hunting", "title": "DMOZ - Sports"}
 {"name": "Ice Hockey", "title": "DMOZ - Sports"}
 {"name": "Ice Skating", "title": "DMOZ - Sports"}
+{"name": "Museums", "title": "DMOZ - Arts"}
+{"name": "News and Media", "title": "DMOZ - Arts"}
+{"name": "Organizations", "title": "DMOZ - Arts"}
+{"name": "People", "title": "DMOZ - Arts"}
+{"name": "Periods and Movements", "title": "DMOZ - Arts"}
+{"name": "Personal Pages", "title": "DMOZ - Arts"}
+{"name": "Publishers", "title": "DMOZ - Arts"}
+{"name": "Regional", "title": "DMOZ - Arts"}
 {"name": "Informal Sports", "title": "DMOZ - Sports"}
 {"name": "Jai Alai", "title": "DMOZ - Sports"}
 {"name": "Kabbadi", "title": "DMOZ - Sports"}
 {"name": "Korfball", "title": "DMOZ - Sports"}
 {"name": "Lacrosse", "title": "DMOZ - Sports"}
 {"name": "Laser Games", "title": "DMOZ - Sports"}
+{"name": "Web Rings", "title": "DMOZ - Arts"}
+{"name": "Weblogs", "title": "DMOZ - Arts"}
+{"name": "Accounting", "title": "DMOZ - Business"}
+{"name": "Animal", "title": "DMOZ - Health"}
 {"name": "Lumberjack", "title": "DMOZ - Sports"}
 {"name": "Martial Arts", "title": "DMOZ - Sports"}
 {"name": "Motorsports", "title": "DMOZ - Sports"}
-{"name": "Arts", "title": "DMOZ - Kids and Teens"}
 {"name": "Multi-Sports", "title": "DMOZ - Sports"}
 {"name": "Netball", "title": "DMOZ - Sports"}
 {"name": "Olympics", "title": "DMOZ - Sports"}
@@ -337,59 +338,14 @@
 {"name": "Paddleball", "title": "DMOZ - Sports"}
 {"name": "Paintball", "title": "DMOZ - Sports"}
 {"name": "Pes\u00e4pallo", "title": "DMOZ - Sports"}
-{"name": "Computers", "title": "DMOZ - Kids and Teens"}
-{"name": "Directories", "title": "DMOZ - Kids and Teens"}
-{"name": "Entertainment", "title": "DMOZ - Kids and Teens"}
-{"name": "Games", "title": "DMOZ - Kids and Teens"}
-{"name": "Health", "title": "DMOZ - Kids and Teens"}
-{"name": "News", "title": "DMOZ - Kids and Teens"}
-{"name": "People and Society", "title": "DMOZ - Kids and Teens"}
 {"name": "Petanque", "title": "DMOZ - Sports"}
 {"name": "Racquetball", "title": "DMOZ - Sports"}
-{"name": "Rodeo", "title": "DMOZ - Sports"}
-{"name": "Rope Skipping", "title": "DMOZ - Sports"}
-{"name": "Rounders", "title": "DMOZ - Sports"}
-{"name": "Rowing", "title": "DMOZ - Sports"}
-{"name": "Rugby League", "title": "DMOZ - Sports"}
-{"name": "Rugby Union", "title": "DMOZ - Sports"}
-{"name": "Running", "title": "DMOZ - Sports"}
-{"name": "Pre-School", "title": "DMOZ - Kids and Teens"}
-{"name": "School Time", "title": "DMOZ - Kids and Teens"}
-{"name": "Sports and Hobbies", "title": "DMOZ - Kids and Teens"}
-{"name": "Teen Life", "title": "DMOZ - Kids and Teens"}
-{"name": "Your Family", "title": "DMOZ - Kids and Teens"}
-{"name": "International", "title": "DMOZ - Kids and Teens"}
-{"name": "Sepak Takraw", "title": "DMOZ - Sports"}
-{"name": "Shooting", "title": "DMOZ - Sports"}
-{"name": "Skateboarding", "title": "DMOZ - Sports"}
-{"name": "Skating", "title": "DMOZ - Sports"}
-{"name": "Skiing", "title": "DMOZ - Sports"}
-{"name": "Soccer", "title": "DMOZ - Sports"}
-{"name": "Softball", "title": "DMOZ - Sports"}
-{"name": "Squash", "title": "DMOZ - Sports"}
-{"name": "Strength Sports", "title": "DMOZ - Sports"}
-{"name": "Accounting", "title": "DMOZ - Business"}
-{"name": "Surfing", "title": "DMOZ - Sports"}
-{"name": "Swimming and Diving", "title": "DMOZ - Sports"}
-{"name": "Table Tennis", "title": "DMOZ - Sports"}
-{"name": "Tchoukball", "title": "DMOZ - Sports"}
-{"name": "Team Handball", "title": "DMOZ - Sports"}
-{"name": "Tennis", "title": "DMOZ - Sports"}
-{"name": "Track and Field", "title": "DMOZ - Sports"}
-{"name": "Volleyball", "title": "DMOZ - Sports"}
-{"name": "Walking", "title": "DMOZ - Sports"}
-{"name": "Water Sports", "title": "DMOZ - Sports"}
 {"name": "Business and Society", "title": "DMOZ - Business"}
 {"name": "Cooperatives", "title": "DMOZ - Business"}
 {"name": "Customer Service", "title": "DMOZ - Business"}
 {"name": "E-Commerce", "title": "DMOZ - Business"}
 {"name": "Education and Training", "title": "DMOZ - Business"}
 {"name": "Employment", "title": "DMOZ - Business"}
-{"name": "Animal", "title": "DMOZ - Health"}
-{"name": "Board Games", "title": "DMOZ - Games"}
-{"name": "Winter Sports", "title": "DMOZ - Sports"}
-{"name": "Wrestling", "title": "DMOZ - Sports"}
-{"name": "By Region", "title": "DMOZ - Shopping"}
 {"name": "Human Resources", "title": "DMOZ - Business"}
 {"name": "Information Services", "title": "DMOZ - Business"}
 {"name": "International Business and Trade", "title": "DMOZ - Business"}
@@ -397,14 +353,6 @@
 {"name": "Major Companies", "title": "DMOZ - Business"}
 {"name": "Management", "title": "DMOZ - Business"}
 {"name": "Marketing and Advertising", "title": "DMOZ - Business"}
-{"name": "Opportunities", "title": "DMOZ - Business"}
-{"name": "Small Business", "title": "DMOZ - Business"}
-{"name": "Aerospace and Defense", "title": "DMOZ - Business"}
-{"name": "Agriculture and Forestry", "title": "DMOZ - Business"}
-{"name": "Arts and Entertainment", "title": "DMOZ - Business"}
-{"name": "Automotive", "title": "DMOZ - Business"}
-{"name": "Biotechnology and Pharmaceuticals", "title": "DMOZ - Business"}
-{"name": "Business Services", "title": "DMOZ - Business"}
 {"name": "Alternative", "title": "DMOZ - Health"}
 {"name": "Healthcare Industry", "title": "DMOZ - Health"}
 {"name": "Medicine", "title": "DMOZ - Health"}
@@ -418,6 +366,224 @@
 {"name": "Conferences", "title": "DMOZ - Health"}
 {"name": "Dentistry", "title": "DMOZ - Health"}
 {"name": "Directories", "title": "DMOZ - Health"}
+{"name": "Rodeo", "title": "DMOZ - Sports"}
+{"name": "Rope Skipping", "title": "DMOZ - Sports"}
+{"name": "Rounders", "title": "DMOZ - Sports"}
+{"name": "Rowing", "title": "DMOZ - Sports"}
+{"name": "Rugby League", "title": "DMOZ - Sports"}
+{"name": "Rugby Union", "title": "DMOZ - Sports"}
+{"name": "Running", "title": "DMOZ - Sports"}
+{"name": "Sepak Takraw", "title": "DMOZ - Sports"}
+{"name": "Shooting", "title": "DMOZ - Sports"}
+{"name": "Skateboarding", "title": "DMOZ - Sports"}
+{"name": "By Region", "title": "DMOZ - Shopping"}
+{"name": "Opportunities", "title": "DMOZ - Business"}
+{"name": "Small Business", "title": "DMOZ - Business"}
+{"name": "Aerospace and Defense", "title": "DMOZ - Business"}
+{"name": "Agriculture and Forestry", "title": "DMOZ - Business"}
+{"name": "Arts and Entertainment", "title": "DMOZ - Business"}
+{"name": "Automotive", "title": "DMOZ - Business"}
+{"name": "Biotechnology and Pharmaceuticals", "title": "DMOZ - Business"}
+{"name": "Business Services", "title": "DMOZ - Business"}
+{"name": "Chemicals", "title": "DMOZ - Business"}
+{"name": "Construction and Maintenance", "title": "DMOZ - Business"}
+{"name": "Disabilities", "title": "DMOZ - Health"}
+{"name": "Education", "title": "DMOZ - Health"}
+{"name": "Employment", "title": "DMOZ - Health"}
+{"name": "Environmental Health", "title": "DMOZ - Health"}
+{"name": "Fitness", "title": "DMOZ - Health"}
+{"name": "History", "title": "DMOZ - Health"}
+{"name": "Home Health", "title": "DMOZ - Health"}
+{"name": "Skating", "title": "DMOZ - Sports"}
+{"name": "Skiing", "title": "DMOZ - Sports"}
+{"name": "Soccer", "title": "DMOZ - Sports"}
+{"name": "Softball", "title": "DMOZ - Sports"}
+{"name": "Squash", "title": "DMOZ - Sports"}
+{"name": "Strength Sports", "title": "DMOZ - Sports"}
+{"name": "Surfing", "title": "DMOZ - Sports"}
+{"name": "Swimming and Diving", "title": "DMOZ - Sports"}
+{"name": "Auctions", "title": "DMOZ - Shopping"}
+{"name": "Classifieds", "title": "DMOZ - Shopping"}
+{"name": "Directories", "title": "DMOZ - Shopping"}
+{"name": "Antiques and Collectibles", "title": "DMOZ - Shopping"}
+{"name": "Autos", "title": "DMOZ - Shopping"}
+{"name": "Beauty Products", "title": "DMOZ - Shopping"}
+{"name": "Books", "title": "DMOZ - Shopping"}
+{"name": "Children", "title": "DMOZ - Shopping"}
+{"name": "Consumer Goods and Services", "title": "DMOZ - Business"}
+{"name": "Electronics and Electrical", "title": "DMOZ - Business"}
+{"name": "Energy", "title": "DMOZ - Business"}
+{"name": "Environment", "title": "DMOZ - Business"}
+{"name": "Financial Services", "title": "DMOZ - Business"}
+{"name": "Food and Related Products", "title": "DMOZ - Business"}
+{"name": "Insurance", "title": "DMOZ - Health"}
+{"name": "Issues", "title": "DMOZ - Health"}
+{"name": "Medical Tourism", "title": "DMOZ - Health"}
+{"name": "Men's Health", "title": "DMOZ - Health"}
+{"name": "News and Media", "title": "DMOZ - Health"}
+{"name": "Nursing", "title": "DMOZ - Health"}
+{"name": "Nutrition", "title": "DMOZ - Health"}
+{"name": "Table Tennis", "title": "DMOZ - Sports"}
+{"name": "Tchoukball", "title": "DMOZ - Sports"}
+{"name": "Team Handball", "title": "DMOZ - Sports"}
+{"name": "Tennis", "title": "DMOZ - Sports"}
+{"name": "Track and Field", "title": "DMOZ - Sports"}
+{"name": "Volleyball", "title": "DMOZ - Sports"}
+{"name": "Clothing", "title": "DMOZ - Shopping"}
+{"name": "Computers", "title": "DMOZ - Shopping"}
+{"name": "Consumer Electronics", "title": "DMOZ - Shopping"}
+{"name": "Crafts", "title": "DMOZ - Shopping"}
+{"name": "Death Care", "title": "DMOZ - Shopping"}
+{"name": "Education", "title": "DMOZ - Shopping"}
+{"name": "Entertainment", "title": "DMOZ - Shopping"}
+{"name": "Healthcare", "title": "DMOZ - Business"}
+{"name": "Hospitality", "title": "DMOZ - Business"}
+{"name": "Industrial Goods and Services", "title": "DMOZ - Business"}
+{"name": "Information Technology", "title": "DMOZ - Business"}
+{"name": "Materials", "title": "DMOZ - Business"}
+{"name": "Mining and Drilling", "title": "DMOZ - Business"}
+{"name": "Publishing and Printing", "title": "DMOZ - Business"}
+{"name": "Arts", "title": "DMOZ - Kids and Teens"}
+{"name": "Education", "title": "DMOZ - Reference"}
+{"name": "Occupational Health and Safety", "title": "DMOZ - Health"}
+{"name": "Organizations", "title": "DMOZ - Health"}
+{"name": "Pharmacy", "title": "DMOZ - Health"}
+{"name": "Products and Shopping", "title": "DMOZ - Health"}
+{"name": "Professions", "title": "DMOZ - Health"}
+{"name": "Public Health and Safety", "title": "DMOZ - Health"}
+{"name": "Publications", "title": "DMOZ - Health"}
+{"name": "Reproductive Health", "title": "DMOZ - Health"}
+{"name": "Resources", "title": "DMOZ - Health"}
+{"name": "Search Engines", "title": "DMOZ - Health"}
+{"name": "Senior Health", "title": "DMOZ - Health"}
+{"name": "Senses", "title": "DMOZ - Health"}
+{"name": "Walking", "title": "DMOZ - Sports"}
+{"name": "Water Sports", "title": "DMOZ - Sports"}
+{"name": "Winter Sports", "title": "DMOZ - Sports"}
+{"name": "Wrestling", "title": "DMOZ - Sports"}
+{"name": "Ethnic and Regional", "title": "DMOZ - Shopping"}
+{"name": "Flowers", "title": "DMOZ - Shopping"}
+{"name": "Food", "title": "DMOZ - Shopping"}
+{"name": "Furniture", "title": "DMOZ - Shopping"}
+{"name": "General Merchandise", "title": "DMOZ - Shopping"}
+{"name": "Gifts", "title": "DMOZ - Shopping"}
+{"name": "By Category", "title": "DMOZ - News"}
+{"name": "Real Estate", "title": "DMOZ - Business"}
+{"name": "Retail Trade", "title": "DMOZ - Business"}
+{"name": "Telecommunications", "title": "DMOZ - Business"}
+{"name": "Textiles and Nonwovens", "title": "DMOZ - Business"}
+{"name": "Transportation and Logistics", "title": "DMOZ - Business"}
+{"name": "Wholesale Trade", "title": "DMOZ - Business"}
+{"name": "Associations", "title": "DMOZ - Business"}
+{"name": "Directories", "title": "DMOZ - Business"}
+{"name": "News and Media", "title": "DMOZ - Business"}
+{"name": "Regional", "title": "DMOZ - Business"}
+{"name": "Resources", "title": "DMOZ - Business"}
+{"name": "Computers", "title": "DMOZ - Kids and Teens"}
+{"name": "Directories", "title": "DMOZ - Kids and Teens"}
+{"name": "Entertainment", "title": "DMOZ - Kids and Teens"}
+{"name": "Games", "title": "DMOZ - Kids and Teens"}
+{"name": "Health", "title": "DMOZ - Kids and Teens"}
+{"name": "News", "title": "DMOZ - Kids and Teens"}
+{"name": "People and Society", "title": "DMOZ - Kids and Teens"}
+{"name": "Pre-School", "title": "DMOZ - Kids and Teens"}
+{"name": "School Time", "title": "DMOZ - Kids and Teens"}
+{"name": "Sports and Hobbies", "title": "DMOZ - Kids and Teens"}
+{"name": "Internet Search", "title": "DMOZ - Reference"}
+{"name": "Knowledge Management", "title": "DMOZ - Reference"}
+{"name": "Libraries", "title": "DMOZ - Reference"}
+{"name": "Museums", "title": "DMOZ - Reference"}
+{"name": "Almanacs", "title": "DMOZ - Reference"}
+{"name": "Archives", "title": "DMOZ - Reference"}
+{"name": "Ask an Expert", "title": "DMOZ - Reference"}
+{"name": "Bibliography", "title": "DMOZ - Reference"}
+{"name": "Biography", "title": "DMOZ - Reference"}
+{"name": "Services", "title": "DMOZ - Health"}
+{"name": "Specific Substances", "title": "DMOZ - Health"}
+{"name": "Support Groups", "title": "DMOZ - Health"}
+{"name": "Teen Health", "title": "DMOZ - Health"}
+{"name": "Travel Health", "title": "DMOZ - Health"}
+{"name": "Weight Loss", "title": "DMOZ - Health"}
+{"name": "Women's Health", "title": "DMOZ - Health"}
+{"name": "Health", "title": "DMOZ - Shopping"}
+{"name": "Holidays", "title": "DMOZ - Shopping"}
+{"name": "Home and Garden", "title": "DMOZ - Shopping"}
+{"name": "Jewelry", "title": "DMOZ - Shopping"}
+{"name": "Major Retailers", "title": "DMOZ - Shopping"}
+{"name": "Music", "title": "DMOZ - Shopping"}
+{"name": "Niche", "title": "DMOZ - Shopping"}
+{"name": "By Region", "title": "DMOZ - News"}
+{"name": "By Subject", "title": "DMOZ - News"}
+{"name": "Alternative", "title": "DMOZ - News"}
+{"name": "Analysis and Opinion", "title": "DMOZ - News"}
+{"name": "Breaking News", "title": "DMOZ - News"}
+{"name": "Colleges and Universities", "title": "DMOZ - News"}
+{"name": "Current Events", "title": "DMOZ - News"}
+{"name": "Teen Life", "title": "DMOZ - Kids and Teens"}
+{"name": "Your Family", "title": "DMOZ - Kids and Teens"}
+{"name": "International", "title": "DMOZ - Kids and Teens"}
+{"name": "Books", "title": "DMOZ - Reference"}
+{"name": "Dictionaries", "title": "DMOZ - Reference"}
+{"name": "Directories", "title": "DMOZ - Reference"}
+{"name": "Encyclopedias", "title": "DMOZ - Reference"}
+{"name": "Journals", "title": "DMOZ - Reference"}
+{"name": "Maps", "title": "DMOZ - Reference"}
+{"name": "Quotations", "title": "DMOZ - Reference"}
+{"name": "Style Guides", "title": "DMOZ - Reference"}
+{"name": "Thesauri", "title": "DMOZ - Reference"}
+{"name": "Advice", "title": "DMOZ - Reference"}
+{"name": "Flags", "title": "DMOZ - Reference"}
+{"name": "Office Products", "title": "DMOZ - Shopping"}
+{"name": "Outdoor Recreation", "title": "DMOZ - Shopping"}
+{"name": "Pets", "title": "DMOZ - Shopping"}
+{"name": "Photography", "title": "DMOZ - Shopping"}
+{"name": "Publications", "title": "DMOZ - Shopping"}
+{"name": "Recreation", "title": "DMOZ - Shopping"}
+{"name": "Religious", "title": "DMOZ - Shopping"}
+{"name": "Sports", "title": "DMOZ - Shopping"}
+{"name": "Extended Coverage", "title": "DMOZ - News"}
+{"name": "Headline Links", "title": "DMOZ - News"}
+{"name": "Internet Broadcasts", "title": "DMOZ - News"}
+{"name": "Journals", "title": "DMOZ - News"}
+{"name": "Magazines and E-zines", "title": "DMOZ - News"}
+{"name": "Newspapers", "title": "DMOZ - News"}
+{"name": "Personalized News", "title": "DMOZ - News"}
+{"name": "Radio", "title": "DMOZ - News"}
+{"name": "Satire", "title": "DMOZ - News"}
+{"name": "Knots", "title": "DMOZ - Reference"}
+{"name": "Open Access Resources", "title": "DMOZ - Reference"}
+{"name": "Parliamentary Procedure", "title": "DMOZ - Reference"}
+{"name": "Scientific Reference", "title": "DMOZ - Reference"}
+{"name": "Time", "title": "DMOZ - Reference"}
+{"name": "World Records", "title": "DMOZ - Reference"}
+{"name": "Tobacco", "title": "DMOZ - Shopping"}
+{"name": "Tools", "title": "DMOZ - Shopping"}
+{"name": "Toys and Games", "title": "DMOZ - Shopping"}
+{"name": "Travel", "title": "DMOZ - Shopping"}
+{"name": "Television", "title": "DMOZ - News"}
+{"name": "Weather", "title": "DMOZ - News"}
+{"name": "Weblogs", "title": "DMOZ - News"}
+{"name": "Chats and Forums", "title": "DMOZ - News"}
+{"name": "Directories", "title": "DMOZ - News"}
+{"name": "Journalism", "title": "DMOZ - News"}
+{"name": "Media Industry", "title": "DMOZ - News"}
+{"name": "Vehicles", "title": "DMOZ - Shopping"}
+{"name": "Visual Arts", "title": "DMOZ - Shopping"}
+{"name": "Weddings", "title": "DMOZ - Shopping"}
+{"name": "Wholesale", "title": "DMOZ - Shopping"}
+{"name": "Museums and Archives", "title": "DMOZ - News"}
+{"name": "Art", "title": "DMOZ - Society: Folklore"}
+{"name": "Board Games", "title": "DMOZ - Games"}
+{"name": "Dancing", "title": "DMOZ - Society: Folklore"}
+{"name": "Death and Funeral Customs", "title": "DMOZ - Society: Folklore"}
+{"name": "Literature", "title": "DMOZ - Society: Folklore"}
+{"name": "Magic", "title": "DMOZ - Society: Folklore"}
+{"name": "Medicine", "title": "DMOZ - Society: Folklore"}
+{"name": "Music", "title": "DMOZ - Society: Folklore"}
+{"name": "Religion", "title": "DMOZ - Society: Folklore"}
+{"name": "Weather Beliefs", "title": "DMOZ - Society: Folklore"}
+{"name": "Academic Departments", "title": "DMOZ - Society: Folklore"}
+{"name": "Organizations", "title": "DMOZ - Society: Folklore"}
 {"name": "Card Games", "title": "DMOZ - Games"}
 {"name": "CCGs", "title": "DMOZ - Games"}
 {"name": "Coin-Op", "title": "DMOZ - Games"}
@@ -431,36 +597,6 @@
 {"name": "Party Games", "title": "DMOZ - Games"}
 {"name": "Play-By-Mail", "title": "DMOZ - Games"}
 {"name": "Puzzles", "title": "DMOZ - Games"}
-{"name": "Education", "title": "DMOZ - Reference"}
-{"name": "Auctions", "title": "DMOZ - Shopping"}
-{"name": "Classifieds", "title": "DMOZ - Shopping"}
-{"name": "Directories", "title": "DMOZ - Shopping"}
-{"name": "Antiques and Collectibles", "title": "DMOZ - Shopping"}
-{"name": "Autos", "title": "DMOZ - Shopping"}
-{"name": "Beauty Products", "title": "DMOZ - Shopping"}
-{"name": "Books", "title": "DMOZ - Shopping"}
-{"name": "Children", "title": "DMOZ - Shopping"}
-{"name": "Clothing", "title": "DMOZ - Shopping"}
-{"name": "Computers", "title": "DMOZ - Shopping"}
-{"name": "Consumer Electronics", "title": "DMOZ - Shopping"}
-{"name": "Crafts", "title": "DMOZ - Shopping"}
-{"name": "Death Care", "title": "DMOZ - Shopping"}
-{"name": "Education", "title": "DMOZ - Shopping"}
-{"name": "Chemicals", "title": "DMOZ - Business"}
-{"name": "Construction and Maintenance", "title": "DMOZ - Business"}
-{"name": "Consumer Goods and Services", "title": "DMOZ - Business"}
-{"name": "Electronics and Electrical", "title": "DMOZ - Business"}
-{"name": "Energy", "title": "DMOZ - Business"}
-{"name": "Environment", "title": "DMOZ - Business"}
-{"name": "Financial Services", "title": "DMOZ - Business"}
-{"name": "Food and Related Products", "title": "DMOZ - Business"}
-{"name": "Healthcare", "title": "DMOZ - Business"}
-{"name": "Hospitality", "title": "DMOZ - Business"}
-{"name": "Industrial Goods and Services", "title": "DMOZ - Business"}
-{"name": "Information Technology", "title": "DMOZ - Business"}
-{"name": "Disabilities", "title": "DMOZ - Health"}
-{"name": "Education", "title": "DMOZ - Health"}
-{"name": "Employment", "title": "DMOZ - Health"}
 {"name": "Roleplaying", "title": "DMOZ - Games"}
 {"name": "Tile Games", "title": "DMOZ - Games"}
 {"name": "Trading Card Games", "title": "DMOZ - Games"}
@@ -468,44 +604,6 @@
 {"name": "Yard, Deck, and Table Games", "title": "DMOZ - Games"}
 {"name": "Addiction", "title": "DMOZ - Games"}
 {"name": "Collecting", "title": "DMOZ - Games"}
-{"name": "Internet Search", "title": "DMOZ - Reference"}
-{"name": "Knowledge Management", "title": "DMOZ - Reference"}
-{"name": "Libraries", "title": "DMOZ - Reference"}
-{"name": "Museums", "title": "DMOZ - Reference"}
-{"name": "Almanacs", "title": "DMOZ - Reference"}
-{"name": "Archives", "title": "DMOZ - Reference"}
-{"name": "Ask an Expert", "title": "DMOZ - Reference"}
-{"name": "Entertainment", "title": "DMOZ - Shopping"}
-{"name": "Ethnic and Regional", "title": "DMOZ - Shopping"}
-{"name": "Flowers", "title": "DMOZ - Shopping"}
-{"name": "Food", "title": "DMOZ - Shopping"}
-{"name": "Furniture", "title": "DMOZ - Shopping"}
-{"name": "General Merchandise", "title": "DMOZ - Shopping"}
-{"name": "Gifts", "title": "DMOZ - Shopping"}
-{"name": "Health", "title": "DMOZ - Shopping"}
-{"name": "Materials", "title": "DMOZ - Business"}
-{"name": "Mining and Drilling", "title": "DMOZ - Business"}
-{"name": "Publishing and Printing", "title": "DMOZ - Business"}
-{"name": "Real Estate", "title": "DMOZ - Business"}
-{"name": "Retail Trade", "title": "DMOZ - Business"}
-{"name": "Telecommunications", "title": "DMOZ - Business"}
-{"name": "Textiles and Nonwovens", "title": "DMOZ - Business"}
-{"name": "Transportation and Logistics", "title": "DMOZ - Business"}
-{"name": "Wholesale Trade", "title": "DMOZ - Business"}
-{"name": "Associations", "title": "DMOZ - Business"}
-{"name": "Directories", "title": "DMOZ - Business"}
-{"name": "Environmental Health", "title": "DMOZ - Health"}
-{"name": "Fitness", "title": "DMOZ - Health"}
-{"name": "History", "title": "DMOZ - Health"}
-{"name": "Home Health", "title": "DMOZ - Health"}
-{"name": "Insurance", "title": "DMOZ - Health"}
-{"name": "Issues", "title": "DMOZ - Health"}
-{"name": "Medical Tourism", "title": "DMOZ - Health"}
-{"name": "Men's Health", "title": "DMOZ - Health"}
-{"name": "News and Media", "title": "DMOZ - Health"}
-{"name": "Nursing", "title": "DMOZ - Health"}
-{"name": "Nutrition", "title": "DMOZ - Health"}
-{"name": "Occupational Health and Safety", "title": "DMOZ - Health"}
 {"name": "Consumer Information", "title": "DMOZ - Games"}
 {"name": "Conventions", "title": "DMOZ - Games"}
 {"name": "Developers and Publishers", "title": "DMOZ - Games"}
@@ -516,149 +614,184 @@
 {"name": "Shopping", "title": "DMOZ - Games"}
 {"name": "Web Hosting", "title": "DMOZ - Games"}
 {"name": "Women in Gaming", "title": "DMOZ - Games"}
-{"name": "Bibliography", "title": "DMOZ - Reference"}
-{"name": "Biography", "title": "DMOZ - Reference"}
-{"name": "Books", "title": "DMOZ - Reference"}
-{"name": "Dictionaries", "title": "DMOZ - Reference"}
-{"name": "Directories", "title": "DMOZ - Reference"}
-{"name": "Encyclopedias", "title": "DMOZ - Reference"}
-{"name": "Journals", "title": "DMOZ - Reference"}
-{"name": "Maps", "title": "DMOZ - Reference"}
-{"name": "Quotations", "title": "DMOZ - Reference"}
-{"name": "Style Guides", "title": "DMOZ - Reference"}
-{"name": "Holidays", "title": "DMOZ - Shopping"}
-{"name": "Home and Garden", "title": "DMOZ - Shopping"}
-{"name": "Jewelry", "title": "DMOZ - Shopping"}
-{"name": "Major Retailers", "title": "DMOZ - Shopping"}
-{"name": "Music", "title": "DMOZ - Shopping"}
-{"name": "Niche", "title": "DMOZ - Shopping"}
-{"name": "Office Products", "title": "DMOZ - Shopping"}
-{"name": "Outdoor Recreation", "title": "DMOZ - Shopping"}
-{"name": "Pets", "title": "DMOZ - Shopping"}
-{"name": "Photography", "title": "DMOZ - Shopping"}
-{"name": "News and Media", "title": "DMOZ - Business"}
-{"name": "Regional", "title": "DMOZ - Business"}
-{"name": "Resources", "title": "DMOZ - Business"}
-{"name": "Organizations", "title": "DMOZ - Health"}
-{"name": "Pharmacy", "title": "DMOZ - Health"}
-{"name": "Products and Shopping", "title": "DMOZ - Health"}
-{"name": "Professions", "title": "DMOZ - Health"}
-{"name": "Public Health and Safety", "title": "DMOZ - Health"}
-{"name": "Publications", "title": "DMOZ - Health"}
-{"name": "Reproductive Health", "title": "DMOZ - Health"}
-{"name": "Resources", "title": "DMOZ - Health"}
-{"name": "Search Engines", "title": "DMOZ - Health"}
-{"name": "Senior Health", "title": "DMOZ - Health"}
-{"name": "Thesauri", "title": "DMOZ - Reference"}
-{"name": "Advice", "title": "DMOZ - Reference"}
-{"name": "Flags", "title": "DMOZ - Reference"}
-{"name": "Knots", "title": "DMOZ - Reference"}
-{"name": "Open Access Resources", "title": "DMOZ - Reference"}
-{"name": "Parliamentary Procedure", "title": "DMOZ - Reference"}
-{"name": "Scientific Reference", "title": "DMOZ - Reference"}
-{"name": "Time", "title": "DMOZ - Reference"}
-{"name": "Publications", "title": "DMOZ - Shopping"}
-{"name": "Recreation", "title": "DMOZ - Shopping"}
-{"name": "Religious", "title": "DMOZ - Shopping"}
-{"name": "Sports", "title": "DMOZ - Shopping"}
-{"name": "Tobacco", "title": "DMOZ - Shopping"}
-{"name": "Tools", "title": "DMOZ - Shopping"}
-{"name": "Toys and Games", "title": "DMOZ - Shopping"}
-{"name": "Travel", "title": "DMOZ - Shopping"}
-{"name": "Vehicles", "title": "DMOZ - Shopping"}
-{"name": "Visual Arts", "title": "DMOZ - Shopping"}
-{"name": "Senses", "title": "DMOZ - Health"}
-{"name": "Services", "title": "DMOZ - Health"}
-{"name": "Specific Substances", "title": "DMOZ - Health"}
-{"name": "Support Groups", "title": "DMOZ - Health"}
-{"name": "Teen Health", "title": "DMOZ - Health"}
-{"name": "Travel Health", "title": "DMOZ - Health"}
-{"name": "Weight Loss", "title": "DMOZ - Health"}
-{"name": "Women's Health", "title": "DMOZ - Health"}
-{"name": "World Records", "title": "DMOZ - Reference"}
-{"name": "Weddings", "title": "DMOZ - Shopping"}
-{"name": "Wholesale", "title": "DMOZ - Shopping"}
-{"name": "By Category", "title": "DMOZ - News"}
-{"name": "By Region", "title": "DMOZ - News"}
-{"name": "By Subject", "title": "DMOZ - News"}
-{"name": "Alternative", "title": "DMOZ - News"}
-{"name": "Analysis and Opinion", "title": "DMOZ - News"}
-{"name": "Breaking News", "title": "DMOZ - News"}
-{"name": "Colleges and Universities", "title": "DMOZ - News"}
-{"name": "Current Events", "title": "DMOZ - News"}
-{"name": "Extended Coverage", "title": "DMOZ - News"}
-{"name": "Headline Links", "title": "DMOZ - News"}
-{"name": "Internet Broadcasts", "title": "DMOZ - News"}
-{"name": "Journals", "title": "DMOZ - News"}
-{"name": "Magazines and E-zines", "title": "DMOZ - News"}
-{"name": "Newspapers", "title": "DMOZ - News"}
-{"name": "Personalized News", "title": "DMOZ - News"}
-{"name": "Radio", "title": "DMOZ - News"}
-{"name": "Satire", "title": "DMOZ - News"}
-{"name": "Television", "title": "DMOZ - News"}
-{"name": "Weather", "title": "DMOZ - News"}
-{"name": "Weblogs", "title": "DMOZ - News"}
-{"name": "Chats and Forums", "title": "DMOZ - News"}
-{"name": "Directories", "title": "DMOZ - News"}
-{"name": "Journalism", "title": "DMOZ - News"}
-{"name": "Media Industry", "title": "DMOZ - News"}
-{"name": "Museums and Archives", "title": "DMOZ - News"}
-{"name": "Regional", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Accompaniment", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Dance Technology", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Dancewear", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Directories", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Education", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Festivals", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Health", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Magazines and E-zines", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Music", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Organizations", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "People", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Services", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Ballet", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Ballroom", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Breakdancing", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Butoh", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Capoeira", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Cheerleading", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Chinese", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Classical Indian", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Country and Western", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Dance in Christianity", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Disabled", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Disco", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Drill Teams", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "By Type", "title": "DMOZ - Arts: Costumes"}
-{"name": "Flamenco", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Folk", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Historical", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Ice Dance", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Jazz", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Latin", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Meditation", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Middle Eastern", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Modern", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Chats and Forums", "title": "DMOZ - Arts: Costumes"}
-{"name": "Construction", "title": "DMOZ - Arts: Costumes"}
-{"name": "Education", "title": "DMOZ - Arts: Costumes"}
-{"name": "Exhibitions", "title": "DMOZ - Arts: Costumes"}
-{"name": "Manufacturing and Wholesale", "title": "DMOZ - Arts: Costumes"}
-{"name": "Organizations", "title": "DMOZ - Arts: Costumes"}
-{"name": "Resumes and Portfolios", "title": "DMOZ - Arts: Costumes"}
-{"name": "Shopping and Rentals", "title": "DMOZ - Arts: Costumes"}
-{"name": "Web Rings", "title": "DMOZ - Arts: Costumes"}
-{"name": "Morris", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Personal Pages", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Sacred and Circle Dance", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Swing", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Tango", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Tap", "title": "DMOZ - Arts: Performing Arts: Dance"}
-{"name": "Tribal and Tribal Fusion", "title": "DMOZ - Arts: Performing Arts: Dance"}
+{"name": "Agricultural and Rural Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Consumption and Wealth", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Development Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Econometrics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Economic History", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Economic Systems", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Environmental Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Evolutionary Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Financial Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Forecasting and Consulting", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Game Theory", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Health Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Career, Specialized and Technical Training", "title": "DMOZ - Reference: Education"}
+{"name": "Indicators and Statistics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Institutional Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "International Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Labor Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Macroeconomics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Microeconomics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Philosophy of Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Political Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Schools of Thought", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Sports Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Trade Policy", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Urban Economics", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Colleges and Universities", "title": "DMOZ - Reference: Education"}
+{"name": "Early Childhood", "title": "DMOZ - Reference: Education"}
+{"name": "Home Schooling", "title": "DMOZ - Reference: Education"}
+{"name": "K through 12", "title": "DMOZ - Reference: Education"}
+{"name": "Special Education", "title": "DMOZ - Reference: Education"}
+{"name": "Distance Learning", "title": "DMOZ - Reference: Education"}
+{"name": "Educational Testing", "title": "DMOZ - Reference: Education"}
+{"name": "How to Study", "title": "DMOZ - Reference: Education"}
+{"name": "Alumni Directories", "title": "DMOZ - Reference: Education"}
+{"name": "Conferences", "title": "DMOZ - Reference: Education"}
+{"name": "Academic Departments", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Conferences", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Directories", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Education", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Institutes", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Issues in Society", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Libraries", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Organizations", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Business and Society", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Directories", "title": "DMOZ - Reference: Education"}
+{"name": "Educators", "title": "DMOZ - Reference: Education"}
+{"name": "Employment", "title": "DMOZ - Reference: Education"}
+{"name": "History of Education", "title": "DMOZ - Reference: Education"}
+{"name": "Instructional Technology", "title": "DMOZ - Reference: Education"}
+{"name": "International", "title": "DMOZ - Reference: Education"}
+{"name": "Issues", "title": "DMOZ - Reference: Education"}
+{"name": "Journals", "title": "DMOZ - Reference: Education"}
+{"name": "Methods and Theories", "title": "DMOZ - Reference: Education"}
+{"name": "People", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Publications", "title": "DMOZ - Science: Social Sciences: Economics"}
+{"name": "Cultural Arts", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Gay, Lesbian, and Bisexual", "title": "DMOZ - Society: Ethnicity"}
+{"name": "News and Media", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Organizations", "title": "DMOZ - Society: Ethnicity"}
+{"name": "News and Media", "title": "DMOZ - Reference: Education"}
+{"name": "Organizations", "title": "DMOZ - Reference: Education"}
+{"name": "Products and Services", "title": "DMOZ - Reference: Education"}
+{"name": "Regional", "title": "DMOZ - Reference: Education"}
+{"name": "Subjects", "title": "DMOZ - Reference: Education"}
+{"name": "Religion", "title": "DMOZ - Society: Ethnicity"}
+{"name": "African", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Asian", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Baltic", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Celtic", "title": "DMOZ - Society: Ethnicity"}
+{"name": "European", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Finno-Ugric", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Middle Eastern", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Scandinavian", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Slavic", "title": "DMOZ - Society: Ethnicity"}
+{"name": "The Americas", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Albanian", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Death Care", "title": "DMOZ - Society: Death"}
+{"name": "Aromanian", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Basque", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Dutch", "title": "DMOZ - Society: Ethnicity"}
+{"name": "English", "title": "DMOZ - Society: Ethnicity"}
+{"name": "French", "title": "DMOZ - Society: Ethnicity"}
+{"name": "German", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Greek", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Gypsy", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Haitian", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Hispanic and Latino", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Indigenous People", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Italian", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Folklore and Funeral Customs", "title": "DMOZ - Society: Death"}
+{"name": "Grief, Loss and Bereavement", "title": "DMOZ - Society: Death"}
+{"name": "In Memoriam", "title": "DMOZ - Society: Death"}
+{"name": "Issues", "title": "DMOZ - Society: Death"}
+{"name": "Near Death Experiences", "title": "DMOZ - Society: Death"}
+{"name": "News and Media", "title": "DMOZ - Society: Death"}
+{"name": "Palliative Care", "title": "DMOZ - Society: Death"}
+{"name": "Quotations", "title": "DMOZ - Society: Death"}
+{"name": "Reincarnation", "title": "DMOZ - Society: Death"}
+{"name": "Suicide", "title": "DMOZ - Society: Death"}
+{"name": "Jewish", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Minorities of Russia", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Multiracial", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Portuguese", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Romani", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Romanian", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Sami", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Tatar", "title": "DMOZ - Society: Ethnicity"}
+{"name": "Arts", "title": "DMOZ - Society: Disabled"}
+{"name": "Assistive Technology", "title": "DMOZ - Society: Disabled"}
+{"name": "Books", "title": "DMOZ - Society: Disabled"}
+{"name": "Camps", "title": "DMOZ - Society: Disabled"}
+{"name": "Chats and Forums", "title": "DMOZ - Society: Disabled"}
+{"name": "Children", "title": "DMOZ - Society: Disabled"}
+{"name": "Conferences", "title": "DMOZ - Society: Disabled"}
+{"name": "Directories", "title": "DMOZ - Society: Disabled"}
+{"name": "Disability Studies", "title": "DMOZ - Society: Disabled"}
+{"name": "Education", "title": "DMOZ - Society: Disabled"}
+{"name": "Employment", "title": "DMOZ - Society: Disabled"}
+{"name": "Criminals", "title": "DMOZ - Society: Crime"}
+{"name": "Family Resources", "title": "DMOZ - Society: Disabled"}
+{"name": "Gay, Lesbian, and Bisexual", "title": "DMOZ - Society: Disabled"}
+{"name": "Home Care", "title": "DMOZ - Society: Disabled"}
+{"name": "Humor", "title": "DMOZ - Society: Disabled"}
+{"name": "Independent Living", "title": "DMOZ - Society: Disabled"}
+{"name": "Issues", "title": "DMOZ - Society: Disabled"}
+{"name": "Lifestyle", "title": "DMOZ - Society: Disabled"}
+{"name": "Trials", "title": "DMOZ - Society: Crime"}
+{"name": "Victims", "title": "DMOZ - Society: Crime"}
+{"name": "Abuse", "title": "DMOZ - Society: Crime"}
+{"name": "Corporate Crime", "title": "DMOZ - Society: Crime"}
+{"name": "Domestic Violence", "title": "DMOZ - Society: Crime"}
+{"name": "Drunk Driving", "title": "DMOZ - Society: Crime"}
+{"name": "Fraud", "title": "DMOZ - Society: Crime"}
+{"name": "Mailing Lists", "title": "DMOZ - Society: Disabled"}
+{"name": "News and Media", "title": "DMOZ - Society: Disabled"}
+{"name": "Organizations", "title": "DMOZ - Society: Disabled"}
+{"name": "Personal Pages", "title": "DMOZ - Society: Disabled"}
+{"name": "Products", "title": "DMOZ - Society: Disabled"}
+{"name": "Recreation", "title": "DMOZ - Society: Disabled"}
+{"name": "Regional", "title": "DMOZ - Society: Disabled"}
+{"name": "Rehabilitation", "title": "DMOZ - Society: Disabled"}
+{"name": "Respite Care", "title": "DMOZ - Society: Disabled"}
+{"name": "Hate Crimes", "title": "DMOZ - Society: Crime"}
+{"name": "Internet Crime", "title": "DMOZ - Society: Crime"}
+{"name": "Kidnapping", "title": "DMOZ - Society: Crime"}
+{"name": "Murder", "title": "DMOZ - Society: Crime"}
+{"name": "Organized Crime", "title": "DMOZ - Society: Crime"}
+{"name": "Sex Offenses", "title": "DMOZ - Society: Crime"}
+{"name": "Terrorism", "title": "DMOZ - Society: Crime"}
+{"name": "Service Animals", "title": "DMOZ - Society: Disabled"}
+{"name": "Sports", "title": "DMOZ - Society: Disabled"}
+{"name": "Statistics", "title": "DMOZ - Society: Disabled"}
+{"name": "Travel", "title": "DMOZ - Society: Disabled"}
+{"name": "Universal Design", "title": "DMOZ - Society: Disabled"}
+{"name": "Web Rings", "title": "DMOZ - Society: Disabled"}
+{"name": "Theft", "title": "DMOZ - Society: Crime"}
+{"name": "Unsolved", "title": "DMOZ - Society: Crime"}
+{"name": "Violence", "title": "DMOZ - Society: Crime"}
+{"name": "War Crimes", "title": "DMOZ - Society: Crime"}
+{"name": "Academic Papers", "title": "DMOZ - Society: Crime"}
+{"name": "Alleged Crimes and Coverups", "title": "DMOZ - Society: Crime"}
+{"name": "Crime and Justice Issues", "title": "DMOZ - Society: Crime"}
+{"name": "Criminology", "title": "DMOZ - Society: Crime"}
+{"name": "News and Media", "title": "DMOZ - Society: Crime"}
+{"name": "Prevention", "title": "DMOZ - Society: Crime"}
+{"name": "Prisons", "title": "DMOZ - Society: Crime"}
+{"name": "Publications", "title": "DMOZ - Society: Crime"}
+{"name": "Research", "title": "DMOZ - Society: Crime"}
+{"name": "Cannabis", "title": "DMOZ - Recreation: Drugs"}
+{"name": "Dissociatives", "title": "DMOZ - Recreation: Drugs"}
+{"name": "Entheogens", "title": "DMOZ - Recreation: Drugs"}
+{"name": "FAQs", "title": "DMOZ - Recreation: Drugs"}
+{"name": "Psychedelics", "title": "DMOZ - Recreation: Drugs"}
+{"name": "Alcohol", "title": "DMOZ - Recreation: Drugs"}
+{"name": "Tobacco", "title": "DMOZ - Recreation: Drugs"}
+{"name": "Issues", "title": "DMOZ - Recreation: Drugs"}
+{"name": "Shopping", "title": "DMOZ - Recreation: Drugs"}
 {"name": "Artisans", "title": "DMOZ - Arts: Crafts"}
-{"name": "Titles", "title": "DMOZ - Arts: Comics"}
-{"name": "Academic Departments", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Bodypainting", "title": "DMOZ - Arts: Bodyart"}
 {"name": "Associations", "title": "DMOZ - Arts: Crafts"}
 {"name": "Chats and Forums", "title": "DMOZ - Arts: Crafts"}
 {"name": "Classes and Projects", "title": "DMOZ - Arts: Crafts"}
@@ -670,27 +803,6 @@
 {"name": "Magazines and E-zines", "title": "DMOZ - Arts: Crafts"}
 {"name": "Museums", "title": "DMOZ - Arts: Crafts"}
 {"name": "Personal Pages", "title": "DMOZ - Arts: Crafts"}
-{"name": "Comic Strips and Panels", "title": "DMOZ - Arts: Comics"}
-{"name": "Conventions", "title": "DMOZ - Arts: Comics"}
-{"name": "Creators", "title": "DMOZ - Arts: Comics"}
-{"name": "Directories", "title": "DMOZ - Arts: Comics"}
-{"name": "Distributors", "title": "DMOZ - Arts: Comics"}
-{"name": "Fan Pages", "title": "DMOZ - Arts: Comics"}
-{"name": "Magazines and E-zines", "title": "DMOZ - Arts: Comics"}
-{"name": "Manga", "title": "DMOZ - Arts: Comics"}
-{"name": "Online", "title": "DMOZ - Arts: Comics"}
-{"name": "Organizations", "title": "DMOZ - Arts: Comics"}
-{"name": "Other Media", "title": "DMOZ - Arts: Comics"}
-{"name": "Chats and Forums", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Classicists", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Journals", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Mehndi", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Modification", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Piercing", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Tattoo", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Articles", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Chats and Forums", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Directories", "title": "DMOZ - Arts: Bodyart"}
 {"name": "Supplies", "title": "DMOZ - Arts: Crafts"}
 {"name": "Web Rings", "title": "DMOZ - Arts: Crafts"}
 {"name": "Weblogs", "title": "DMOZ - Arts: Crafts"}
@@ -699,34 +811,6 @@
 {"name": "Paper", "title": "DMOZ - Arts: Crafts"}
 {"name": "Textiles", "title": "DMOZ - Arts: Crafts"}
 {"name": "Woodcraft", "title": "DMOZ - Arts: Crafts"}
-{"name": "Publishers", "title": "DMOZ - Arts: Comics"}
-{"name": "Regional", "title": "DMOZ - Arts: Comics"}
-{"name": "Resources", "title": "DMOZ - Arts: Comics"}
-{"name": "Retailers", "title": "DMOZ - Arts: Comics"}
-{"name": "Reviews", "title": "DMOZ - Arts: Comics"}
-{"name": "Shopping", "title": "DMOZ - Arts: Comics"}
-{"name": "Web Rings", "title": "DMOZ - Arts: Comics"}
-{"name": "Organizations", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Ancient History", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Architecture", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Art History", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Christian", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Egyptian", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Epigraphy", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Geography", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Greek", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Language and Linguistics", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Mythology", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Games and Humor", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Image Galleries", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Licensing and Regulations", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Magazines and E-zines", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Mailing Lists", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Personal Pages", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Schools and Instruction", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Shopping", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Studios", "title": "DMOZ - Arts: Bodyart"}
-{"name": "Web Rings", "title": "DMOZ - Arts: Bodyart"}
 {"name": "Balloon Sculpting", "title": "DMOZ - Arts: Crafts"}
 {"name": "Basketry", "title": "DMOZ - Arts: Crafts"}
 {"name": "Beading", "title": "DMOZ - Arts: Crafts"}
@@ -738,12 +822,6 @@
 {"name": "Decorative Painting", "title": "DMOZ - Arts: Crafts"}
 {"name": "Doll Making", "title": "DMOZ - Arts: Crafts"}
 {"name": "Dyeing", "title": "DMOZ - Arts: Crafts"}
-{"name": "Numismatics", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Philosophy", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Poetry", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Religion", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Roman", "title": "DMOZ - Arts: Classical Studies"}
-{"name": "Women", "title": "DMOZ - Arts: Classical Studies"}
 {"name": "Egg Art", "title": "DMOZ - Arts: Crafts"}
 {"name": "Embroidery", "title": "DMOZ - Arts: Crafts"}
 {"name": "Enameling", "title": "DMOZ - Arts: Crafts"}
@@ -753,7 +831,6 @@
 {"name": "Gourd Art", "title": "DMOZ - Arts: Crafts"}
 {"name": "Handspinning", "title": "DMOZ - Arts: Crafts"}
 {"name": "Jewelry", "title": "DMOZ - Arts: Crafts"}
-{"name": "Architecture", "title": "DMOZ - Arts: Art History"}
 {"name": "Knitting and Crochet", "title": "DMOZ - Arts: Crafts"}
 {"name": "Lacemaking", "title": "DMOZ - Arts: Crafts"}
 {"name": "Leatherworking", "title": "DMOZ - Arts: Crafts"}
@@ -763,14 +840,6 @@
 {"name": "Modeling Compounds", "title": "DMOZ - Arts: Crafts"}
 {"name": "Mosaics", "title": "DMOZ - Arts: Crafts"}
 {"name": "Needlepoint", "title": "DMOZ - Arts: Crafts"}
-{"name": "Graphic Design", "title": "DMOZ - Arts: Art History"}
-{"name": "Movies", "title": "DMOZ - Arts: Art History"}
-{"name": "Music", "title": "DMOZ - Arts: Art History"}
-{"name": "Photography", "title": "DMOZ - Arts: Art History"}
-{"name": "Pottery", "title": "DMOZ - Arts: Art History"}
-{"name": "Sculpture", "title": "DMOZ - Arts: Art History"}
-{"name": "Stained Glass", "title": "DMOZ - Arts: Art History"}
-{"name": "Television", "title": "DMOZ - Arts: Art History"}
 {"name": "Quilting", "title": "DMOZ - Arts: Crafts"}
 {"name": "Rubber Stamping", "title": "DMOZ - Arts: Crafts"}
 {"name": "Rugmaking", "title": "DMOZ - Arts: Crafts"}
@@ -778,494 +847,478 @@
 {"name": "Sewing", "title": "DMOZ - Arts: Crafts"}
 {"name": "Soaps", "title": "DMOZ - Arts: Crafts"}
 {"name": "String Figures", "title": "DMOZ - Arts: Crafts"}
-{"name": "Art Historians", "title": "DMOZ - Arts: Art History"}
-{"name": "Artists", "title": "DMOZ - Arts: Art History"}
-{"name": "Chats and Forums", "title": "DMOZ - Arts: Art History"}
-{"name": "Directories", "title": "DMOZ - Arts: Art History"}
-{"name": "Journals", "title": "DMOZ - Arts: Art History"}
-{"name": "Museums", "title": "DMOZ - Arts: Art History"}
-{"name": "Online Courses", "title": "DMOZ - Arts: Art History"}
-{"name": "Organizations", "title": "DMOZ - Arts: Art History"}
 {"name": "Weaving", "title": "DMOZ - Arts: Crafts"}
 {"name": "Wildcrafting", "title": "DMOZ - Arts: Crafts"}
-{"name": "Periods and Movements", "title": "DMOZ - Arts: Art History"}
-{"name": "Reproductions", "title": "DMOZ - Arts: Art History"}
-{"name": "Stolen and Looted Art", "title": "DMOZ - Arts: Art History"}
-{"name": "Architects", "title": "DMOZ - Arts: Architecture"}
-{"name": "Building Designers", "title": "DMOZ - Arts: Architecture"}
-{"name": "Drafting Services", "title": "DMOZ - Arts: Architecture"}
-{"name": "Educators", "title": "DMOZ - Arts: Architecture"}
-{"name": "Famous Names", "title": "DMOZ - Arts: Architecture"}
-{"name": "Illustration and Rendering", "title": "DMOZ - Arts: Architecture"}
-{"name": "Lighting Designers", "title": "DMOZ - Arts: Architecture"}
-{"name": "Photographers", "title": "DMOZ - Arts: Architecture"}
-{"name": "Archives", "title": "DMOZ - Arts: Architecture"}
-{"name": "Associations", "title": "DMOZ - Arts: Architecture"}
-{"name": "Books", "title": "DMOZ - Arts: Architecture"}
-{"name": "Building Materials", "title": "DMOZ - Arts: Architecture"}
-{"name": "Building Types", "title": "DMOZ - Arts: Architecture"}
-{"name": "CAD", "title": "DMOZ - Arts: Architecture"}
-{"name": "Chats and Forums", "title": "DMOZ - Arts: Architecture"}
-{"name": "Dictionaries", "title": "DMOZ - Arts: Architecture"}
-{"name": "Directories", "title": "DMOZ - Arts: Architecture"}
-{"name": "Education", "title": "DMOZ - Arts: Architecture"}
-{"name": "Employment", "title": "DMOZ - Arts: Architecture"}
-{"name": "Events", "title": "DMOZ - Arts: Architecture"}
-{"name": "History", "title": "DMOZ - Arts: Architecture"}
-{"name": "Museums", "title": "DMOZ - Arts: Architecture"}
-{"name": "News and Media", "title": "DMOZ - Arts: Architecture"}
-{"name": "Travel", "title": "DMOZ - Arts: Architecture"}
-{"name": "Experimental", "title": "DMOZ - Arts: Architecture"}
-{"name": "Interior Design", "title": "DMOZ - Arts: Architecture"}
-{"name": "Interior Designers", "title": "DMOZ - Arts: Architecture"}
-{"name": "Landscape", "title": "DMOZ - Arts: Architecture"}
-{"name": "Preservation", "title": "DMOZ - Arts: Architecture"}
-{"name": "Regional", "title": "DMOZ - Arts: Architecture"}
-{"name": "Religious", "title": "DMOZ - Arts: Architecture"}
-{"name": "Urban Planning", "title": "DMOZ - Arts: Architecture"}
-{"name": "Auctions", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Directories", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Publications", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Shows and Events", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Appliances", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Autos", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Bicycles", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Books", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Bottles", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Cameras", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Cash Registers", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Ceramics and Pottery", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Clocks and Watches", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Clothing", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Coins", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Dolls", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Farm and Ranch Equipment", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Fine China", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Furniture", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Glassware", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Kitchenware", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Lighting", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Maps", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Medical and Scientific", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Phonographs", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Photographs", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Posters", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Radio", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Rugs", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Sewing Items", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Silver and Flatware", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Stamps", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Telephones and Telegraphs", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Toilets", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Tools", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Toys", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Tractors", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Trade Cards", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Typewriters", "title": "DMOZ - Recreation: Antiques"}
-{"name": "US Civil War", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Writing Instruments", "title": "DMOZ - Recreation: Antiques"}
-{"name": "Disney", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Legoland", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Six Flags", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Amusement Centers", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Attractions", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Defunct", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Horror", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Individual Parks", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Miniature Golf", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Renaissance Faires", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Water Parks", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Zoos and Aquaria", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Consumer Information", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Guides", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Manufacturers and Designers", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Tickets", "title": "DMOZ - Recreation: Theme Parks"}
-{"name": "Organizations", "title": "DMOZ - Recreation: Whips"}
-{"name": "Performers", "title": "DMOZ - Recreation: Whips"}
-{"name": "Shopping", "title": "DMOZ - Recreation: Whips"}
-{"name": "Aunt Sally", "title": "DMOZ - Sports: Informal Sports"}
-{"name": "Dodgeball", "title": "DMOZ - Sports: Informal Sports"}
-{"name": "Jumping Stilts", "title": "DMOZ - Sports: Informal Sports"}
-{"name": "Kickball", "title": "DMOZ - Sports: Informal Sports"}
-{"name": "Pogo", "title": "DMOZ - Sports: Informal Sports"}
-{"name": "Slamball", "title": "DMOZ - Sports: Informal Sports"}
-{"name": "Figure", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Ice Hockey", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Speed", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Synchronized or Precision Skating", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Associations and Federations", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Events", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "For Kids and Teens", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Gay, Lesbian, and Bisexual", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Image Galleries", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Magazines and E-zines", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Skaters", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Skating Clubs and Rinks", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Training", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Manufacturers", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "Shopping", "title": "DMOZ - Sports: Skating: Ice Skating"}
-{"name": "College and University", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "IIHF", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "National Hockey League", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Women", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Ringette", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Sled Hockey", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Chats and Forums", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Collecting", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Directories", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Fantasy", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "For Kids and Teens", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Gay, Lesbian, and Bisexual", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "History", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Image Galleries", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Leagues", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Manufacturers", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Movies", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "News and Media", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Players", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Rinks", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Rules and Officiating", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Science", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Shopping", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Tipping and Handicapping", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Tournaments", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Training", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Video Games", "title": "DMOZ - Sports: Hockey: Ice Hockey"}
-{"name": "Clubs and Teams", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Players", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Rugby World Cup", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Tournaments and Events", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Unions and Organizations", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Academic Study", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Coaching and Fitness", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Gay, Lesbian, and Bisexual", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Officiating", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Statistics", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Touch", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Veterans", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Wheelchair", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Women", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Youth", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Chats and Forums", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Directories", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Fantasy", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Fun", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "News and Media", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Shopping", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Video Games", "title": "DMOZ - Sports: Football: Rugby Union"}
-{"name": "Arts", "title": "DMOZ - Reference: Archives"}
-{"name": "Medical", "title": "DMOZ - Reference: Archives"}
-{"name": "Personal", "title": "DMOZ - Reference: Archives"}
-{"name": "Social History", "title": "DMOZ - Reference: Archives"}
-{"name": "University", "title": "DMOZ - Reference: Archives"}
-{"name": "Regional", "title": "DMOZ - Reference: Archives"}
-{"name": "Professional Resources", "title": "DMOZ - Reference: Archives"}
-{"name": "Records Management", "title": "DMOZ - Reference: Archives"}
-{"name": "E-zines", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Arts", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Business", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Computers", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Games", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Health", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Recreation", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Regional", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Science", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Society", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Sports", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Alternative", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "College and University", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Directories", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Reviews", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Subscription Agencies", "title": "DMOZ - News: Magazines and E-zines"}
-{"name": "Ballet", "title": "DMOZ - Arts: Performing Arts: Dance: Magazines and E-zines"}
-{"name": "Classical Indian", "title": "DMOZ - Arts: Performing Arts: Dance: Magazines and E-zines"}
-{"name": "Salsa", "title": "DMOZ - Arts: Performing Arts: Dance: Magazines and E-zines"}
-{"name": "Ballroom", "title": "DMOZ - Arts: Performing Arts: Dance: Organizations"}
-{"name": "Classical Indian", "title": "DMOZ - Arts: Performing Arts: Dance: Organizations"}
-{"name": "Middle Eastern", "title": "DMOZ - Arts: Performing Arts: Dance: Organizations"}
-{"name": "Ballroom", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Carolina Beach", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Disco", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Drum and Bass", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Electronica", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Euro Dance", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Schools and Instruction", "title": "DMOZ - Sports: Martial Arts: Capoeira"}
-{"name": "Freestyle", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Garage", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Ghettotech", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "House", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Techno", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Trance", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Clubbing", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Clubs and Venues", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Concerts and Events", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Shopping", "title": "DMOZ - Sports: Martial Arts: Capoeira"}
-{"name": "DJs", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Radio", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Record Labels", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "Shopping", "title": "DMOZ - Arts: Music: Styles: D: Dance"}
-{"name": "African", "title": "DMOZ - Arts: Performing Arts: Dance: Tribal and Tribal Fusion"}
-{"name": "Classical Indian", "title": "DMOZ - Arts: Performing Arts: Dance: Tribal and Tribal Fusion"}
-{"name": "Flamenco", "title": "DMOZ - Arts: Performing Arts: Dance: Tribal and Tribal Fusion"}
-{"name": "Middle Eastern", "title": "DMOZ - Arts: Performing Arts: Dance: Tribal and Tribal Fusion"}
-{"name": "Events", "title": "DMOZ - Arts: Performing Arts: Dance: Tribal and Tribal Fusion"}
-{"name": "Shopping", "title": "DMOZ - Arts: Performing Arts: Dance: Tribal and Tribal Fusion"}
-{"name": "Teachers and Performers", "title": "DMOZ - Arts: Performing Arts: Dance: Tribal and Tribal Fusion"}
-{"name": "World War II", "title": "DMOZ - Society: Crime: Theft: Art and Antiquities"}
-{"name": "Digital Publications", "title": "DMOZ - Shopping: Publications: Books: Arts: Architecture"}
-{"name": "Community and Economic Development", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Growth and Sprawl", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Historic Preservation", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Projects", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Sustainability", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Transportation", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Urban Design", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Agencies", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Consultants", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Directories", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Education", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Organizations", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "People", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Publications", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Weblogs", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning"}
-{"name": "Dealers", "title": "DMOZ - Recreation: Collecting: Writing Instruments"}
-{"name": "Organizations and Shows", "title": "DMOZ - Recreation: Collecting: Writing Instruments"}
-{"name": "Pencils", "title": "DMOZ - Recreation: Collecting: Writing Instruments"}
-{"name": "Pens", "title": "DMOZ - Recreation: Collecting: Writing Instruments"}
-{"name": "Organizations", "title": "DMOZ - Recreation: Antiques: US Civil War"}
-{"name": "Chats and Forums", "title": "DMOZ - Arts: Photography: Equipment and Services: Cameras: Collecting"}
-{"name": "Organizations", "title": "DMOZ - Arts: Photography: Equipment and Services: Cameras: Collecting"}
-{"name": "Personal Collections", "title": "DMOZ - Arts: Photography: Equipment and Services: Cameras: Collecting"}
-{"name": "Nagano Olympic Hockey", "title": "DMOZ - Games: Video Games: Sports: Hockey"}
-{"name": "NHL Games", "title": "DMOZ - Games: Video Games: Sports: Hockey"}
-{"name": "3 on 3 NHL Arcade", "title": "DMOZ - Games: Video Games: Sports: Hockey"}
-{"name": "Browser-Based", "title": "DMOZ - Games: Video Games: Sports: Hockey"}
-{"name": "EA Sports NHL Series", "title": "DMOZ - Games: Video Games: Sports: Hockey"}
-{"name": "Coaching Clinics and Schools", "title": "DMOZ - Sports: Hockey: Ice Hockey: Training"}
-{"name": "Shopping", "title": "DMOZ - Sports: Hockey: Ice Hockey: Training"}
-{"name": "Associations", "title": "DMOZ - Reference: Archives: Records Management"}
-{"name": "Products and Services", "title": "DMOZ - Reference: Archives: Records Management"}
-{"name": "US Government Agencies", "title": "DMOZ - Reference: Archives: Records Management"}
-{"name": "Encoded Archival Description", "title": "DMOZ - Reference: Archives: Professional Resources"}
-{"name": "E-zines", "title": "DMOZ - News: Magazines and E-zines: Directories"}
-{"name": "E-zines", "title": "DMOZ - News: Colleges and Universities: Magazines and E-zines"}
-{"name": "Humor", "title": "DMOZ - News: Colleges and Universities: Magazines and E-zines"}
-{"name": "Asia", "title": "DMOZ - News: Colleges and Universities: Magazines and E-zines"}
-{"name": "Europe", "title": "DMOZ - News: Colleges and Universities: Magazines and E-zines"}
-{"name": "North America", "title": "DMOZ - News: Colleges and Universities: Magazines and E-zines"}
-{"name": "Oceania", "title": "DMOZ - News: Colleges and Universities: Magazines and E-zines"}
-{"name": "Mix Tapes", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica"}
-{"name": "Vinyl", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica"}
-{"name": "Dance", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica"}
-{"name": "Electronica", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica"}
-{"name": "Back Issues", "title": "DMOZ - Shopping: Publications: Magazines and E-zines"}
-{"name": "Australia", "title": "DMOZ - Arts: Performing Arts: Dance: Tribal and Tribal Fusion: Teachers and Performers"}
-{"name": "Gothic", "title": "DMOZ - Arts: Performing Arts: Dance: Tribal and Tribal Fusion: Teachers and Performers"}
-{"name": "Museum Provenance Research", "title": "DMOZ - Society: Crime: Theft: Art and Antiquities: World War II"}
-{"name": "Growth and Sprawl", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Publications"}
-{"name": "Weblogs", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Publications"}
-{"name": "Bloggers", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Consultants", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Students", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Alexander, Christopher", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Burnham, Daniel", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Calthorpe, Peter", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Correa, Charles", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Costa, L\u00facio", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Duany, Andres", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Fuller, R. Buckminster", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Gans, Herbert", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Garreau, Joel", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Geddes, Patrick", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Griffin, Walter Burley", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Hayden, Dolores", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Howard, Ebenezer", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Jacobs, Jane", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Kemmis, Daniel", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Krier, Leon", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Le Corbusier, Charles-Edouard", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Lynch, Kevin", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "McHarg, Ian", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Moses, Robert", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Mumford, Lewis", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Olmsted, Frederick Law", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Rybczynski, Witold", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Vitruvius Pollio, Marcus", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Whyte, William H.", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Wright, Frank Lloyd", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: People"}
-{"name": "Historic Preservation", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Organizations"}
-{"name": "Professional Associations", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Organizations"}
-{"name": "American Planning Association", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Organizations"}
-{"name": "Goalie Schools", "title": "DMOZ - Sports: Hockey: Ice Hockey: Training: Coaching Clinics and Schools"}
-{"name": "United Kingdom", "title": "DMOZ - Reference: Archives: Records Management: Products and Services"}
-{"name": "United States", "title": "DMOZ - Reference: Archives: Records Management: Products and Services"}
-{"name": "Canada", "title": "DMOZ - News: Colleges and Universities: Magazines and E-zines: North America"}
-{"name": "United States", "title": "DMOZ - News: Colleges and Universities: Magazines and E-zines: North America"}
-{"name": "United Kingdom", "title": "DMOZ - News: Colleges and Universities: Magazines and E-zines: Europe"}
-{"name": "Individual Advertisements", "title": "DMOZ - Shopping: Antiques and Collectibles: Ephemera: Periodicals"}
-{"name": "Fallingwater", "title": "DMOZ - Arts: Architecture: History: Architects: W: Wright, Frank Lloyd"}
-{"name": "De Architectura", "title": "DMOZ - Arts: Architecture: History: Architects: V: Vitruvius Pollio, Marcus"}
-{"name": "Canadian Institute of Planners", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Organizations: Professional Associations"}
-{"name": "Canada", "title": "DMOZ - Arts: Architecture: Preservation: Organizations"}
-{"name": "United Kingdom", "title": "DMOZ - Arts: Architecture: Preservation: Organizations"}
-{"name": "United States", "title": "DMOZ - Arts: Architecture: Preservation: Organizations"}
-{"name": "Consultants", "title": "DMOZ - Reference: Archives: Records Management: Products and Services: United States"}
-{"name": "Consultants", "title": "DMOZ - Reference: Archives: Records Management: Products and Services: United Kingdom"}
-{"name": "Villa Savoye", "title": "DMOZ - Arts: Architecture: History: Architects: L: Le Corbusier, Charles-Edouard"}
-{"name": "Ballroom", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica: Dance"}
-{"name": "Drum and Bass", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica: Dance"}
-{"name": "Gabber", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica: Dance"}
-{"name": "Garage", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica: Dance"}
-{"name": "House", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica: Dance"}
-{"name": "Techno", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica: Dance"}
-{"name": "Trance", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica: Dance"}
-{"name": "NHL 07", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Series"}
-{"name": "NHL 09", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Series"}
-{"name": "NHL 2000", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Series"}
-{"name": "NHL 2001", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Series"}
-{"name": "NHL 2002", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Series"}
-{"name": "NHL 2003", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Series"}
-{"name": "NHL 2004", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Series"}
-{"name": "NHL 99", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Series"}
-{"name": "3 on 3 NHL Arcade", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games"}
-{"name": "NHL Series", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games"}
-{"name": "EA Sports NHL Series", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games"}
-{"name": "NHL 2K Series", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games"}
-{"name": "NHL Blades of Steel", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games"}
-{"name": "NHL Breakaway Series", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games"}
-{"name": "NHL FaceOff Series", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games"}
-{"name": "NHL Hitz Series", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games"}
-{"name": "NHL Powerplay Series", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games"}
-{"name": "Floaty Pens", "title": "DMOZ - Recreation: Collecting: Writing Instruments: Pens"}
-{"name": "Fountain Pen", "title": "DMOZ - Recreation: Collecting: Writing Instruments: Pens"}
-{"name": "Organizations and Shows", "title": "DMOZ - Recreation: Collecting: Writing Instruments: Pens"}
-{"name": "Psychedelic Trance", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica: Dance: Trance"}
-{"name": "Garage", "title": "DMOZ - Shopping: Entertainment: Recordings: Audio: Music: Specialty: Urban, Dance, and Electronica: Dance: House"}
-{"name": "Auctions", "title": "DMOZ - Shopping: Antiques and Collectibles: Writing Instruments"}
-{"name": "NHL Hitz 20-02", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Hitz Series"}
-{"name": "NHL Hitz 20-03", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Hitz Series"}
-{"name": "NHL Hitz Pro", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Hitz Series"}
-{"name": "NHL Powerplay 98", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Powerplay Series"}
-{"name": "NHL FaceOff 2000", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL FaceOff Series"}
-{"name": "NHL FaceOff 2001", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL FaceOff Series"}
-{"name": "NHL FaceOff 99", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL FaceOff Series"}
-{"name": "NHL 2K3", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL 2K Series"}
-{"name": "Cheats and Hints", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Series: NHL 2002"}
-{"name": "Reviews and Previews", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Series: NHL 2002"}
-{"name": "Cheats and Hints", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Series: NHL 2001"}
-{"name": "Academic Departments", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Education"}
-{"name": "Students", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Education"}
-{"name": "Cheats and Hints", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Powerplay Series: NHL Powerplay 98"}
-{"name": "Reviews and Previews", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Powerplay Series: NHL Powerplay 98"}
-{"name": "Cheats and Hints", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Hitz Series: NHL Hitz 20-02"}
-{"name": "Reviews and Previews", "title": "DMOZ - Games: Video Games: Sports: Hockey: NHL Games: NHL Hitz Series: NHL Hitz 20-02"}
-{"name": "Australia", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies"}
-{"name": "Brazil", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies"}
-{"name": "Canada", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies"}
-{"name": "Germany", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies"}
-{"name": "Hong Kong", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies"}
-{"name": "South Africa", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies"}
-{"name": "United Kingdom", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies"}
-{"name": "United States", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies"}
-{"name": "Metropolitan Planning Organizations", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Transportation"}
-{"name": "Engineers", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Transportation"}
-{"name": "Ridesharing", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Transportation"}
-{"name": "Traffic Calming", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Transportation"}
-{"name": "U.S. Department of Transportation", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Transportation"}
-{"name": "University of Melbourne", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Education: Academic Departments"}
-{"name": "University of Michigan", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Education: Academic Departments"}
-{"name": "Brownfields Utilization", "title": "DMOZ - Science: Environment: Sustainability: Community Sustainability"}
-{"name": "Growth and Sprawl Debate", "title": "DMOZ - Science: Environment: Sustainability: Community Sustainability"}
-{"name": "Industrial Ecology", "title": "DMOZ - Science: Environment: Sustainability: Community Sustainability"}
-{"name": "Urban Climate", "title": "DMOZ - Science: Environment: Sustainability: Community Sustainability"}
-{"name": "Urban Forestry", "title": "DMOZ - Science: Environment: Sustainability: Community Sustainability"}
-{"name": "Historic Preservation", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Projects"}
-{"name": "Anti-Development", "title": "DMOZ - Society: Issues: Environment: Growth and Sprawl"}
-{"name": "Articles and Commentaries", "title": "DMOZ - Society: Issues: Environment: Growth and Sprawl"}
-{"name": "Agencies", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Community and Economic Development"}
-{"name": "Brownfields Redevelopment", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Community and Economic Development"}
-{"name": "Financing", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Community and Economic Development"}
-{"name": "African Folk Dancing in Chicago", "title": "DMOZ - Arts: Performing Arts: Dance: Folk: African"}
-{"name": "Drum and Bass", "title": "DMOZ - Business: Arts and Entertainment: Music: Labels: Specialty: Dance"}
-{"name": "Dubstep", "title": "DMOZ - Business: Arts and Entertainment: Music: Labels: Specialty: Dance"}
-{"name": "Electronica", "title": "DMOZ - Business: Arts and Entertainment: Music: Labels: Specialty: Dance"}
-{"name": "House", "title": "DMOZ - Business: Arts and Entertainment: Music: Labels: Specialty: Dance"}
-{"name": "Psychedelic Trance", "title": "DMOZ - Business: Arts and Entertainment: Music: Labels: Specialty: Dance"}
-{"name": "Techno", "title": "DMOZ - Business: Arts and Entertainment: Music: Labels: Specialty: Dance"}
-{"name": "Drum and Bass", "title": "DMOZ - Arts: Music: Styles: D: Dance: Radio"}
-{"name": "House", "title": "DMOZ - Arts: Music: Styles: D: Dance: Radio"}
-{"name": "Techno", "title": "DMOZ - Arts: Music: Styles: D: Dance: Radio"}
-{"name": "Regional", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Disco", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Hip Hop", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "House", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Techno", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Trance", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Turntablism", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Agents and Managers", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Associations", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Chats and Forums", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Club Culture", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Directories", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Education", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Equipment", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Karaoke", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Magazines and E-zines", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Personal Pages", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Record Pools", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Recordings", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Software", "title": "DMOZ - Arts: Music: DJs"}
-{"name": "Alabama", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Arizona", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "California", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Florida", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Hawaii", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Illinois", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Indiana", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Louisiana", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Maryland", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Massachusetts", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Michigan", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Minnesota", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Missouri", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "New Hampshire", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "New York", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "North Carolina", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Ohio", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Oregon", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Pennsylvania", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "South Carolina", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Tennessee", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Texas", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Vermont", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Virginia", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Washington", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Washington, DC", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "West Virginia", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Wisconsin", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Department of Housing and Urban Development", "title": "DMOZ - Science: Social Sciences: Urban and Regional Planning: Agencies: United States"}
-{"name": "Bureau of Transportation Statistics", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Transportation"}
-{"name": "Coast Guard", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Transportation"}
-{"name": "Federal Aviation Administration", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Transportation"}
-{"name": "Federal Highway Administration", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Transportation"}
-{"name": "Federal Motor Carrier Safety Administration", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Transportation"}
-{"name": "Federal Railroad Administration", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Transportation"}
-{"name": "Federal Transit Administration", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Transportation"}
-{"name": "Maritime Administration", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Transportation"}
-{"name": "National Highway Traffic Safety Administration", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Transportation"}
-{"name": "Research and Innovative Technology Administration", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Transportation"}
-{"name": "Education", "title": "DMOZ - Science: Environment: Sustainability: Industrial Ecology"}
-{"name": "Local Offices", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Housing and Urban Development"}
-{"name": "News and Media", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Housing and Urban Development"}
-{"name": "Public Housing Agencies", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Housing and Urban Development"}
-{"name": "Airports", "title": "DMOZ - Regional: North America: United States: Government: Executive Branch: Department of Transportation: Federal Aviation Administration"}
-{"name": "Auxiliary", "title": "DMOZ - Regional: North America: United States: Government: Military: Coast Guard"}
-{"name": "Bands and Music", "title": "DMOZ - Regional: North America: United States: Government: Military: Coast Guard"}
-{"name": "Education and Training", "title": "DMOZ - Regional: North America: United States: Government: Military: Coast Guard"}
-{"name": "Equipment and Weapons", "title": "DMOZ - Regional: North America: United States: Government: Military: Coast Guard"}
-{"name": "Families and Lifestyle", "title": "DMOZ - Regional: North America: United States: Government: Military: Coast Guard"}
-{"name": "History", "title": "DMOZ - Regional: North America: United States: Government: Military: Coast Guard"}
-{"name": "Installations", "title": "DMOZ - Regional: North America: United States: Government: Military: Coast Guard"}
-{"name": "News and Media", "title": "DMOZ - Regional: North America: United States: Government: Military: Coast Guard"}
-{"name": "Organizations", "title": "DMOZ - Regional: North America: United States: Government: Military: Coast Guard"}
-{"name": "Personal Pages", "title": "DMOZ - Regional: Nort
+{"name": "Programs", "title": "DMOZ - Arts: Television"}
+{"name": "Awards", "title": "DMOZ - Arts: Television"}
+{"name": "Cable Television", "title": "DMOZ - Arts: Television"}
+{"name": "Chats and Forums", "title": "DMOZ - Arts: Television"}
+{"name": "Christian", "title": "DMOZ - Arts: Television"}
+{"name": "Closed Captioning", "title": "DMOZ - Arts: Television"}
+{"name": "Commercials", "title": "DMOZ - Arts: Television"}
+{"name": "DVD", "title": "DMOZ - Arts: Television"}
+{"name": "Fan Fiction", "title": "DMOZ - Arts: Television"}
+{"name": "Guides", "title": "DMOZ - Arts: Television"}
+{"name": "Animation", "title": "DMOZ - Arts: Awards"}
+{"name": "Academic Departments", "title": "DMOZ - Science: Social Sciences: Communication: Rhetoric"}
+{"name": "History", "title": "DMOZ - Arts: Television"}
+{"name": "Interactive", "title": "DMOZ - Arts: Television"}
+{"name": "Comedy", "title": "DMOZ - Arts: Awards"}
+{"name": "Literature", "title": "DMOZ - Arts: Awards"}
+{"name": "Mathematics", "title": "DMOZ - Arts: Awards"}
+{"name": "Movies", "title": "DMOZ - Arts: Awards"}
+{"name": "Music", "title": "DMOZ - Arts: Awards"}
+{"name": "Nobel Foundation", "title": "DMOZ - Arts: Awards"}
+{"name": "Directories", "title": "DMOZ - Science: Social Sciences: Communication: Rhetoric"}
+{"name": "Glossaries", "title": "DMOZ - Science: Social Sciences: Communication: Rhetoric"}
+{"name": "Organizations", "title": "DMOZ - Science: Social Sciences: Communication: Rhetoric"}
+{"name": "Publications", "title": "DMOZ - Science: Social Sciences: Communication: Rhetoric"}
+{"name": "Writing Tips", "title": "DMOZ - Science: Social Sciences: Communication: Rhetoric"}
+{"name": "Rhetoricians", "title": "DMOZ - Science: Social Sciences: Communication: Rhetoric"}
+{"name": "Media Issues", "title": "DMOZ - Arts: Television"}
+{"name": "Memorabilia", "title": "DMOZ - Arts: Television"}
+{"name": "Networks", "title": "DMOZ - Arts: Television"}
+{"name": "News", "title": "DMOZ - Arts: Television"}
+{"name": "People", "title": "DMOZ - Arts: Television"}
+{"name": "Public Television", "title": "DMOZ - Arts: Television"}
+{"name": "Regional", "title": "DMOZ - Arts: Television"}
+{"name": "Television", "title": "DMOZ - Arts: Awards"}
+{"name": "Theatre", "title": "DMOZ - Arts: Awards"}
+{"name": "Video Games", "title": "DMOZ - Arts: Awards"}
+{"name": "Visual Arts", "title": "DMOZ - Arts: Awards"}
+{"name": "Web Sites", "title": "DMOZ - Arts: Awards"}
+{"name": "Golden Globe Awards", "title": "DMOZ - Arts: Awards"}
+{"name": "Screen Actors Guild Awards", "title": "DMOZ - Arts: Awards"}
+{"name": "Satellite", "title": "DMOZ - Arts: Television"}
+{"name": "Schedule and Programming", "title": "DMOZ - Arts: Television"}
+{"name": "Shopping", "title": "DMOZ - Arts: Television"}
+{"name": "Stations", "title": "DMOZ - Arts: Television"}
+{"name": "Stunts", "title": "DMOZ - Arts: Television"}
+{"name": "Television Writing", "title": "DMOZ - Arts: Television"}
+{"name": "Theme Songs", "title": "DMOZ - Arts: Television"}
+{"name": "Tickets For Shows", "title": "DMOZ - Arts: Television"}
+{"name": "Trading", "title": "DMOZ - Arts: Television"}
+{"name": "Trivia", "title": "DMOZ - Arts: Television"}
+{"name": "Web Rings", "title": "DMOZ - Arts: Television"}
+{"name": "Architecture", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Crafts", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Design", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Entertainment", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Fashion", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Graphic Design", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Knitting", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Movies", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Music", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Photography", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Shakespeare", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Visual Arts", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Writers Resources", "title": "DMOZ - Arts: Weblogs"}
+{"name": "Regional", "title": "DMOZ - Health: Dentistry"}
+{"name": "Associations", "title": "DMOZ - Health: Dentistry"}
+{"name": "Education", "title": "DMOZ - Health: Dentistry"}
+{"name": "Employment", "title": "DMOZ - Health: Dentistry"}
+{"name": "Evidence Based Dentistry", "title": "DMOZ - Health: Dentistry"}
+{"name": "Publications", "title": "DMOZ - Health: Dentistry"}
+{"name": "Resources", "title": "DMOZ - Health: Dentistry"}
+{"name": "Children", "title": "DMOZ - Health: Dentistry"}
+{"name": "Conditions and Diseases", "title": "DMOZ - Health: Dentistry"}
+{"name": "Cosmetic", "title": "DMOZ - Health: Dentistry"}
+{"name": "Dental Laboratories", "title": "DMOZ - Health: Dentistry"}
+{"name": "Dental Tourism", "title": "DMOZ - Health: Dentistry"}
+{"name": "Dentophobia", "title": "DMOZ - Health: Dentistry"}
+{"name": "Dentures", "title": "DMOZ - Health: Dentistry"}
+{"name": "Directories", "title": "DMOZ - Health: Dentistry"}
+{"name": "Endodontics", "title": "DMOZ - Health: Dentistry"}
+{"name": "Fillings", "title": "DMOZ - Health: Dentistry"}
+{"name": "Oral Surgery", "title": "DMOZ - Health: Dentistry"}
+{"name": "Orthodontics", "title": "DMOZ - Health: Dentistry"}
+{"name": "Products", "title": "DMOZ - Health: Dentistry"}
+{"name": "Animation", "title": "DMOZ - Arts: Web Rings"}
+{"name": "Bodyart", "title": "DMOZ - Arts: Web Rings"}
+{"name": "Comics", "title": "DMOZ - Arts: Web Rings"}
+{"name": "Costumes", "title": "DMOZ - Arts: Web Rings"}
+{"name": "Crafts", "title": "DMOZ - Arts: Web Rings"}
+{"name": "Digital Art", "title": "DMOZ - Arts: Web Rings"}
+{"name": "Online Writing", "title": "DMOZ - Arts: Web Rings"}
+{"name": "Photography", "title": "DMOZ - Arts: Web Rings"}
+{"name": "Television", "title": "DMOZ - Arts: Web Rings"}
+{"name": "Visual Arts", "title": "DMOZ - Arts: Web Rings"}
+{"name": "Writers Resources", "title": "DMOZ - Arts: Web Rings"}
+{"name": "Clinics and Services", "title": "DMOZ - Health: Weight Loss"}
+{"name": "Dietitians and Nutritionists", "title": "DMOZ - Health: Weight Loss"}
+{"name": "Eating Disorders", "title": "DMOZ - Health: Weight Loss"}
+{"name": "Online Shopping", "title": "DMOZ - Health: Weight Loss"}
+{"name": "Personal Pages", "title": "DMOZ - Health: Weight Loss"}
+{"name": "Resources", "title": "DMOZ - Health: Weight Loss"}
+{"name": "Support Groups", "title": "DMOZ - Health: Weight Loss"}
+{"name": "Surgery", "title": "DMOZ - Health: Weight Loss"}
+{"name": "Online", "title": "DMOZ - Games: Dice"}
+{"name": "Shopping", "title": "DMOZ - Games: Dice"}
+{"name": "Video Games", "title": "DMOZ - Games: Dice"}
+{"name": "Trading", "title": "DMOZ - Games: Dice"}
+{"name": "Balut", "title": "DMOZ - Games: Dice"}
+{"name": "Bluff", "title": "DMOZ - Games: Dice"}
+{"name": "Boggle", "title": "DMOZ - Games: Dice"}
+{"name": "Bunco", "title": "DMOZ - Games: Dice"}
+{"name": "Button Men", "title": "DMOZ - Games: Dice"}
+{"name": "Cosmic Wimpout", "title": "DMOZ - Games: Dice"}
+{"name": "Craps", "title": "DMOZ - Games: Dice"}
+{"name": "Dragon Dice", "title": "DMOZ - Games: Dice"}
+{"name": "Clinics", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "3D", "title": "DMOZ - Games: Puzzles"}
+{"name": "Exxtra", "title": "DMOZ - Games: Dice"}
+{"name": "Farkle", "title": "DMOZ - Games: Dice"}
+{"name": "Fill or Bust", "title": "DMOZ - Games: Dice"}
+{"name": "Golo Golf", "title": "DMOZ - Games: Dice"}
+{"name": "Kismet", "title": "DMOZ - Games: Dice"}
+{"name": "Luck Plus", "title": "DMOZ - Games: Dice"}
+{"name": "Perudo", "title": "DMOZ - Games: Dice"}
+{"name": "Shakin' Sorry", "title": "DMOZ - Games: Dice"}
+{"name": "Spill and Spell", "title": "DMOZ - Games: Dice"}
+{"name": "Stack", "title": "DMOZ - Games: Dice"}
+{"name": "Star Trek Dice", "title": "DMOZ - Games: Dice"}
+{"name": "UNO Dice", "title": "DMOZ - Games: Dice"}
+{"name": "Word Yahtzee", "title": "DMOZ - Games: Dice"}
+{"name": "Immunizations", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Insect Repellent", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Medical Tourism", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Tropical Health", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Wilderness Medicine", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Altitude Sickness", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Ambigrams", "title": "DMOZ - Games: Puzzles"}
+{"name": "Anagrams", "title": "DMOZ - Games: Puzzles"}
+{"name": "Brain Teasers", "title": "DMOZ - Games: Puzzles"}
+{"name": "Crosswords", "title": "DMOZ - Games: Puzzles"}
+{"name": "Cryptograms", "title": "DMOZ - Games: Puzzles"}
+{"name": "Jigsaw", "title": "DMOZ - Games: Puzzles"}
+{"name": "Mathematical", "title": "DMOZ - Games: Puzzles"}
+{"name": "Hand Clapping", "title": "DMOZ - Games: Hand Games"}
+{"name": "Yahtzee", "title": "DMOZ - Games: Dice"}
+{"name": "Cholera", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "DVT", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Fear of Flying", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Food and Water Borne Illness", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Health Flights", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Jet Lag", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Malaria", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Motion Sickness", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Traveler's Diarrhea", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Mazes", "title": "DMOZ - Games: Puzzles"}
+{"name": "Mechanical", "title": "DMOZ - Games: Puzzles"}
+{"name": "Nonograms", "title": "DMOZ - Games: Puzzles"}
+{"name": "Online Trivia", "title": "DMOZ - Games: Puzzles"}
+{"name": "Optical Illusions", "title": "DMOZ - Games: Puzzles"}
+{"name": "Riddles", "title": "DMOZ - Games: Puzzles"}
+{"name": "Self-Referential Sentences", "title": "DMOZ - Games: Puzzles"}
+{"name": "Sudoku", "title": "DMOZ - Games: Puzzles"}
+{"name": "Rock, Paper, Scissors", "title": "DMOZ - Games: Hand Games"}
+{"name": "Thumb Wrestling", "title": "DMOZ - Games: Hand Games"}
+{"name": "Typhoid Fever", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Yellow Fever", "title": "DMOZ - Recreation: Travel: Preparation: Health"}
+{"name": "Word Games", "title": "DMOZ - Games: Puzzles"}
+{"name": "Word Search", "title": "DMOZ - Games: Puzzles"}
+{"name": "Browser Based", "title": "DMOZ - Games: Puzzles"}
+{"name": "Shareware", "title": "DMOZ - Games: Puzzles"}
+{"name": "Video Games", "title": "DMOZ - Games: Puzzles"}
+{"name": "Collecting", "title": "DMOZ - Games: Puzzles"}
+{"name": "Shopping", "title": "DMOZ - Games: Puzzles"}
+{"name": "Web Rings", "title": "DMOZ - Games: Puzzles"}
+{"name": "Reunions", "title": "DMOZ - Reference: Education: Alumni Directories"}
+{"name": "Ireland", "title": "DMOZ - Reference: Education: Alumni Directories"}
+{"name": "United Kingdom", "title": "DMOZ - Reference: Education: Alumni Directories"}
+{"name": "Inquiry Based Learning", "title": "DMOZ - Reference: Education: Journals"}
+{"name": "Archaeology", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Architecture", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Arts", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Astronomy", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Biochemistry and Molecular Biology", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Biology", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "CAD and CAM", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Chemistry", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Civics", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Computing", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Earth Sciences", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Economics", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Energy", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Engineering and Technology", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "English", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Environment", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Fear of Flying", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Film", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Floral Design", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Geography", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Geology", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Graphic Design", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Health", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "History", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Language and Linguistics", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Language Arts", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Management", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Maritime", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Math", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Medicine", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Music", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Outdoors Schools", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Peace Studies", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Philosophy", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Physics", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Religious Studies", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Science", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Sex Education", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Social Sciences", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Sociology", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Vocational", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Writing", "title": "DMOZ - Reference: Education: Subjects"}
+{"name": "Shopping", "title": "DMOZ - Arts: Crafts: Leatherworking"}
+{"name": "Supplies", "title": "DMOZ - Arts: Crafts: Leatherworking"}
+{"name": "Shopping", "title": "DMOZ - Arts: Crafts: Beading"}
+{"name": "Supplies", "title": "DMOZ - Arts: Crafts: Beading"}
+{"name": "Actors and Actresses", "title": "DMOZ - Arts: Television: Web Rings"}
+{"name": "Animation", "title": "DMOZ - Arts: Television: Web Rings"}
+{"name": "Horror", "title": "DMOZ - Arts: Television: Web Rings"}
+{"name": "Science Fiction and Fantasy", "title": "DMOZ - Arts: Television: Web Rings"}
+{"name": "Alcatraz", "title": "DMOZ - Society: Crime: Prisons"}
+{"name": "Directories", "title": "DMOZ - Society: Crime: Prisons"}
+{"name": "Inmate Writers and Journals", "title": "DMOZ - Society: Crime: Prisons"}
+{"name": "Issues", "title": "DMOZ - Society: Crime: Prisons"}
+{"name": "Juvenile", "title": "DMOZ - Society: Crime: Prisons"}
+{"name": "Pen Pals", "title": "DMOZ - Society: Crime: Prisons"}
+{"name": "Political Prisoners", "title": "DMOZ - Society: Crime: Prisons"}
+{"name": "Prison Equipment", "title": "DMOZ - Society: Crime: Prisons"}
+{"name": "Privatization", "title": "DMOZ - Society: Crime: Prisons"}
+{"name": "Rehabilitation Programs", "title": "DMOZ - Society: Crime: Prisons"}
+{"name": "Research", "title": "DMOZ - Society: Crime: Prisons"}
+{"name": "Surgeons and Clinics", "title": "DMOZ - Health: Medicine: Surgery: General: Obesity Surgery"}
+{"name": "Chats and Forums", "title": "DMOZ - Health: Weight Loss: Support Groups"}
+{"name": "Fat Acceptance", "title": "DMOZ - Health: Weight Loss: Support Groups"}
+{"name": "Overeaters Anonymous", "title": "DMOZ - Health: Weight Loss: Support Groups"}
+{"name": "Post-Surgery", "title": "DMOZ - Health: Weight Loss: Personal Pages"}
+{"name": "England", "title": "DMOZ - Regional: Europe: United Kingdom: Education: Reunions and Alumni"}
+{"name": "Animation", "title": "DMOZ - Reference: Education: Subjects: Vocational"}
+{"name": "Aviation", "title": "DMOZ - Reference: Education: Subjects: Vocational"}
+{"name": "Computers", "title": "DMOZ - Reference: Education: Subjects: Vocational"}
+{"name": "Dog Grooming", "title": "DMOZ - Reference: Education: Subjects: Vocational"}
+{"name": "Floral Art", "title": "DMOZ - Reference: Education: Subjects: Vocational"}
+{"name": "Hospitality", "title": "DMOZ - Reference: Education: Subjects: Vocational"}
+{"name": "Cyberculture", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Environmental Sociology", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Rural Sociology", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Sociology of Religion", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Sociology of Soccer", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Academic Departments", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Academic Papers", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Associations", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Ethnomethodology", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Journals", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Methodology", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Sociologists", "title": "DMOZ - Science: Social Sciences: Sociology"}
+{"name": "Jewelry", "title": "DMOZ - Shopping: Crafts: Beads"}
+{"name": "Supplies", "title": "DMOZ - Shopping: Crafts: Beads"}
+{"name": "Mystery Science Theater 3000", "title": "DMOZ - Arts: Television: Web Rings: Science Fiction and Fantasy"}
+{"name": "Seaquest", "title": "DMOZ - Arts: Television: Web Rings: Science Fiction and Fantasy"}
+{"name": "Sliders", "title": "DMOZ - Arts: Television: Web Rings: Science Fiction and Fantasy"}
+{"name": "Stargate SG-1", "title": "DMOZ - Arts: Television: Web Rings: Science Fiction and Fantasy"}
+{"name": "X-Files", "title": "DMOZ - Arts: Television: Web Rings: Science Fiction and Fantasy"}
+{"name": "Jewelry Supplies", "title": "DMOZ - Shopping: Crafts: Supplies: Beading"}
+{"name": "Dark Shadows", "title": "DMOZ - Arts: Television: Web Rings: Horror"}
+{"name": "Forever Knight", "title": "DMOZ - Arts: Television: Web Rings: Horror"}
+{"name": "States", "title": "DMOZ - Society: Crime: Research: Corrections"}
+{"name": "Buddhist", "title": "DMOZ - Society: Crime: Prisons: Rehabilitation Programs"}
+{"name": "Activism", "title": "DMOZ - Society: Issues: Crime and Justice: Prisons: Privatization"}
+{"name": "Articles", "title": "DMOZ - Society: Issues: Crime and Justice: Prisons: Privatization"}
+{"name": "Organizations", "title": "DMOZ - Society: Issues: Crime and Justice: Prisons: Privatization"}
+{"name": "Reports", "title": "DMOZ - Society: Issues: Crime and Justice: Prisons: Privatization"}
+{"name": "Australia", "title": "DMOZ - Health: Medicine: Surgery: General: Obesity Surgery: Surgeons and Clinics"}
+{"name": "Mexico", "title": "DMOZ - Health: Medicine: Surgery: General: Obesity Surgery: Surgeons and Clinics"}
+{"name": "United Kingdom", "title": "DMOZ - Health: Medicine: Surgery: General: Obesity Surgery: Surgeons and Clinics"}
+{"name": "United States", "title": "DMOZ - Health: Medicine: Surgery: General: Obesity Surgery: Surgeons and Clinics"}
+{"name": "China", "title": "DMOZ - Society: Issues: Human Rights and Liberties: Political Prisoners"}
+{"name": "Cuba", "title": "DMOZ - Society: Issues: Human Rights and Liberties: Political Prisoners"}
+{"name": "Ireland", "title": "DMOZ - Society: Issues: Human Rights and Liberties: Political Prisoners"}
+{"name": "Tibet", "title": "DMOZ - Society: Issues: Human Rights and Liberties: Political Prisoners"}
+{"name": "Turkey", "title": "DMOZ - Society: Issues: Human Rights and Liberties: Political Prisoners"}
+{"name": "United States", "title": "DMOZ - Society: Issues: Human Rights and Liberties: Political Prisoners"}
+{"name": "Vietnam", "title": "DMOZ - Society: Issues: Human Rights and Liberties: Political Prisoners"}
+{"name": "Artwork", "title": "DMOZ - Society: Issues: Health: Body Image: Fat Acceptance"}
+{"name": "Chats and Forums", "title": "DMOZ - Society: Issues: Health: Body Image: Fat Acceptance"}
+{"name": "Directories", "title": "DMOZ - Society: Issues: Health: Body Image: Fat Acceptance"}
+{"name": "News and Media", "title": "DMOZ - Society: Issues: Health: Body Image: Fat Acceptance"}
+{"name": "Organizations", "title": "DMOZ - Society: Issues: Health: Body Image: Fat Acceptance"}
+{"name": "Personal Pages", "title": "DMOZ - Society: Issues: Health: Body Image: Fat Acceptance"}
+{"name": "Teens", "title": "DMOZ - Society: Issues: Health: Body Image: Fat Acceptance"}
+{"name": "Bristol", "title": "DMOZ - Regional: Europe: United Kingdom: England: Education: Reunions and Alumni"}
+{"name": "Manchester", "title": "DMOZ - Regional: Europe: United Kingdom: England: Education: Reunions and Alumni"}
+{"name": "South Yorkshire", "title": "DMOZ - Regional: Europe: United Kingdom: England: Education: Reunions and Alumni"}
+{"name": "West Midlands", "title": "DMOZ - Regional: Europe: United Kingdom: England: Education: Reunions and Alumni"}
+{"name": "Bartending", "title": "DMOZ - Business: Hospitality: Education and Training"}
+{"name": "Catering", "title": "DMOZ - Business: Hospitality: Education and Training"}
+{"name": "Culinary", "title": "DMOZ - Business: Hospitality: Education and Training"}
+{"name": "Travel", "title": "DMOZ - Business: Hospitality: Education and Training"}
+{"name": "Schools", "title": "DMOZ - Business: Hospitality: Education and Training"}
+{"name": "Seed Bead", "title": "DMOZ - Shopping: Crafts: Jewelry: Bead"}
+{"name": "Environmental Sociologists", "title": "DMOZ - Science: Social Sciences: Sociology: Sociologists"}
+{"name": "Durkheim, \u00c9mile", "title": "DMOZ - Science: Social Sciences: Sociology: Sociologists"}
+{"name": "Hall, Stuart", "title": "DMOZ - Science: Social Sciences: Sociology: Sociologists"}
+{"name": "Mead, George Herbert", "title": "DMOZ - Science: Social Sciences: Sociology: Sociologists"}
+{"name": "Spencer, Herbert", "title": "DMOZ - Science: Social Sciences: Sociology: Sociologists"}
+{"name": "Sumner, William Graham", "title": "DMOZ - Science: Social Sciences: Sociology: Sociologists"}
+{"name": "Action Research", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Anthropology", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Archaeology", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Econometrics", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Ethics", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Game Theory", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Grounded Theory", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Psychometrics", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Qualitative", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Scientific Method", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Statistics", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Survey", "title": "DMOZ - Science: Social Sciences: Methodology"}
+{"name": "Cast and Crew", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows"}
+{"name": "Characters", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows"}
+{"name": "Chats and Forums", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows"}
+{"name": "Fan Fiction", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows"}
+{"name": "Fan Pages", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows"}
+{"name": "Parodies", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows"}
+{"name": "Publications", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows"}
+{"name": "Roleplaying Games", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows"}
+{"name": "Web Rings", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows"}
+{"name": "Mailing Lists", "title": "DMOZ - Society: Issues: Health: Body Image: Fat Acceptance: News and Media"}
+{"name": "Birmingham", "title": "DMOZ - Regional: Europe: United Kingdom: England: West Midlands: Education: Reunions and Alumni"}
+{"name": "Sheffield", "title": "DMOZ - Regional: Europe: United Kingdom: England: South Yorkshire: Education: Reunions and Alumni"}
+{"name": "Free Services", "title": "DMOZ - Science: Social Sciences: Methodology: Survey"}
+{"name": "Software", "title": "DMOZ - Science: Social Sciences: Methodology: Survey"}
+{"name": "Publications", "title": "DMOZ - Science: Social Sciences: Methodology: Qualitative"}
+{"name": "Tools", "title": "DMOZ - Science: Social Sciences: Methodology: Qualitative"}
+{"name": "Actuarial Science", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Bayesian Analysis", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Statistical Consulting", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Academic Departments", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Chats and Forums", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Companies", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Conferences", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Education", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Employment", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Organizations", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "People", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Publications", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Software", "title": "DMOZ - Science: Math: Statistics"}
+{"name": "Angelique Bouchard Collins", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Characters"}
+{"name": "Daphne Harridge", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Characters"}
+{"name": "Dr. Julia Hoffman", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Characters"}
+{"name": "Roger Collins", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Characters"}
+{"name": "Victoria Winters", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Characters"}
+{"name": "Willie Loomis", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Characters"}
+{"name": "Forums", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Chats and Forums"}
+{"name": "Mailing Lists", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Chats and Forums"}
+{"name": "NBC Revival Series - 1991", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew"}
+{"name": "Original Series - 1966-71", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew"}
+{"name": "Poll Software", "title": "DMOZ - Computers: Internet: Web Design and Development: Hosted Components and Services: Form Data, Polls, and Surveys: Polls and Surveys"}
+{"name": "Bioethics", "title": "DMOZ - Science: Science in Society: Research Ethics"}
+{"name": "Dating", "title": "DMOZ - Science: Social Sciences: Archaeology: Methodology"}
+{"name": "Guidelines and Codes", "title": "DMOZ - Science: Science in Society: Research Ethics"}
+{"name": "Publications", "title": "DMOZ - Science: Science in Society: Research Ethics"}
+{"name": "Surface Surveys and Field Walking", "title": "DMOZ - Science: Social Sciences: Archaeology: Methodology"}
+{"name": "Intelligence and Ability Tests", "title": "DMOZ - Science: Social Sciences: Psychology: Tests and Testing: Psychometrics"}
+{"name": "Personality Tests", "title": "DMOZ - Science: Social Sciences: Psychology: Tests and Testing: Psychometrics"}
+{"name": "Mathcad", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Mathematica", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "MATLAB", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Minitab", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "R", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "S", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "SAS", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "S-Plus", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "SPSS", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "ActiveX and .Net", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Excel Add-In", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Spreadsheets", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Bayesian Analysis", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Distributions", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Econometrics", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Fortran", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Graphing", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Regression and Curve Fitting", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Strategy and Forecasting", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Surveys", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Time Series Analysis", "title": "DMOZ - Science: Math: Statistics: Software"}
+{"name": "Journals", "title": "DMOZ - Science: Math: Statistics: Publications"}
+{"name": "Demographic Statistics", "title": "DMOZ - Science: Math: Statistics: Organizations"}
+{"name": "Economic Statistics", "title": "DMOZ - Science: Math: Statistics: Organizations"}
+{"name": "Academic Departments", "title": "DMOZ - Science: Math: Statistics: Organizations"}
+{"name": "Calendars", "title": "DMOZ - Science: Math: Statistics: Conferences"}
+{"name": "Past Conferences", "title": "DMOZ - Science: Math: Statistics: Conferences"}
+{"name": "Series", "title": "DMOZ - Science: Math: Statistics: Conferences"}
+{"name": "Bayesian Analysis", "title": "DMOZ - Science: Math: Statistics: Conferences"}
+{"name": "Online Articles", "title": "DMOZ - Science: Social Sciences: Methodology: Grounded Theory"}
+{"name": "The Memo Pages of Grounded Theory", "title": "DMOZ - Science: Social Sciences: Methodology: Grounded Theory"}
+{"name": "Theses and Abstracts", "title": "DMOZ - Science: Social Sciences: Methodology: Grounded Theory"}
+{"name": "Tools", "title": "DMOZ - Science: Social Sciences: Methodology: Grounded Theory"}
+{"name": "Crothers, Joel - Joe Haskell", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: Original Series - 1966-71"}
+{"name": "Frid, Jonathan - Barnabas Collins", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: Original Series - 1966-71"}
+{"name": "Jackson, Kate - Daphne Harridge", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: Original Series - 1966-71"}
+{"name": "Selby, David - Quentin Collins", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: Original Series - 1966-71"}
+{"name": "Anthony, Lysette - Angelique Collins", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: NBC Revival Series - 1991"}
+{"name": "Cross, Ben - Barnabas Collins", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: NBC Revival Series - 1991"}
+{"name": "Going, Joanna - Victoria Winters", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: NBC Revival Series - 1991"}
+{"name": "Gordon-Levitt, Joseph - David Collins", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: NBC Revival Series - 1991"}
+{"name": "Paul, Adrian - Jeremiah Collins", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: NBC Revival Series - 1991"}
+{"name": "Simmons, Jean - Elizabeth Collins Stoddard", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: NBC Revival Series - 1991"}
+{"name": "Steele, Barbara - Dr. Julia Hoffman", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: NBC Revival Series - 1991"}
+{"name": "Weiss, Michael T. - Joe Haskell", "title": "DMOZ - Arts: Television: Programs: Horror: Dark Shadows: Cast and Crew: NBC Revival Series - 1991"}
+{"name": "Amino Acid Racemization", "title": "DMOZ - Science: Social Sciences: Archaeology: Methodology: Dating"}
+{"name": "Dendrochronology", "title": "DMOZ - Science: Social Sciences: Archaeology: Methodology: Dating"}
+{"name": "Luminescence Dating", "title": "DMOZ - Science: Social Sciences: Archaeology: Methodology: Dating"}
+{"name": "Obsidian Hydration", "title": "DMOZ - Science: Social Sciences: Archaeology: Methodology: Dating"}
+{"name": "Potassium-Argon Dating", "title": "DMOZ - Science: Social Sciences: Archaeology: Methodology: Dating"}
+{"name": "Radiocarbon Dating", "title": "DMOZ - Science: Social Sciences: Archaeology: Methodology: Dating"}
+{"name": "Seriation", "title": "DMOZ - Science: Social Sciences: Archaeology: Methodology: Dating"}
+{"name": "Laboratories", "title": "DMOZ - Science: Social Sciences: Archaeology: Methodology: Dating"}
+{"name": "Careers", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests"}
+{"name": "Color", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests"}
+{"name": "DISC", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests"}
+{"name": "Emotional Intelligence", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests"}
+{"name": "Enneagram", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests"}
+{"name": "Five-Factor Model", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests"}
+{"name": "Myers-Briggs", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests"}
+{"name": "Directories", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests"}
+{"name": "Fun, Non-Scientific", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests"}
+{"name": "People Matching", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests"}
+{"name": "Relationships", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests"}
+{"name": "Africa", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies"}
+{"name": "Asia", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies"}
+{"name": "Europe", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies"}
+{"name": "Global", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies"}
+{"name": "Middle East", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies"}
+{"name": "North America", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies"}
+{"name": "Oceania", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies"}
+{"name": "South America", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies"}
+{"name": "Associations", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies"}
+{"name": "Research Institutes", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies"}
+{"name": "Regression and Curve Fitting", "title": "DMOZ - Science: Math: Software: Graphing"}
+{"name": "Java Applets", "title": "DMOZ - Science: Math: Software: Graphing"}
+{"name": "Windows Shareware", "title": "DMOZ - Science: Math: Software: Graphing"}
+{"name": "Gnuplot", "title": "DMOZ - Science: Math: Software: Graphing"}
+{"name": "Movies", "title": "DMOZ - Arts: People: S: Selby, David"}
+{"name": "Movies", "title": "DMOZ - Arts: People: J: Jackson, Kate"}
+{"name": "Television", "title": "DMOZ - Arts: People: J: Jackson, Kate"}
+{"name": "People Matching", "title": "DMOZ - Society: Relationships: Questionnaires"}
+{"name": "Geeks and Nerds", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Tests: Fun, Non-Scientific"}
+{"name": "Informal Online Tests", "title": "DMOZ - Science: Social Sciences: Psychology: Personality: Myers-Briggs Type Indicator: Testing Services"}
+{"name": "Night of Dark Shadows", "title": "DMOZ - Arts: People: S: Selby, David: Movies"}
+{"name": "Raise the Titanic", "title": "DMOZ - Arts: People: S: Selby, David: Movies"}
+{"name": "Surviving Christmas", "title": "DMOZ - Arts: People: S: Selby, David: Movies"}
+{"name": "White Squall", "title": "DMOZ - Arts: People: S: Selby, David: Movies"}
+{"name": "Official Economic Statistics", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies: South America"}
+{"name": "Limbo - 1972", "title": "DMOZ - Arts: People: J: Jackson, Kate: Movies"}
+{"name": "Night of Dark Shadows", "title": "DMOZ - Arts: People: J: Jackson, Kate: Movies"}
+{"name": "Satan's School for Girls - 2000", "title": "DMOZ - Arts: People: J: Jackson, Kate: Movies"}
+{"name": "Scarecrow and Mrs. King", "title": "DMOZ - Arts: People: J: Jackson, Kate: Movies"}
+{"name": "Charlie's Angels", "title": "DMOZ - Arts: People: J: Jackson, Kate: Television"}
+{"name": "Dark Shadows", "title": "DMOZ - Arts: People: J: Jackson, Kate: Television"}
+{"name": "Rookies, The", "title": "DMOZ - Arts: People: J: Jackson, Kate: Television"}
+{"name": "Scarecrow and Mrs. King", "title": "DMOZ - Arts: People: J: Jackson, Kate: Television"}
+{"name": "Official Statistics", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies: North America"}
+{"name": "U.S. Census Bureau", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies: North America"}
+{"name": "Official Statistics", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies: Middle East"}
+{"name": "United Kingdom", "title": "DMOZ - Science: Social Sciences: Demography and Population Studies: Europe"}

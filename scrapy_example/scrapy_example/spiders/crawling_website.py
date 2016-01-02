@@ -70,3 +70,4 @@ class SpiderExample(scrapy.Spider):
                                 j=j+1
                         i=i+1
         f.close()
+

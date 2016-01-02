@@ -29,3 +29,5 @@ class NewSpider(scrapy.Spider):
             print "Book Name : ", item['name']
             print "and its link is : ", item['link']
             print "\n\n"
+
+

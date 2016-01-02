@@ -14,7 +14,7 @@ class MySpider(scrapy.Spider):
 
         for div in soup.find_all("div", {'class': 'one-third'}):
             for span in div.find_all('span'):
-                print "category : ", span.string
+                #print "category : ", span.string
                 a = span.find('a')
                 url = response.urljoin(a['href'])
                 yield scrapy.Request(url, callback=self.parse_content)
@@ -32,3 +32,4 @@ class MySpider(scrapy.Spider):
                 yield item
                 url = response.urljoin(a['href'])
                 yield scrapy.Request(url, callback=self.parse_content)
+
