@@ -5,7 +5,7 @@ Examples of crawling and scraping web.
 --------------------------------------
 
 
-### Contributors
+### Authors
  * Parul Raheja ([@parul-raheja](https://github.com/parul-raheja))
  * Abhay Arora ([@itsstark](https://github.com/itsstark))
 
