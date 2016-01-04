@@ -32,4 +32,3 @@ class MySpider(scrapy.Spider):
                 yield item
                 url = response.urljoin(a['href'])
                 yield scrapy.Request(url, callback=self.parse_content)
-
