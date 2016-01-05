@@ -47,6 +47,8 @@ NEWSPIDER_MODULE = 'scrapy_example.spiders'
 #    'scrapy_example.middlewares.MyCustomSpiderMiddleware': 543,
 #}
 
+SPIDER_MIDDLEWARES = ['scrapy_example.middlewares.CustomSpiderMiddleware']
+
 # Enable or disable downloader middlewares
 # See http://scrapy.readthedocs.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
@@ -61,12 +63,16 @@ NEWSPIDER_MODULE = 'scrapy_example.spiders'
 
 # Configure item pipelines
 # See http://scrapy.readthedocs.org/en/latest/topics/item-pipeline.html
-ITEM_PIPELINES = ['scrapy_example.pipelines.ScrapyExamplePipeline', 'scrapy_example.pipelines.MongoDBPipeline',]
+
+ITEM_PIPELINES = ['scrapy_example.pipelines.ScrapyExamplePipeline', 'scrapy_example.pipelines.MongoDBPipeline', 'scrapy_example.pipelines.MyImagesPipeline']
 
 MONGODB_SERVER = 'localhost'
 MONGODB_PORT = 9200
 MONGODB_DB = 'scrapy_data'
 MONGODB_COLLECTION = 'data'
+
+IMAGES_STORE = "images/"
+
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html

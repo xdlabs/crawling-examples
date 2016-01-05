@@ -16,3 +16,9 @@ class ScrapyExampleItem(scrapy.Item):
 class SpiderItem(scrapy.Item):
     title = scrapy.Field()
     name = scrapy.Field()
+
+
+class ImagesItem(scrapy.Item):
+    name = scrapy.Field()
+    image_urls = scrapy.Field()
+    discount = scrapy.Field()

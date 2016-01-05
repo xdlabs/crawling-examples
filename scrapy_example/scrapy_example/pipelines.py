@@ -7,6 +7,10 @@
 import json
 import pymongo
 from scrapy.conf import settings
+import scrapy
+from scrapy.pipelines.images import ImagesPipeline
+from scrapy.exceptions import DropItem
+import requests
 
 
 class ScrapyExamplePipeline(object):
@@ -44,3 +48,17 @@ class MongoDBPipeline(object):
     def process_item(self, item, spider):
         self.db[self.collection].insert(dict(item))
         return item
+
+
+class MyImagesPipeline(ImagesPipeline):
+    def process_item(self, item, spider):
+        if 'image_urls' in dict(item):
+            url = item['image_urls']
+            response = requests.get(url)
+            filename = url.split('/')[-1]
+            with open((settings['IMAGES_STORE']+filename), 'wb') as f:
+                f.write(response.content)
+                f.close()
+            return item
+        else:
+            raise DropItem("Not containing image .. ")

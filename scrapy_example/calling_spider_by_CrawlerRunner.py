@@ -4,6 +4,7 @@ from scrapy.utils.log import configure_logging
 from scrapy.utils.project import get_project_settings
 from scrapy_example.spiders.new_crawling import MySpider
 from scrapy_example.spiders.new_spider import NewSpider
+from scrapy_example.spiders.crawl_images import ImagesSpider
 
 configure_logging()
 runner = CrawlerRunner(get_project_settings())
@@ -11,6 +12,7 @@ runner = CrawlerRunner(get_project_settings())
 
 @defer.inlineCallbacks
 def crawl():
+    yield runner.crawl(ImagesSpider)
     yield runner.crawl(MySpider)
     yield runner.crawl(NewSpider)
     reactor.stop()
