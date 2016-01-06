@@ -19,7 +19,9 @@ NEWSPIDER_MODULE = 'scrapy_example.spiders'
 #USER_AGENT = 'scrapy_example (+http://www.yourdomain.com)'
 
 # Configure maximum concurrent requests performed by Scrapy (default: 16)
-#CONCURRENT_REQUESTS=100
+CONCURRENT_REQUESTS=100
+
+REACTOR_THREADPOOL_MAXSIZE = 20
 
 # Configure a delay for requests for the same website (default: 0)
 # See http://scrapy.readthedocs.org/en/latest/topics/settings.html#download-delay
@@ -54,6 +56,8 @@ SPIDER_MIDDLEWARES = ['scrapy_example.middlewares.CustomSpiderMiddleware']
 #DOWNLOADER_MIDDLEWARES = {
 #    'scrapy_example.middlewares.MyCustomDownloaderMiddleware': 543,
 #}
+
+LOG_LEVEL = 'INFO'
 
 # Enable or disable extensions
 # See http://scrapy.readthedocs.org/en/latest/topics/extensions.html
