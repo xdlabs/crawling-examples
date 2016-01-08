@@ -53,7 +53,6 @@ for tags in soup.find_all('a'):
 
     print "\n\n"
 
-
 #### .contents contains list of all tags
 head_contents = soup.head.contents
 head_length = len(head_contents)
