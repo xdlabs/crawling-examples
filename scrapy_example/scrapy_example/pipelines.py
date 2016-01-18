@@ -34,12 +34,12 @@ class MongoDBPipeline(object):
 
     def __init__(self):
         self.server = settings['MONGODB_SERVER']
-        self.host = settings['MONGODB_HOST']
+        self.port = settings['MONGODB_PORT']
         self.db = settings['MONGODB_DB']
         self.collection = settings['MONGODB_COLLECTION']
 
     def open_spider(self, spider):
-        self.client = pymongo.MongoClient(self.server, self.host)
+        self.client = pymongo.MongoClient(self.server, self.port)
         self.db = self.client[self.db]
 
     def close_spider(self, spider):
