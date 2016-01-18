@@ -23,4 +23,3 @@ for documents in data.limit(10):
     f.write("\n\t"+requests.get(documents["image_urls"]).content)
 
 f.close()
-
