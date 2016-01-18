@@ -1,0 +1,53 @@
+
+
+	 Discount : 50%off
+	 Product Name : Who Will Cry When You Die?
+	 Image_Url : http://ecx.images-amazon.com/images/I/51LWolxDRDL._AC_SY220_.jpg
+
+	 Discount : 27%off
+	 Product Name : Manorama Yearbook 2016
+	 Image_Url : http://ecx.images-amazon.com/images/I/618MZY6UC5L._AC_SY220_.jpg
+
+	 Discount : 50%off
+	 Product Name : The Monk Who Sold His Ferrari
+	 Image_Url : http://ecx.images-amazon.com/images/I/51j3ISgpR6L._AC_SY220_.jpg
+
+	 Discount : 50%off
+	 Product Name : Life is What You Make it
+	 Image_Url : http://ecx.images-amazon.com/images/I/515kakMnHpL._AC_SY220_.jpg
+
+	 Discount : 60%off
+	 Product Name : The Alchemist
+	 Image_Url : http://ecx.images-amazon.com/images/I/41MeC94AxIL._AC_SY220_.jpg
+
+	 Discount : 43%off
+	 Product Name : Quantitative Aptitude for Competitive Examinations
+	 Image_Url : http://ecx.images-amazon.com/images/I/517GgaRHymL._AC_SY220_.jpg
+
+	 Discount : 63%off
+	 Product Name : To Kill a Mockingbird
+	 Image_Url : http://ecx.images-amazon.com/images/I/51A6rmAqknL._AC_SY220_.jpg
+
+	 Discount : 50%off
+	 Product Name : Think and Grow Rich
+	 Image_Url : http://ecx.images-amazon.com/images/I/41VfV2H14mL._AC_SY220_.jpg
+
+	 Discount : 63%off
+	 Product Name : The Immortals of Meluha (Shiva Trilogy)
+	 Image_Url : http://ecx.images-amazon.com/images/I/51m0wvVXZ1L._AC_SY220_.jpg
+
+	 Discount : 50%off
+	 Product Name : The Old Man and the Sea
+	 Image_Url : http://ecx.images-amazon.com/images/I/51-n0Husv3L._AC_SY220_.jpg
+
+	 Discount : 50%off
+	 Product Name : Who Will Cry When You Die?
+	 Image_Url : http://ecx.images-amazon.com/images/I/51LWolxDRDL._AC_SY220_.jpg
+
+	 Discount : 50%off
+	 Product Name : Who Will Cry When You Die?
+	 Image_Url : http://ecx.images-amazon.com/images/I/51LWolxDRDL._AC_SY220_.jpg
+
+	 Discount : 50%off
+	 Product Name : Who Will Cry When You Die?
+	 Image_Url : http://ecx.images-amazon.com/images/I/51LWolxDRDL._AC_SY220_.jpg

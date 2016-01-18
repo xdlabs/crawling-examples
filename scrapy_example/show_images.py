@@ -4,12 +4,16 @@ import requests
 db = "scrapy_data"
 collection = "data"
 
+
 client = pymongo.MongoClient()
 db = client[db]
 
+
 data = db[collection].find({"image_urls": {"$exists": "true"}})
 
+
 f = open("new_data.txt", 'a')
+
 
 for documents in data.limit(10):
     print "\n"
@@ -21,5 +25,6 @@ for documents in data.limit(10):
     print "\t image_urls : ", documents["image_urls"]
     f.write("\n\t Image_Url : "+documents["image_urls"])
     f.write("\n\t"+requests.get(documents["image_urls"]).content)
+
 
 f.close()
