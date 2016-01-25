@@ -1,0 +1,55 @@
+<html>
+<head>
+    <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+ <style>
+.hea
+     {
+         position:fixed;margin-top:5%;margin-left:40%;color:red;font-size:3em;
+     }
+.te
+     {
+         height:5%;width:50%;position:fixed;margin-top:10%;margin-left:24%;
+     }
+.list
+     {
+         height:5%;position:fixed;margin-top:20%;margin-left:24%;
+     }
+
+     .bt
+     {
+         position:fixed;margin-top:15%;margin-left:45%;display:block;padding:10px;background: silver;text-decoration: none;font-size: 20px;
+     }
+    
+</style>   
+    
+</head>
+
+<body>
+<h3 class="hea">Search here</h3>
+<input type="text" class="te" name="var" value="" id="val">
+    <!--<a href="" style="text-decoration:none">-->
+    <span class="bt" onclick="fun()">search</span><!--</a>-->
+    <div class="list"><ul id="data"></ul></div>
+
+</body>
+
+<script>
+function fun()
+{
+    var val = document.getElementById('val').value;
+    alert(val);
+    filename = "http://192.168.0.4:5000/getdata?var=";
+    $.ajax({
+        url: filename+val,
+        success: function(data){
+            for(var i=0;i<data.result.length;i++)
+            {
+              $("#data").append("<li>"+i);
+              $("#data").append("<ul><li>"+data.result[i].name+"</li><li>"+data.result[i].discount+"</li><li>"+data.result[i].link+"</li></ul>");
+              $("#data").append("</li>");
+            }
+        }
+    })
+}
+</script>
+</html>
