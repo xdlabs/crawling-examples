@@ -70,8 +70,9 @@ LOG_LEVEL = 'INFO'
 
 ITEM_PIPELINES = ['scrapy_example.pipelines.ScrapyExamplePipeline', 'scrapy_example.pipelines.MongoDBPipeline', 'scrapy_example.pipelines.MyImagesPipeline']
 
-MONGODB_SERVER = 'localhost'
-MONGODB_PORT = 9200
+MONGODB_SERVER = '172.31.36.253'
+#MONGODB_SERVER = 'localhost'
+#MONGODB_PORT = 27019
 MONGODB_DB = 'scrapy_data'
 MONGODB_COLLECTION = 'data'
 
