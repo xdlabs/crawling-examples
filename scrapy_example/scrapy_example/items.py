@@ -22,3 +22,7 @@ class ImagesItem(scrapy.Item):
     name = scrapy.Field()
     image_urls = scrapy.Field()
     discount = scrapy.Field()
+
+
+class AmazonItem(scrapy.Item):
+    item_name = scrapy.Field()
