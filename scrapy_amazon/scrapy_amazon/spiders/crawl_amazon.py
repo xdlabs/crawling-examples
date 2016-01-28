@@ -11,10 +11,24 @@ class AmazonSpider(scrapy.Spider):
     def parse(self, response):
         html = response.body
         soup = BeautifulSoup(html, 'html.parser')
-        for a in soup.find_all('a', {"class": "a-link-normal  a-inline-block"}):
-            new_url = response.urljoin(a['href'])
-            yield scrapy.Request(new_url, callback=self.parse_content)
+        #for a in soup.find_all('a', {"class": "a-link-normal  a-inline-block"}):
+        #    new_url = response.urljoin(a['href'])
+        #    yield scrapy.Request(new_url, callback=self.parse_content)
 
+        i = 1
+        for div in soup.find_all("div", {"class": "desktop-row gw-widget-instrument"}):
+            for div1 in div.find_all("div", {"class": "a-section a-spacing-none shogun-widget uber-widget aui-desktop fresh-shoveler"}):
+                for div2 in div1.find_all("div", {"class": "a-section feed-carousel"}):
+                    for div3 in div2.find_all("div", {"class": "a-section feed-carousel-viewport"}):
+                        for ul in div3.find_all("ul", {"class": "a-nostyle a-horizontal feed-carousel-shelf"}):
+                            for li in ul.find_all("li", {"class": "feed-carousel-card"}):
+                                for span in li.find_all("span", {"class": "a-list-item"}):
+                                    for a in span.find_all("a", {"class": "a-link-normal  a-inline-block"}):
+                                        url = response.urljoin(a['href'])
+                                        print i, " : ", url
+                                        i = i+1
+
+    '''
     def parse_content(self, response):
         new_html = response.body
         new_soup = BeautifulSoup(new_html, 'html.parser')
@@ -58,3 +72,4 @@ class AmazonSpider(scrapy.Spider):
                                     for a in div.find_all("a", {"class": "a-link-normal"}):
                                         url = response.urljoin(a['href'])
                                         yield scrapy.Request(url, callback=self.parse_content)
+    '''
