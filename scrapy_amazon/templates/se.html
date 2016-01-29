@@ -1,0 +1,93 @@
+
+
+<!DOCTYPE html>
+<html>
+<head>
+	 <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<title>Search Box Example 1</title>
+<meta name="ROBOTS" content="NOINDEX, NOFOLLOW" />
+<!-- CSS styles for standard search box -->
+<style type="text/css">
+	#tfheader{
+		background-color:#c3dfef;
+	}
+	#tfnewsearch{
+		float:left;
+		padding:20px;
+	}
+	.tftextinput{
+		margin: 0;
+		padding: 5px 15px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size:14px;
+		border:1px solid #0076a3; border-right:0px;
+		border-top-left-radius: 5px 5px;
+		border-bottom-left-radius: 5px 5px;
+	}
+	.tfbutton {
+		margin: 0;
+		padding: 5px 15px;
+		font-family: Arial, Helvetica, sans-serif;
+		font-size:14px;
+		outline: none;
+		cursor: pointer;
+		text-align: center;
+		text-decoration: none;
+		color: #ffffff;
+		border: solid 1px #0076a3; border-right:0px;
+		background: #0095cd;
+		background: -webkit-gradient(linear, left top, left bottom, from(#00adee), to(#0078a5));
+		background: -moz-linear-gradient(top,  #00adee,  #0078a5);
+		border-top-right-radius: 5px 5px;
+		border-bottom-right-radius: 5px 5px;
+	}
+	.tfbutton:hover {
+		text-decoration: none;
+		background: #007ead;
+		background: -webkit-gradient(linear, left top, left bottom, from(#0095cc), to(#00678e));
+		background: -moz-linear-gradient(top,  #0095cc,  #00678e);
+	}
+	/* Fixes submit button height problem in Firefox */
+	.tfbutton::-moz-focus-inner {
+	  border: 0;
+	}
+	.tfclear{
+		clear:both;
+	}
+</style>
+</head>
+<body>
+	<!-- HTML for SEARCH BAR -->
+	<div id="tfheader">
+		<form id="tfnewsearch">
+		        <input type="text" class="tftextinput" name="q" size="80" maxlength="120" id="val" onkeypress="callfn()"><input type="button" value="search" class="tfbutton" onclick="callfn()">
+		</form>
+	<div class="tfclear"></div>
+		<div id="data"></div>
+	</div>
+</body>
+
+<script>
+
+
+function callfn()
+{
+	var v1 = document.getElementById("val").value;
+	filename = "http://52.24.91.91:5001/search?val=";
+	$.ajax({
+		url: filename+v1,
+		success: function(data){
+			var htm = '';
+            for(var i=0;i<data.result.length;i++)
+            {
+                htm += "<span style='font-size:1.0em;color:blue'>Name :  "+data.result[i].name+"</span><br><span style='font-size:0.7em;color:green'>Category :  "+data.result[i].category+"</span><br><br>";
+            }
+            $("#data").html(htm);
+
+		}
+	})
+}
+</script>
+</html>
+
+

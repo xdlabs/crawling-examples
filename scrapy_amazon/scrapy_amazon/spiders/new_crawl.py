@@ -30,19 +30,27 @@ class NewSpider(scrapy.Spider):
         item = ScrapyAmazonItem()
 
         for name in soup_data.find_all("span", {"id": "productTitle"}):
+            print "\n name : ", name.text
             item["name"] = name.text
 
         for price in soup_data.find_all("span", {"id": "priceblock_ourprice"}):
             if price.text:
-                item["price"] = price.text
+                item["price"] = ' '.join(price.text.split())
 
         for rate in soup_data.find_all("span", {"class": "a-size-base a-color-price s-price a-text-bold"}):
             if rate.text:
-                item["price"] = rate.text
+                item["price"] = ' '.join(rate.text.split())
 
         for reviews in soup_data.find_all("span", {"id": "acrCustomerReviewText"}):
             item["reviews"] = reviews.text
 
-        stars = soup_data.find("span", {"class": "a-icon-alt"})
-        item["stars"] = stars.text
-        yield item
+        for div in soup_data.find_all("div", {"id": "avgRating"}):
+            span = div.find("span")
+            item["stars"] = ' '.join(span.text.split())
+
+        for div in soup_data.find_all("div", {"id": "nav-subnav"}):
+            a = div.find("a", {"class": "nav-a nav-b"})
+            span = a.find("span", {"class": "nav-a-content"})
+            category = span.text
+            item["category"] = category
+            yield item

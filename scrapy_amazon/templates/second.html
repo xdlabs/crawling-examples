@@ -1,0 +1,93 @@
+<html>
+<head>
+        <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+
+ <style>
+.hea
+     {
+         position:fixed;top:25%;left:40%;color:red;font-size:3em;
+     }
+.te
+     {
+         height:5%;width:30%;position:fixed;margin-top:1%;margin-left:10%;
+     }
+.ab
+     {
+         position:fixed;margin-top:4%;margin-left:27%;
+     }
+     .bt
+     {
+         position:fixed;margin-top:1%;margin-left:40%;display:block;padding:6px;background: blue;text-decoration: none;font-size: 20px;color:white;
+     }
+    
+</style>   
+    
+</head>
+
+<body style="margin:0%" onload="getlist()">
+<div style="width:100%;height:10%;background-color:silver;margin:0%">
+<input type="text" class="te" name="var" id="val">
+    <!--<a href='#'>-->
+    <span class="bt" onclick="return fun()">search</span><!--</a>--></div>
+    <div style="margin-left:10%;margin-top:2%" id="data">
+    <!--<span style="font-size:1.7em;color:blue">First text</span><br>
+    <span style="font-size:1.2em;color:green">First text</span><br>
+    <span style="font-size:1.2em;color:black">First text</span><br>
+        
+    <span style="font-size:1.7em;color:blue">Second text</span><br>
+    <span style="font-size:1.2em;color:green">second text</span><br>
+    <span style="font-size:1.2em;color:black">second text</span><br>
+        -->
+    </div>
+</body>
+<script>
+    $("#val").keypress(function(event) {
+    if (event.which == 13) {
+     fun();
+    }
+});
+
+function fun()
+{
+    var val = document.getElementById('val').value;
+    filename = "http://127.0.0.1:5000/getdata?var=";
+    $.ajax({
+        url: filename+val,
+        success: function(data){
+            var htm = '';
+            for(var i=0;i<data.result.length;i++)
+            {
+                htm += "<span style='font-size:1.3em;color:blue'>"+data.result[i].name+"</span><br><span style='font-size:1.2em;color:green'>"+data.result[i].discount+"</span><br><span style='font-size:1.2em;color:black'>"+data.result[i].link+"</span><br><br>";
+            }
+            $("#data").html(htm);
+        }
+    })
+}
+
+function getlist()
+{
+    filename = "http://127.0.0.1:5000/getlist";
+    $.ajax({
+        url: filename,
+        success: function(data){
+            var ht = '';
+            for(var i=0;i<data.result.length;i++)
+            {
+                ht += "<span style='font-size:1.3em;color:blue'>"+data.result[i].name+"</span><br><span style='font-size:1.2em;color:green'>"+data.result[i].discount+"</span><br><span style='font-size:1.2em;color:black'>"+data.result[i].link+"</span><br><br>";
+            }
+            $("#data").html(ht);
+        }
+    })
+}
+
+var val = $("#val").value;
+highLight(document.body, val);
+
+function highLight(root, word)
+{
+
+}
+
+</script>
+
+</html>
