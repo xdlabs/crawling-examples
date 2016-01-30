@@ -57,11 +57,14 @@
 </style>
 </head>
 <body>
+
 	<!-- HTML for SEARCH BAR -->
 	<div id="tfheader">
-		<form id="tfnewsearch">
-		        <input type="text" class="tftextinput" name="q" size="80" maxlength="120" id="val" onkeypress="callfn()"><input type="button" value="search" class="tfbutton" onclick="callfn()">
-		</form>
+		<div id="tfnewsearch">
+
+				<input type="text" class="tftextinput" name="q" size="80" maxlength="120" id="val">
+				<input type="button" value="search" class="tfbutton" onclick="callfn()">
+		</div>
 	<div class="tfclear"></div>
 		<div id="data"></div>
 	</div>
@@ -69,18 +72,24 @@
 
 <script>
 
+	$("#val").keyup(function(event){
+	if(event.keyCode == 13){
+		callfn();
+    }
+});
+
 
 function callfn()
 {
 	var v1 = document.getElementById("val").value;
-	filename = "http://52.24.91.91:5001/search?val=";
+	filename = "http://127.0.0.1:5001/search?val=";
 	$.ajax({
 		url: filename+v1,
 		success: function(data){
 			var htm = '';
             for(var i=0;i<data.result.length;i++)
             {
-                htm += "<span style='font-size:1.0em;color:blue'>Name :  "+data.result[i].name+"</span><br><span style='font-size:0.7em;color:green'>Category :  "+data.result[i].category+"</span><br><br>";
+                htm += "<span style='font-size:1.0em;color:blue'>Product :  <a href="+data.result[i].url+">"+data.result[i].name+"</a></span></a><br><span style='font-size:0.7em;color:green'>Category :  "+data.result[i].category+"</span><br><span style='font-size:0.7em;color:green'>"+data.result[i].price+"</span><br><span style='font-size:0.7em;color:green'>"+data.result[i].reviews+"</span><br><span style='font-size:0.7em;color:green'>"+data.result[i].stars+"</span><br><br>";
             }
             $("#data").html(htm);
 

@@ -12,12 +12,13 @@ from scrapy.conf import settings
 class ScrapyAmazonPipeline(object):
 
     def __init__(self):
-        self.server = settings["MONGODB_SERVER"]
+        #self.server = settings["MONGODB_SERVER"]
         self.db = settings["MONGODB_DB"]
         self.collection = settings["MONGODB_COLLECTION"]
 
     def open_spider(self, spider):
-        self.client = pymongo.MongoClient(self.server)
+        self.client = pymongo.MongoClient()
+        #self.client = pymongo.MongoClient(self.server)
         self.db = self.client[self.db]
 
     def close_spider(self, spider):

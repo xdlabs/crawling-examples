@@ -29,13 +29,18 @@ class NewSpider(scrapy.Spider):
         soup_data = BeautifulSoup(data, 'html.parser')
         item = ScrapyAmazonItem()
 
-        for name in soup_data.find_all("span", {"id": "productTitle"}):
-            print "\n name : ", name.text
-            item["name"] = name.text
+        item["url"] = response.url
+        for h1 in soup_data.find_all("h1", {"id": "title"}):
+            for name in soup_data.find_all("span", {"id": "productTitle"}):
+                print "\n name : ", name.text
+                item["name"] = name.text
 
         for price in soup_data.find_all("span", {"id": "priceblock_ourprice"}):
             if price.text:
                 item["price"] = ' '.join(price.text.split())
+
+        for sp in soup_data.find_all("span", {"id": "priceblock_saleprice"}):
+            item["price"] = ' '.join(sp.text.split())
 
         for rate in soup_data.find_all("span", {"class": "a-size-base a-color-price s-price a-text-bold"}):
             if rate.text:
@@ -48,9 +53,14 @@ class NewSpider(scrapy.Spider):
             span = div.find("span")
             item["stars"] = ' '.join(span.text.split())
 
+        for span in soup_data.find_all("span", {"class": "a-color-base"}):
+            for span1 in span.find_all("span", {"class": "a-color-price"}):
+                item["price"] = ' '.join(span1.text.split())
+
         for div in soup_data.find_all("div", {"id": "nav-subnav"}):
             a = div.find("a", {"class": "nav-a nav-b"})
             span = a.find("span", {"class": "nav-a-content"})
             category = span.text
+            print "category : ", category
             item["category"] = category
             yield item

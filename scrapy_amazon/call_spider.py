@@ -19,35 +19,35 @@ def search():
         print "value : ", val
         db = "amazon_data"
         collection = "data"
-        client = pymongo.MongoClient('172.31.36.253')
+        client = pymongo.MongoClient()
+        #client = pymongo.MongoClient('172.31.36.253')
         db = client[db]
         list = []
         reg = "%s.*" % val
         print "reg : ", reg
-        docs = db[collection].find({"$or": [{"name": {"$regex": reg, "$options": "i"}}, {"category": {"$regex": reg, "$options": "i"}}]})
-        print "docs : ", docs
+        docs = db[collection].find({"$and": [{"name": {"$exists": "true"}}, {"category": {"$exists": "true"}}, {"url": {"$exists": "true"}}, {"$or": [{"name": {"$regex": reg, "$options": "i"}}, {"category": {"$regex": reg, "$options": "i"}}]}]})
         for doc in docs:
             dic = dict()
-            if "name" in doc:
-                print "name : ", doc["name"]
-                dic["name"] = doc["name"]
-            if "category" in doc:
-                print "category : ", doc["category"]
-                dic["category"] = doc["category"]
+            dic["name"] = doc["name"]
+            dic["category"] = doc["category"]
+            dic["url"] = doc["url"]
             if "reviews" in doc:
-                print "reviews : ", doc["reviews"]
                 dic["reviews"] = doc["reviews"]
+            else:
+                dic["reviews"] = ''
             if "stars" in doc:
-                print "stars : ", doc["stars"]
                 dic["stars"] = doc["stars"]
+            else:
+                dic["stars"] = ''
             if "price" in doc:
-                print "price : ", doc["price"]
                 dic["price"] = doc["price"]
-            print "dic : ", dic
+            else:
+                dic["price"] = ''
             list.append(dic)
         print "list : ", list
         return jsonify(result=list)
 
 
 if __name__ == "__main__":
-    app.run(host="172.31.36.253", port=5001)
+    app.run(port=5001)
+    #app.run(host="172.31.36.253", port=5001)

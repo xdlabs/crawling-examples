@@ -14,4 +14,5 @@ class ScrapyAmazonItem(scrapy.Item):
     stars = scrapy.Field()
     reviews = scrapy.Field()
     category = scrapy.Field()
+    url = scrapy.Field()
 

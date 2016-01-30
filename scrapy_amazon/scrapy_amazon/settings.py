@@ -64,7 +64,7 @@ NEWSPIDER_MODULE = 'scrapy_amazon.spiders'
 
 ITEM_PIPELINES = ["scrapy_amazon.pipelines.ScrapyAmazonPipeline"]
 
-MONGODB_SERVER = '172.31.36.253'
+#MONGODB_SERVER = '172.31.36.253'
 
 MONGODB_DB = "amazon_data"
 
