@@ -4,8 +4,46 @@ import json
 import re
 import math
 import os
+from celery import Celery
+from scrapy import settings
+from scrapy_amazon.spiders.new_crawl import NewSpider
+from scrapy.settings import Settings
+from scrapy.crawler import Crawler
+from scrapy import signals
+from twisted.internet import reactor
+
 
 app = Flask(__name__)
+#app.config.update(CELERY_BROKER_URL="mongodb://localhost:27017", CELERY_RESULT_BACKEND="mongodb://localhost:27017")
+
+app.config["CELERY_BROKER_URL"] = "mongodb://localhost:27017"
+app.config["CELERY_RESULT_BACKEND"] = "mongodb://localhost:27017"
+
+celery = Celery(app.name, broker=app.config["CELERY_BROKER_URL"], backend=app.config["CELERY_RESULT_BACKEND"])
+celery.conf.update(app.config)
+
+
+def spider_closing():
+    return "Spider is closed"
+
+
+@celery.task
+def crawl():
+    settings = Settings()
+    spider = NewSpider()
+    crawler = Crawler(settings)
+    crawler.signals.connect(spider_closing, signal=signals.spider_closed)
+    crawler.crawl(spider)
+    crawler.start()
+    reactor.run()
+
+
+@app.route('/crawl', methods=['GET', 'POST'])
+def crawl_spider():
+    if request.method == "GET":
+        result = crawl.delay()
+        print "result.wait : ", result.wait
+        return "done"
 
 
 @app.route('/', methods=['GET', 'POST'])
@@ -66,9 +104,9 @@ def search():
                     img = "starfive.png"
                 elif rating < 1.0 and rating > 0:
                     img = "starhalf.png"
-                elif rating <2.0 and rating >1.0:
+                elif rating < 2.0 and rating > 1.0:
                     img = "staronehalf.png"
-                elif rating <3.0 and rating >2.0:
+                elif rating < 3.0 and rating > 2.0:
                     img = "startwohalf.png"
                 elif rating < 4.0 and rating > 3.0:
                     img = "starthreehalf.png"
