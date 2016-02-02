@@ -40,13 +40,21 @@ class NewSpider(scrapy.Spider):
                 item["price"] = ' '.join(price.text.split())
 
         for sp in soup_data.find_all("span", {"id": "priceblock_saleprice"}):
-            item["price"] = ' '.join(sp.text.split())
+            if sp.text:
+                item["price"] = ' '.join(sp.text.split())
 
         for rate in soup_data.find_all("span", {"class": "a-size-base a-color-price s-price a-text-bold"}):
             if rate.text:
                 item["price"] = ' '.join(rate.text.split())
 
-        for reviews in soup_data.find_all("span", {"id": "acrCustomerReviewText"}):
+        for pr in soup_data.find_all("span", {"class": "a-color-price"}):
+            if pr.text:
+                item["price"] = ' '.join(pr.text.split())
+
+        for a in soup_data.find_all("a", {"id": "acrCustomerReviewLink"}):
+            link = response.urljoin(a['href'])
+            item["review_link"] = link
+            reviews = a.find("span", {"id": "acrCustomerReviewText"})
             item["reviews"] = reviews.text
 
         for div in soup_data.find_all("div", {"id": "avgRating"}):

@@ -63,34 +63,48 @@
 		<div id="tfnewsearch">
 
 				<input type="text" class="tftextinput" name="q" size="80" maxlength="120" id="val">
-				<input type="button" value="search" class="tfbutton" onclick="callfn()">
+				<input type="button" value="search" class="tfbutton" onclick="callfn('1')">
 		</div>
 	<div class="tfclear"></div>
-		<div id="data"></div>
 	</div>
+	<div id="data"></div>
+	<div id="pages"></div>
+
 </body>
 
 <script>
 
 	$("#val").keyup(function(event){
 	if(event.keyCode == 13){
-		callfn();
+		callfn('1');
+		var v1 = document.getElementById("val").value;
+		filename = "http://127.0.0.1:5001/pages?val=";
+		$.ajax({
+			url: filename+v1,
+			success: function(data){
+				html_data = '&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;';
+				for (var i=1;i<=data.count;i++){
+					html_data += "<button style='display:inline-block; color: blue; width: 30px; cursor: pointer;' onclick='callfn("+i+")'><u>"+i+"</u></button>";
+				}
+				html_data += "</center>";
+				$("#pages").html(html_data);
+			}
+		})
     }
 });
 
-
-function callfn()
+function callfn(index)
 {
 	var v1 = document.getElementById("val").value;
 	filename = "http://127.0.0.1:5001/search?val=";
 	$.ajax({
-		url: filename+v1,
+		url: filename+v1+"&index="+index,
 		success: function(data){
-			var htm = '';
+			var htm = "<br>";
             for(var i=0;i<data.result.length;i++)
             {
-                htm += "<span style='font-size:1.0em;color:blue'>Product :  <a href="+data.result[i].url+">"+data.result[i].name+"</a></span></a><br><span style='font-size:0.7em;color:green'>Category :  "+data.result[i].category+"</span><br><span style='font-size:0.7em;color:green'>"+data.result[i].price+"</span><br><span style='font-size:0.7em;color:green'>"+data.result[i].reviews+"</span><br><span style='font-size:0.7em;color:green'>"+data.result[i].stars+"</span><br><br>";
-            }
+                htm += "<div id='product'><span style='font-size:1.0em;color:blue'><a href="+data.result[i].url+">"+data.result[i].name+"</a></span><br><span style='font-size:0.7em;color:green'>"+data.result[i].url+"</span><br><span style='font-size:0.7em;color:green'>Category :  "+data.result[i].category+"</span><br><span style='font-size:0.7em;color:green'>"+data.result[i].price+"</span><br><span style='font-size:0.7em;color:green'><a href="+data.result[i].review_link+">"+data.result[i].reviews+"</a></span><br><span style='font-size:0.7em;color:green'><img src="+data.result[i].image+">"+data.result[i].stars+"</span></div><br><br>";
+ 			}
             $("#data").html(htm);
 
 		}
