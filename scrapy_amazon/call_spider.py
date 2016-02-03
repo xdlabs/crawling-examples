@@ -14,7 +14,6 @@ from twisted.internet import reactor
 
 
 app = Flask(__name__)
-#app.config.update(CELERY_BROKER_URL="mongodb://localhost:27017", CELERY_RESULT_BACKEND="mongodb://localhost:27017")
 
 app.config["CELERY_BROKER_URL"] = "mongodb://localhost:27017"
 app.config["CELERY_RESULT_BACKEND"] = "mongodb://localhost:27017"
