@@ -35,15 +35,16 @@ def crawl():
     crawler.signals.connect(spider_closing, signal=signals.spider_closed)
     crawler.crawl(spider)
     crawler.start()
+    print "The processing is started ..."
     reactor.run()
 
 
-@app.route('/crawl', methods=['GET', 'POST'])
+@app.route('/start_crawl', methods=['GET', 'POST'])
 def crawl_spider():
     if request.method == "GET":
         result = crawl.delay()
-        print "result.wait : ", result.wait
-        return "done"
+        print "result.ready() : ", result.ready()
+        return "the crawling is started ... "
 
 
 @app.route('/', methods=['GET', 'POST'])
